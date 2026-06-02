@@ -1,4 +1,4 @@
-name: Bot
+name: GAMYAM Daily Current Affairs Bot
 
 on:
   workflow_dispatch:
