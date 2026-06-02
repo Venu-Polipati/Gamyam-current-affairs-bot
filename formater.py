@@ -26,6 +26,11 @@ Formatting Rules:
 * Leave one blank line after every heading.
 * Leave one blank line between sections.
 * Use ONLY the format shown below.
+* Avoid creating multiple topics from the same event.
+* Merge closely related economic developments into a single topic.
+* Maximum one topic per major event.
+* Avoid routine cabinet formation, party meetings, political appointments and internal political developments unless they have constitutional significance.
+
 
 Format:
 
