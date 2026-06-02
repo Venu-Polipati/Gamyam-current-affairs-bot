@@ -31,3 +31,5 @@ jobs:
       - name: Run GAMYAM
         run: |
           python auto_post.py
+
+          
