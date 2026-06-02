@@ -1,6 +1,6 @@
 import asyncio
-from image_generator import create_image
-from telegram_sender import send_photo
+#from image_generator import create_image
+#from telegram_sender import send_photo
 from rss_reader import get_latest_news
 from filter import is_relevant
 from formater import format_news
