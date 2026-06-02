@@ -1,4 +1,6 @@
 import asyncio
+# from image_generator import create_image
+# from telegram_sender import send_photo
 from rss_reader import get_latest_news
 from filter import is_relevant
 from formater import format_news
@@ -34,7 +36,7 @@ if len(relevant_news) == 0:
     exit()
 
 combined_news = "\n".join(
-    [f"{i+1}. {news}" for i, news in enumerate(relevant_news[:8])]
+    [f"{i+1}. {news}" for i, news in enumerate(relevant_news[:15])]
 )
 
 print("Sending to Gemini...")

@@ -64,7 +64,7 @@ KEYWORDS = [
 "Ayushman",
 "Health Mission",
 "ICMR",
-"Vaccine"
+"Vaccine",
 
 # Andhra Pradesh
 
@@ -101,5 +101,76 @@ KEYWORDS = [
 "Godavari River",
 "Rayalaseema",
 "North Andhra",
+"Coastal Andhra",
+
+# AP Governance
+
+"APPSC",
+"Group 1",
+"Group 2",
+"Group 3",
+"Group 4",
+
+"Andhra Pradesh Cabinet",
+"AP Government",
+"AP High Court",
+
+# AP Projects
+
+"Polavaram",
+"Amaravati Capital",
+"Visakhapatnam Port",
+"Bhogapuram Airport",
+
+# AP Schemes
+
+"Nadu Nedu",
+"Ammavodi",
+"YSR Cheyutha",
+"YSR Rythu Bharosa",
+"Anna Canteen",
+
+# AP Institutions
+
+"APCRDA",
+"APSRTC",
+"APGENCO",
+"APTRANSCO",
+"APFSL",
+
+# AP Regions
+
+"Rayalaseema",
+"North Andhra",
 "Coastal Andhra"
+]
+
+
+EXCLUDE_KEYWORDS = [
+
+    "Samsung",
+    "iPhone",
+    "Android",
+    "Galaxy",
+    "Vivo",
+    "iQoo",
+    "OnePlus",
+    "Smartphone",
+    "Laptop",
+    "Guinness",
+    "JPG",
+    "PDF",
+    "Hasan",
+    "Twitch",
+    "YouTube",
+    "Drone Ascent",
+    "Aarti",
+    "Tube Strike",
+    "Gemstone",
+    "Roman gold mine",
+    "Paper Cup",
+    "Alligator",
+    "Jobseeker",
+    "Celebrity",
+    "Influencer",
 ]
