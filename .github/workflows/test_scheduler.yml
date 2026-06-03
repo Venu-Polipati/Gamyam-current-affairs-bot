@@ -1,0 +1,17 @@
+name: TEST Scheduler
+
+'on':
+  workflow_dispatch:
+
+  schedule:
+    - cron: '*/6 * * * *'
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Print Time
+        run: |
+          echo "Scheduler Working"
+          date
