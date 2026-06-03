@@ -1,2 +1,2 @@
 # Gamyam-current-affairs-bot
-Current affairs news fetching automation project
+Current affairs news fetching automation project.
