@@ -3,7 +3,7 @@ name: GAMYAM Daily Current Affairs Bot
 on:
   workflow_dispatch:
   schedule:
-    - cron: '*/5 * * * *'
+    - cron: '30 0 * * *'
 
 jobs:
   run-bot:
