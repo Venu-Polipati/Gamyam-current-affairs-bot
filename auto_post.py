@@ -47,16 +47,24 @@ formatted_news = (
     + formatted_news
 )
 
-# image_path = create_image(
-#     relevant_news[:8]
-# )
+formatted_news += """
 
-# asyncio.run(
-#     send_photo(
-#         image_path,
-#         "📅 GAMYAM Daily Current Affairs"
-#     )
-# )
+━━━━━━━━━━━━━━━
+
+🚀 GAMYAM Learning Community
+
+📚 Daily Current Affairs
+📝 Exam-Oriented MCQs
+🎯 APPSC & UPSC Preparation
+
+📲 Telegram:
+https://t.me/+6RcvqflPv0Y0ZGM1
+
+📲 WhatsApp:
+https://whatsapp.com/channel/0029VbDE17w0gcfGXEqiRT1W
+
+━━━━━━━━━━━━━━━
+"""
 
 asyncio.run(
     send_message(formatted_news)
