@@ -1,10 +1,10 @@
-name: Daily MCQs
+name: GAMYAM MCQs
 
 on:
   workflow_dispatch:
 
 jobs:
-  mcq:
+  run-mcq:
     runs-on: ubuntu-latest
 
     env:
@@ -17,7 +17,7 @@ jobs:
 
       - uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
+          python-version: "3.11"
 
       - run: pip install -r requirements.txt
 
