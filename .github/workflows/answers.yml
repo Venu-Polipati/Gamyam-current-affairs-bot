@@ -1,4 +1,4 @@
-name: Daily MCQs
+name: Daily MCQs_ANS
 
 on:
   workflow_dispatch:
