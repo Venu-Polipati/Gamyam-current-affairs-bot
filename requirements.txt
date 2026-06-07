@@ -2,3 +2,4 @@ openai
 python-telegram-bot
 feedparser
 requests
+google-generativeai
