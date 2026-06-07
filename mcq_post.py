@@ -3,7 +3,7 @@ from telegram_sender import send_message
 from fact_extractor import extract_facts
 from mcq_generator import generate_mcqs
 
-filename = "current_affairs_2026_06_06.txt"
+filename = "current_affairs.txt"
 
 with open(
     filename,
