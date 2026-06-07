@@ -2,14 +2,14 @@ name: GAMYAM Daily Current Affairs Bot
 
 on:
   workflow_dispatch:
-  
+
 jobs:
   run-bot:
     runs-on: ubuntu-latest
 
     env:
-      OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
       BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
+      CHANNEL_ID: ${{ secrets.CHANNEL_ID }}
       GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
 
     steps:
@@ -28,5 +28,3 @@ jobs:
       - name: Run GAMYAM
         run: |
           python auto_post.py
-
-          
