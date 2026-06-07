@@ -1,10 +1,9 @@
-from openai import OpenAI
-from config import OPENROUTER_API_KEY
+import google.generativeai as genai
+from config import GEMINI_API_KEY
 
-client = OpenAI(
-    base_url="https://openrouter.ai/api/v1",
-    api_key=OPENROUTER_API_KEY,
-)
+genai.configure(api_key=GEMINI_API_KEY)
+
+model = genai.GenerativeModel("gemini-2.5-flash")
 
 def format_news(news):
 
@@ -221,20 +220,14 @@ News:
 """
 
 
-    response = client.chat.completions.create(
-        model="deepseek/deepseek-chat",
-        messages=[
-            {
-                "role": "user",
-                "content": prompt
-            }
-        ]
-    )
-    formatted = response.choices[0].message.content
+    response = model.generate_content(prompt)
 
-    formatted = formatted.replace(
-        "Here are the UPSC/APPSC Current Affairs Notes based on the provided news:\n\n",
-        ""
-    )
-    return response.choices[0].message.content
+    print(response)
+
+    try:
+        formatted = response.text
+    except Exception as e:
+        print("Gemini Response Error:", e)
+        formatted = "⚠️ No formatted news generated."
+    return formatted
     

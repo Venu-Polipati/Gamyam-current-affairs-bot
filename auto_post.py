@@ -42,6 +42,8 @@ combined_news = "\n".join(
 print("Sending to Gemini...")
 print(combined_news)
 formatted_news = format_news(combined_news)
+print("TYPE:", type(formatted_news))
+print("VALUE:", formatted_news)
 formatted_news = (
     f"📖 GAMYAM Daily Current Affairs | {today}\n\n"
     + formatted_news
@@ -65,6 +67,17 @@ https://whatsapp.com/channel/0029VbDE17w0gcfGXEqiRT1W
 
 ━━━━━━━━━━━━━━━
 """
+
+filename = f"current_affairs_{datetime.now().strftime('%Y_%m_%d')}.txt"
+
+with open(
+    filename,
+    "w",
+    encoding="utf-8"
+) as f:
+    f.write(formatted_news)
+
+print(f"Saved: {filename}")
 
 asyncio.run(
     send_message(formatted_news)
