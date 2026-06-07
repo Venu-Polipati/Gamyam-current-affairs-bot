@@ -1,23 +1,22 @@
-name: Daily MCQs_ANS
+name: GAMYAM Answers
 
 on:
   workflow_dispatch:
 
 jobs:
-  mcq:
+  run-answers:
     runs-on: ubuntu-latest
 
     env:
       BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
       CHANNEL_ID: ${{ secrets.CHANNEL_ID }}
-      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
 
     steps:
       - uses: actions/checkout@v4
 
       - uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
+          python-version: "3.11"
 
       - run: pip install -r requirements.txt
 
