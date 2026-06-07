@@ -67,8 +67,6 @@ Current Affairs:
 
 {current_affairs}
 """
-    print("Prompt Length:", len(prompt))
-    print(prompt[:500])
 
     response = model.generate_content(prompt)
 
