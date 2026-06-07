@@ -68,7 +68,7 @@ https://whatsapp.com/channel/0029VbDE17w0gcfGXEqiRT1W
 ━━━━━━━━━━━━━━━
 """
 
-filename = f"current_affairs_{datetime.now().strftime('%Y_%m_%d')}.txt"
+filename = "current_affairs.txt"
 
 with open(
     filename,
