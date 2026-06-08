@@ -1,0 +1,134 @@
+━━━━━━━━━━━━━━━
+MCQs
+━━━━━━━━━━━━━━━
+
+**Q1. Consider the following statements regarding the implications of global oil market dynamics for India:**
+
+1.  An increase in global crude oil prices generally contributes to imported inflation in India, leading to a widening of the current account deficit.
+2.  India's strategic oil reserves are primarily aimed at ensuring long-term self-sufficiency rather than short-term price stability.
+3.  Decisions by cartels like OPEC+ on oil output directly influence the input costs for energy-intensive sectors such as aviation and transportation.
+4.  Sustained high crude oil prices typically prompt the Reserve Bank of India to consider measures for liquidity tightening to manage inflationary pressures.
+
+Which of the statements given above are correct?
+(a) 1, 3 and 4 only
+(b) 1, 2 and 3 only
+(c) 2 and 4 only
+(d) 1, 2, 3 and 4
+
+**Q2. With reference to borderland management and related initiatives, consider the following statements:**
+
+1.  The 'Strategic Resource Frontier' concept highlights borderlands primarily for their economic potential rather than national security implications.
+2.  Digital Land Port Management Systems are primarily designed to enhance the efficiency of cross-border trade and movement of goods.
+3.  The development of border area infrastructure is a key component of India's 'Act East Policy' to integrate with Southeast Asian economies.
+4.  Integrated Check Posts (ICPs) along India's land borders fall under the purview of the Ministry of External Affairs for their operational management.
+
+Which of the statements given above are correct?
+(a) 1 and 3 only
+(b) 2 and 3 only
+(c) 1, 2 and 4 only
+(d) 2, 3 and 4 only
+
+**Q3. Consider the following statements regarding private investment in the Indian economy:**
+
+1.  Private investment announcements are solely dependent on the availability of credit from the banking sector.
+2.  The Insolvency and Bankruptcy Code (IBC) has contributed to improving the investment climate by enhancing the ease of exit for businesses.
+3.  Higher private investment generally leads to increased job creation and contributes to the overall Gross Domestic Product (GDP) growth.
+4.  The projection of private investment figures, like those by SBI Research for FY26, reflects the realized investment, not merely announced intentions.
+
+Which of the statements given above are correct?
+(a) 1 and 4 only
+(b) 2 and 3 only
+(c) 1, 2 and 3 only
+(d) 2, 3 and 4 only
+
+**Q4. With reference to Sustainable Aviation Fuel (SAF), consider the following statements:**
+
+1.  SAF is produced from fossil fuels through advanced carbon capture and storage technologies.
+2.  The primary goal of adopting SAF is to reduce the aviation sector's carbon emissions and contribute to net-zero targets.
+3.  SAF can be blended with conventional jet fuel without requiring significant modifications to existing aircraft engines or airport infrastructure.
+4.  The International Air Transport Association (IATA) projects a substantial increase in SAF usage, reaching 50% of total aviation fuel by 2026.
+
+Which of the statements given above are correct?
+(a) 1 and 4 only
+(b) 2 and 3 only
+(c) 1, 2 and 3 only
+(d) 2, 3 and 4 only
+
+**Q5. Consider the following statements regarding ethical practices and regulatory oversight in the Indian healthcare sector:**
+
+1.  The increase in organ donation, especially from government hospitals, primarily reflects improved awareness campaigns among the general public.
+2.  Participation of doctors in pharmaceutical company-sponsored events, termed 'junkets,' is explicitly prohibited by regulations governing medical practitioners in India.
+3.  State Medical Councils are empowered to take disciplinary action against medical practitioners found violating ethical guidelines, including those related to pharmaceutical promotions.
+4.  The National Medical Commission (NMC) has the overarching responsibility to ensure transparency and accountability in the doctor-pharma industry interface.
+
+Which of the statements given above are correct?
+(a) 1 and 2 only
+(b) 2, 3 and 4 only
+(c) 3 and 4 only
+(d) 1, 2, 3 and 4
+
+**Q6. With reference to India's agricultural exports, consider the following statements:**
+
+1.  Phytosanitary certificates are mandatory for all agricultural product exports from India to ensure compliance with importing country standards.
+2.  Quality issues such as 'dark spots' in produce like Himsagar mangoes can lead to rejection of entire export shipments.
+3.  The Agricultural and Processed Food Products Export Development Authority (APEDA) is the sole government body responsible for promoting all agricultural exports from India.
+4.  Fluctuations in global demand, rather than domestic quality concerns, are the primary challenge for India's agricultural export competitiveness.
+
+Which of the statements given above are correct?
+(a) 1 and 2 only
+(b) 2 and 3 only
+(c) 1, 2 and 4 only
+(d) 1, 2, 3 and 4
+
+**Q7. Regarding the Insolvency and Bankruptcy Code (IBC) in India, consider the following statements:**
+
+1.  The IBC aims to resolve insolvency proceedings within a strict timeline to maximize asset value for creditors.
+2.  Before the implementation of IBC, India lacked any legal framework for corporate insolvency and bankruptcy.
+3.  The IBC applies to companies, Limited Liability Partnerships (LLPs), and individuals, providing a unified framework for insolvency resolution.
+4.  Resolution professionals under the IBC are public servants and are appointed directly by the National Company Law Tribunal (NCLT).
+
+Which of the statements given above are correct?
+(a) 1 and 3 only
+(b) 2 and 4 only
+(c) 1, 2 and 3 only
+(d) 1, 3 and 4 only
+
+**Q8. Consider the following statements regarding India's approach to economic growth and strategic autonomy:**
+
+1.  India's forecast of economic growth above 8% implies reduced susceptibility to global economic slowdowns, including those triggered by oil price volatility.
+2.  The concept of 'Strategic Resource Frontier' emphasizes developing border regions solely for military advantage.
+3.  Maintaining strategic autonomy in international relations often requires a diversified economic engagement strategy, reducing over-reliance on a single trading partner or energy source.
+4.  Investment in domestic manufacturing under initiatives like 'Make in India' primarily aims to reduce imports of high-tech defense equipment.
+
+Which of the statements given above are correct?
+(a) 1 and 2 only
+(b) 1 and 3 only
+(c) 2, 3 and 4 only
+(d) 1, 2, 3 and 4
+
+**Q9. With regard to international efforts for climate change mitigation in the aviation sector, consider the following statements:**
+
+1.  Sustainable Aviation Fuel (SAF) is considered a key lever for the aviation industry to achieve its net-zero emissions targets.
+2.  The International Civil Aviation Organization (ICAO) operates the Carbon Offsetting and Reduction Scheme for International Aviation (CORSIA), which is a mandatory offsetting scheme.
+3.  The IATA report, which highlights SAF use, is legally binding on all member states of the United Nations to adopt specific SAF blending mandates.
+4.  Carbon capture technologies for direct air capture are currently the most cost-effective and widely deployed method for producing SAF.
+
+Which of the statements given above are correct?
+(a) 1 and 2 only
+(b) 2 and 3 only
+(c) 1, 3 and 4 only
+(d) 1, 2, 3 and 4
+
+**Q10. Consider the following statements concerning accountability and ethical governance in professional fields:**
+
+1.  The principle of 'judicial review' allows courts to examine the legality of actions by statutory regulatory bodies, such as medical councils, in cases of alleged inaction.
+2.  Professional misconduct by doctors, as in the case of pharma junkets, falls primarily under the criminal jurisdiction of the Indian Penal Code.
+3.  A robust framework for professional ethics is essential not only for public trust but also for maintaining the integrity of professions critical to public welfare.
+4.  The medical councils' alleged inaction in addressing ethical violations would typically lead to their direct dissolution by the central government without prior inquiry.
+
+Which of the statements given above are correct?
+(a) 1 and 2 only
+(b) 1 and 3 only
+(c) 2, 3 and 4 only
+(d) 1, 2, 3 and 4
+
