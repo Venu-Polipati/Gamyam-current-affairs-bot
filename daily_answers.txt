@@ -1,41 +1,51 @@
 
 
-1. (a)
+1. (b)
 
-Reason: Statement 2 is incorrect. India's strategic oil reserves primarily aim to address short-term supply disruptions and price volatility, not to achieve long-term self-sufficiency given the country's high import dependence.
+Reason:
+Statement 1 is incorrect as the primary aim of the Zoji La Tunnel is strategic all-weather connectivity, not primarily tourism, though tourism is a beneficial outcome. Statement 2 is correct as projects in the Greater Himalayas face significant geological and climatic challenges. Statement 3 is correct as improved connectivity in border areas enhances national security and logistical support for defense forces.
 
-2. (b)
+2. (c)
 
-Reason: Statement 1 is incorrect. The 'Strategic Resource Frontier' concept explicitly links borderlands to national security implications, alongside their economic potential, not primarily one over the other. Statement 4 is incorrect. Integrated Check Posts (ICPs) are managed by the Land Ports Authority of India (LPAI) under the Ministry of Home Affairs, not the Ministry of External Affairs.
+Reason:
+Statement 1 is correct, as universal access to banking and basic banking services for unbanked households is a core objective of PMJDY. Statement 2 is incorrect; PMJDY accounts can be zero-balance but are crucially linked to DBT schemes. Statement 3 is correct, as the significant number of accounts indicates widespread financial inclusion. Statement 4 is incorrect; an overdraft facility is available but with certain eligibility criteria, not automatically without any criteria.
 
 3. (b)
 
-Reason: Statement 1 is incorrect. Private investment decisions are influenced by a multitude of factors including demand outlook, policy stability, regulatory environment, and not solely by credit availability. Statement 4 is incorrect. Projecting private investment figures refers to announced intentions and forecasts, which may not entirely translate into realized investments.
+Reason:
+Statement 1 is incorrect; Ayushman Bharat is a Centrally Sponsored Scheme, implying cost-sharing between the Union and State governments, not fully funded by the Union. Statement 2 is correct, as providing health cover for secondary and tertiary care to vulnerable families is a key component (PMJAY). Statement 3 is correct, as State Health Agencies are typically involved in the implementation and oversight of such schemes at the state level. Statement 4 is incorrect; while a significant state has joined, it does not imply that all states and UTs have complete participation, as some states have opted out or adopted different models.
 
-4. (b)
+4. (a)
 
-Reason: Statement 1 is incorrect. Sustainable Aviation Fuel (SAF) is produced from sustainable feedstocks like biomass, waste oils, or synthetic fuels from captured CO2, not directly from fossil fuels. Statement 4 is incorrect. The IATA report projects SAF use at 0.8% by 2026, not 50%.
+Reason:
+Statement 1 is correct; a current account surplus occurs when a country's total exports of goods, services, and remittances exceed its total imports and outward payments. Statement 2 is incorrect; strengthening services exports contributes to a current account *surplus*, not a deficit. Statement 3 is correct; a sustained current account surplus generally leads to increased demand for the domestic currency, causing it to appreciate. Statement 4 is incorrect; FDI and FPI flows are components of the Capital Account, not the Current Account.
 
-5. (b)
+5. (c)
 
-Reason: Statement 1 is incorrect. While increased awareness plays a role, the rise in organ donation also reflects improvements in healthcare infrastructure, coordination, and changes in societal attitudes, not solely due to awareness campaigns.
+Reason:
+Statement 1 is correct; generating revenue for social sector schemes and fiscal deficit reduction are key objectives of disinvestment. Statement 2 is incorrect; selling a small stake (3%) is typically a minority stake sale or offer for sale (OFS), not strategic disinvestment which involves a transfer of management control. Strategic disinvestment usually entails a much larger stake sale. Statement 3 is correct; DIPAM is the nodal agency for managing disinvestment processes.
 
-6. (a)
+6. (b)
 
-Reason: Statement 3 is incorrect. While APEDA is a major body promoting specific agricultural exports, other government bodies like MPEDA (for marine products) and various commodity boards also promote different categories of agricultural exports, making APEDA not the sole body. Statement 4 is incorrect. The news explicitly points to domestic quality issues like 'dark spots' as a significant threat to exports, implying that such concerns are a challenge alongside global demand fluctuations.
+Reason:
+Statement 1 is correct; ensuring 'no future tariffs' provides certainty for market access and promotes trade. Statement 2 is correct; 'forced labour' probes, while sometimes legitimate, can also function as non-tariff barriers, imposing additional costs or restrictions on trade. Statement 3 is incorrect; while MFN is a core WTO principle, bilateral trade agreements often involve preferential treatment that goes beyond MFN for the signatory countries, operating under specific WTO exceptions for Free Trade Agreements or Customs Unions, hence not strictly adhering to MFN in all aspects.
 
-7. (a)
+7. (d)
 
-Reason: Statement 2 is incorrect. Before IBC, India had several fragmented laws for corporate insolvency, such as the SARFAESI Act and the Sick Industrial Companies Act, 1985. The IBC unified and reformed these. Statement 4 is incorrect. Resolution professionals are regulated by the IBBI and are professionals appointed by the Committee of Creditors or NCLT/DRT, not typically considered public servants in the traditional sense.
+Reason:
+Statement 1 is correct; India's foreign policy consistently advocates for peaceful resolution of disputes and non-intervention. Statement 2 is correct; such advisories are standard practice for governments to ensure the safety of their citizens during times of perceived instability or conflict. Statement 3 is correct; India imports a significant portion of its crude oil from West Asia, making the region's stability crucial for its energy security.
 
 8. (b)
 
-Reason: Statement 2 is incorrect. The 'Strategic Resource Frontier' concept for border regions encompasses national security, economic potential, and resource management, not solely military advantage. Statement 4 is incorrect. 'Make in India' is a broader initiative to boost domestic manufacturing across various sectors, not primarily limited to high-tech defense equipment.
+Reason:
+Statement 1 is incorrect; the Ashoka Chakra is India's highest peacetime gallantry award, while Kirti Chakra is the second-highest. Statement 2 is correct; Kirti Chakra can be awarded to both military personnel and civilians. Statement 3 is correct; the President of India is the ceremonial head who confers these national awards. Statement 4 is incorrect; the news explicitly mentions a Gaganyatri receiving a Kirti Chakra, indicating their eligibility for such awards based on distinguished service.
 
-9. (a)
+9. (b)
 
-Reason: Statement 3 is incorrect. IATA reports provide data and analyses, but they are not legally binding on UN member states. Policy decisions and mandates for SAF adoption come from national governments or international bodies like ICAO. Statement 4 is incorrect. Carbon capture technologies for direct air capture are still evolving and are not yet the most cost-effective or widely deployed method for producing SAF, which currently relies more on biomass and waste feedstocks.
+Reason:
+Statement 1 is incorrect; while connectivity can have broader economic benefits, the primary stated purpose of the Zoji La tunnel is domestic all-weather connectivity between Kashmir and Ladakh, not specifically to open new trade routes to Central Asia. Statement 2 is correct; all-weather access to Ladakh holds significant strategic importance for military operations and overall development of the border region. Statement 3 is correct; by providing road access during winter, such tunnels reduce the critical dependence on costly and weather-dependent air transport for essential supplies.
 
 10. (b)
 
-Reason: Statement 2 is incorrect. Professional misconduct by doctors, such as participation in pharma junkets, primarily falls under the disciplinary jurisdiction of medical councils, leading to professional penalties rather than criminal charges under the Indian Penal Code. Statement 4 is incorrect. Dissolution of statutory bodies would typically involve a detailed inquiry, adherence to due process, and legal procedures, rather than direct dissolution without prior investigation.
+Reason:
+Statement 1 is incorrect; PMJDY primarily focuses on providing universal access to basic banking services and financial inclusion, not specifically on providing credit facilities to MSMEs, although it can facilitate access to credit. Statement 2 is correct; a key objective of PMJDY is to ensure that every household has at least one basic savings bank deposit account. Statement 3 is correct; the high number of dormant accounts remains a significant challenge, impacting the effectiveness of financial inclusion.
