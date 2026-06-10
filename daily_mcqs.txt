@@ -2,161 +2,361 @@
 MCQs
 ━━━━━━━━━━━━━━━
 
-**Q1. Consider the following statements regarding infrastructure development in challenging terrains:**
+**Q1. Consider the following statements regarding government subsidies:**
 
-1.  The Zoji La Tunnel project primarily aims to enhance civilian tourism between Kashmir and Ladakh throughout the year.
+1.  A significant increase in fertilizer subsidies typically contributes to a higher fiscal deficit unless adequately managed through revenue generation or expenditure cuts.
 
-2.  Construction of tunnels in the Greater Himalayas often encounters unique geological and climatic challenges, including seismic activity and extreme weather conditions.
+2.  The primary objective of providing fertilizer subsidies is to ensure affordability of fertilizers for farmers and to sustain agricultural productivity.
 
-3.  Improved all-weather road connectivity in strategically sensitive regions significantly contributes to national security and logistical capabilities for defense forces.
+3.  Direct Benefit Transfer (DBT) mechanisms for fertilizer subsidies are primarily aimed at reducing leakages and improving the targeting efficiency of the aid.
 
-Which of the statements given above is/are correct?
-
-(a) 1 and 2 only
-(b) 2 and 3 only
-(c) 1 and 3 only
-(d) 1, 2 and 3
-
-**Q2. With reference to the Pradhan Mantri Jan Dhan Yojana (PMJDY), consider the following statements:**
-
-1.  The scheme's primary objective is to ensure universal access to banking facilities and provide basic banking services to every unbanked household.
-
-2.  Accounts opened under PMJDY are always zero-balance accounts and cannot be linked to any Direct Benefit Transfer (DBT) schemes.
-
-3.  The achievement of over 58 crore Jan Dhan accounts signifies a substantial expansion of formal financial services access across various socio-economic groups.
-
-4.  All PMJDY account holders are automatically eligible for an overdraft facility without any specific eligibility criteria.
+4.  The requested subsidy allocation for FY27, if approved, would represent a three-fold increase in the current fertilizer subsidy.
 
 Which of the statements given above is/are correct?
 
-(a) 1 and 2 only
-(b) 2 and 4 only
-(c) 1 and 3 only
-(d) 1, 3 and 4
+(a) 1, 2 and 3 only
 
-**Q3. Regarding Ayushman Bharat, a major healthcare initiative, consider the following statements:**
+(b) 2, 3 and 4 only
 
-1.  Ayushman Bharat is designed as a fully centrally sponsored scheme where the entire funding is provided by the Union Government.
+(c) 1 and 4 only
 
-2.  One of its core objectives is to provide health cover for secondary and tertiary care hospitalization to vulnerable families.
-
-3.  The scheme's implementation often involves State Health Agencies (SHAs) to manage and oversee its operations at the state level.
-
-4.  The recent inclusion of a large state like West Bengal marks the complete participation of all Indian states and Union Territories in the Ayushman Bharat scheme.
-
-Which of the statements given above is/are correct?
-
-(a) 1 and 2 only
-(b) 2 and 3 only
-(c) 1, 3 and 4 only
 (d) 1, 2, 3 and 4
 
-**Q4. Consider the following statements regarding India's external sector performance:**
+**Q2. With reference to the government's disinvestment policy in India, consider the following statements:**
 
-1.  A current account surplus indicates that a country's total value of goods and services exported, along with remittances, exceeds its total imports and payments to the rest of the world.
+1.  Proceeds from disinvestment are primarily used to fund social sector schemes and reduce the fiscal deficit.
 
-2.  Strengthening of services exports, such as IT and BPO services, typically contributes to a country's current account deficit.
+2.  Strategic disinvestment involves the government selling a majority stake in a Public Sector Undertaking and transferring management control to a private entity.
 
-3.  Sustained current account surpluses can lead to an appreciation of the domestic currency in the long run.
+3.  The funds raised by the government through recent disinvestment and asset sales were exclusively from the sale of minority stakes in non-strategic Public Sector Undertakings.
 
-4.  The current account primarily includes foreign direct investment (FDI) and foreign portfolio investment (FPI) flows.
-
-Which of the statements given above is/are correct?
-
-(a) 1 and 3 only
-(b) 2 and 4 only
-(c) 1, 2 and 3 only
-(d) 1, 3 and 4 only
-
-**Q5. With reference to government's disinvestment policy, consider the following statements:**
-
-1.  Disinvestment by the government is primarily aimed at generating revenue to fund social sector schemes and reduce the fiscal deficit.
-
-2.  Selling a 3% stake in a Public Sector Undertaking (PSU) like NLC India Ltd. is typically classified as strategic disinvestment, involving a transfer of management control.
-
-3.  The Department of Investment and Public Asset Management (DIPAM) is the nodal agency responsible for managing the government's disinvestment process.
+4.  Disinvestment is generally categorized as a non-debt creating capital receipt for the government.
 
 Which of the statements given above is/are correct?
 
-(a) 1 only
-(b) 2 and 3 only
-(c) 1 and 3 only
-(d) 1, 2 and 3
+(a) 1, 2 and 3 only
 
-**Q6. Consider the implications of trade negotiations between India and other major economies:**
+(b) 2, 3 and 4 only
 
-1.  India's demand for 'no future tariffs' in a bilateral trade deal aims to ensure predictable market access for its goods and services.
+(c) 1, 2 and 4 only
 
-2.  Probes related to 'forced labour' by importing countries can act as non-tariff barriers, potentially affecting market access for products from exporting nations.
+(d) 1, 2, 3 and 4
 
-3.  A bilateral trade agreement between two countries, by definition, must adhere strictly to the Most Favoured Nation (MFN) principle as per WTO rules.
+**Q3. Regarding the initiation of bourse-based coal trading in India, consider the following statements:**
+
+1.  Bourse-based trading mechanisms aim to enhance price discovery and introduce greater transparency in commodity markets.
+
+2.  The establishment of coal exchanges is expected to improve the efficiency of coal allocation and distribution among various consumers.
+
+3.  This initiative is primarily intended to empower the government to directly control coal prices to prevent market fluctuations.
+
+4.  Futures trading in commodities like coal allows for hedging against price volatility, benefiting both producers and consumers.
 
 Which of the statements given above is/are correct?
 
-(a) 1 only
-(b) 1 and 2 only
+(a) 1 and 2 only
+
+(b) 1, 2 and 4 only
+
+(c) 3 and 4 only
+
+(d) 1, 2, 3 and 4
+
+**Q4. With respect to Aviation Turbine Fuel (ATF) pricing in India, consider the following statements:**
+
+1.  An increase in ATF prices generally leads to higher operational costs for airlines, which can result in increased airfares for passengers.
+
+2.  ATF prices in India are significantly influenced by international crude oil prices and the Rupee-Dollar exchange rate.
+
+3.  The recent 10% increase in ATF prices was solely attributed to a hike in excise duties imposed by the central government.
+
+4.  Both central and state governments have a role in the taxation of Aviation Turbine Fuel (ATF) in India.
+
+Which of the statements given above is/are correct?
+
+(a) 1, 2 and 3 only
+
+(b) 1, 2 and 4 only
+
+(c) 3 and 4 only
+
+(d) 1, 2, 3 and 4
+
+**Q5. Regarding the impact of global geopolitical tensions on India's economic outlook, consider the following statements:**
+
+1.  Geopolitical tensions in major oil-producing regions can lead to global oil supply disruptions and significant price volatility.
+
+2.  An 'oil shock' for an oil-importing country like India generally implies a rise in imported inflation and a widening current account deficit.
+
+3.  The Reserve Bank of India primarily utilizes fiscal policy tools to mitigate inflation risks arising from external shocks.
+
+4.  India maintains strategic petroleum reserves specifically to provide a buffer against short-term oil supply disruptions and ensure energy security.
+
+Which of the statements given above is/are correct?
+
+(a) 1, 2 and 3 only
+
+(b) 2, 3 and 4 only
+
+(c) 1, 2 and 4 only
+
+(d) 1, 2, 3 and 4
+
+**Q6. Concerning the Rupee exchange rate against the US dollar, consider the following statements:**
+
+1.  An appreciation of the Rupee against the US dollar generally makes Indian exports more expensive and imports cheaper.
+
+2.  A strong inflow of Foreign Portfolio Investment (FPI) into Indian markets can lead to the appreciation of the Rupee.
+
+3.  The Reserve Bank of India usually intervenes in the foreign exchange market to maintain a fixed exchange rate for the Rupee against the US dollar.
+
+4.  A depreciation of the Rupee would typically worsen India's terms of trade, especially for essential imports like crude oil.
+
+Which of the statements given above is/are correct?
+
+(a) 1, 2 and 3 only
+
+(b) 2, 3 and 4 only
+
+(c) 1, 2 and 4 only
+
+(d) 1, 2, 3 and 4
+
+**Q7. With reference to India-US energy ties, consider the following statements:**
+
+1.  India's diversification of energy sources is crucial for enhancing its energy security and reducing over-reliance on a single region.
+
+2.  The recent engagement between India and the US in the energy sector primarily aimed at reducing India's overall dependence on fossil fuels.
+
+3.  Liquefied Natural Gas (LNG) imports play a vital role in meeting India's growing energy demand for its industrial and power generation sectors.
+
+4.  India's continued imports of Russian crude oil are driven by considerations of competitive pricing and strategic autonomy in its foreign policy.
+
+Which of the statements given above is/are correct?
+
+(a) 1 and 2 only
+
+(b) 1, 3 and 4 only
+
 (c) 2 and 3 only
-(d) 1, 2 and 3
 
-**Q7. Regarding India's foreign policy and regional stability in West Asia, consider the following statements:**
+(d) 1, 2, 3 and 4
 
-1.  India's call for peace in West Asia is consistent with its long-standing foreign policy principle of non-intervention and peaceful resolution of international disputes.
+**Q8. Regarding the Centre's economic outlook and fiscal management, consider the following statements:**
 
-2.  Advising Indian citizens to exit a specific country reflects the government's assessment of potential threats to their safety due to deteriorating security conditions.
+1.  The government's assessment of 'intact GDP momentum' suggests a positive outlook on economic growth despite global economic headwinds.
 
-3.  The stability of West Asia is vital for India's energy security due to its significant reliance on hydrocarbon imports from the region.
+2.  Avoiding 'extra borrowing' can contribute to better fiscal health and a lower public debt-to-GDP ratio in the long run.
 
-Which of the statements given above is/are correct?
+3.  The Reserve Bank of India is solely responsible for presenting the official economic outlook for the country to international financial bodies.
 
-(a) 1 only
-(b) 2 and 3 only
-(c) 1 and 3 only
-(d) 1, 2 and 3
-
-**Q8. With reference to gallantry awards in India, consider the following statements:**
-
-1.  The Kirti Chakra is India's highest peacetime gallantry award, conferred for conspicuous gallantry otherwise than in the face of the enemy.
-
-2.  It can be awarded to military personnel as well as civilians, including police and paramilitary forces.
-
-3.  The President of India is the constitutional authority responsible for conferring such national awards.
-
-4.  Individuals recognized for their contributions to India's space program, like a Gaganyatri, are generally ineligible for gallantry awards.
+4.  Playing down the impact of a potential crisis could be a strategy to prevent panic in financial markets and maintain investor confidence.
 
 Which of the statements given above is/are correct?
 
-(a) 1 and 4 only
-(b) 2 and 3 only
-(c) 1, 2 and 3 only
-(d) 2, 3 and 4 only
+(a) 1, 2 and 3 only
 
-**Q9. Consider the strategic and economic implications of the Zoji La Tunnel project:**
+(b) 1, 2 and 4 only
 
-1.  The Zoji La tunnel primarily aims to enhance trade opportunities between Central Asia and the Indian subcontinent through its newly established land route.
+(c) 3 and 4 only
 
-2.  All-weather connectivity to Ladakh is strategically vital for military logistics and overall border area development.
+(d) 1, 2, 3 and 4
 
-3.  The construction of high-altitude tunnels significantly reduces reliance on air transport for essential supplies to isolated regions during winter months.
+**Q9. With reference to the security of the judiciary in India, consider the following statements:**
+
+1.  The security of former judges and their families is considered crucial for upholding the independence and integrity of the judiciary.
+
+2.  The Chief Justice of India (CJI) has the authority to directly issue security mandates for former judges without consulting the executive branch.
+
+3.  Diplomatic interactions involving the CJI, such as meeting a High Commissioner, can cover matters related to mutual legal assistance or judicial cooperation between nations.
 
 Which of the statements given above is/are correct?
 
 (a) 1 and 2 only
-(b) 2 and 3 only
-(c) 1 and 3 only
+
+(b) 1 and 3 only
+
+(c) 2 and 3 only
+
 (d) 1, 2 and 3
 
-**Q10. With reference to financial inclusion initiatives in India, consider the following statements:**
+**Q10. With respect to regulatory bodies and the judicial process in India, consider the following statements:**
 
-1.  Pradhan Mantri Jan Dhan Yojana (PMJDY) primarily focuses on providing credit facilities to micro, small, and medium enterprises (MSMEs).
+1.  The National Medical Commission (NMC) is the statutory body responsible for regulating medical education and practice across India.
 
-2.  The scheme ensures that every household in India has at least one basic savings bank deposit account.
+2.  Prolonged vacancies in crucial regulatory bodies like the NMC can lead to operational inefficiencies and delays in critical processes such as medical admissions.
 
-3.  A significant challenge in achieving deeper financial inclusion through PMJDY is the prevalence of dormant accounts, leading to low transaction volumes in many accounts.
+3.  An 'amicus curiae' holds the same legal standing as the primary parties involved in a case before the court.
+
+4.  The Supreme Court frequently appoints an amicus curiae in cases involving complex public interest issues to ensure comprehensive legal analysis.
 
 Which of the statements given above is/are correct?
 
 (a) 1 and 2 only
-(b) 2 and 3 only
-(c) 1 and 3 only
-(d) 1, 2 and 3
+
+(b) 2, 3 and 4 only
+
+(c) 1, 2 and 4 only
+
+(d) 1, 2, 3 and 4
+
+**Q11. Regarding the International Labour Organization (ILO) and contemporary labour issues, consider the following statements:**
+
+1.  The International Labour Organization (ILO) is a specialized agency of the United Nations, focused on labour standards, social protection, and work opportunities.
+
+2.  Universal social security coverage is a global objective frequently discussed at ILO conferences to address vulnerabilities faced by workers worldwide.
+
+3.  Discussions on Artificial Intelligence at recent ILO conferences primarily focused on promoting job creation through automation in developing countries.
+
+4.  Labour unions play a significant role in representing workers' interests and influencing policy discussions at international forums like the ILO.
+
+Which of the statements given above is/are correct?
+
+(a) 1 and 2 only
+
+(b) 1, 2 and 3 only
+
+(c) 1, 2 and 4 only
+
+(d) 1, 2, 3 and 4
+
+**Q12. With reference to the special powers of the Supreme Court of India, consider the following statements:**
+
+1.  Article 142 of the Indian Constitution grants the Supreme Court extraordinary power to do 'complete justice' in any cause or matter pending before it.
+
+2.  The invocation of Article 142 allows the Supreme Court to bypass existing statutory laws to deliver justice in exceptional circumstances.
+
+3.  The power under Article 142 can be exercised by the Supreme Court only upon a specific request from the executive branch of the government.
+
+4.  While exercising powers under Article 142, the Supreme Court must ensure that the fundamental rights of the citizens are not violated.
+
+Which of the statements given above is/are correct?
+
+(a) 1 and 2 only
+
+(b) 2, 3 and 4 only
+
+(c) 1, 2 and 4 only
+
+(d) 1, 2, 3 and 4
+
+**Q13. Regarding cyber fraud and related concerns in India, consider the following statements:**
+
+1.  The National Human Rights Commission (NHRC) investigates human rights violations and recommends measures for their prevention.
+
+2.  'Digital arrest' scams involve perpetrators impersonating law enforcement agencies to coerce victims into making financial payments.
+
+3.  The reported financial losses due to cyber fraud are limited solely to individual consumers and do not significantly impact the corporate sector.
+
+4.  Enhancing cyber security awareness among the public is a critical step in mitigating the risks associated with various forms of online financial fraud.
+
+Which of the statements given above is/are correct?
+
+(a) 1 and 2 only
+
+(b) 1, 2 and 4 only
+
+(c) 2, 3 and 4 only
+
+(d) 1, 2, 3 and 4
+
+**Q14. With reference to satellite internet services and their regulation, consider the following statements:**
+
+1.  Satellite internet constellations aim to provide broadband access, particularly to remote and underserved areas globally.
+
+2.  National security considerations and geopolitical developments can significantly influence government decisions regarding the approval of satellite internet services.
+
+3.  Starlink, a prominent satellite internet service, operates primarily in the Geosynchronous Earth Orbit (GEO) to achieve low latency connectivity for users.
+
+4.  Regulatory frameworks for satellite communication often involve multiple government ministries due to its complex nature and strategic implications.
+
+Which of the statements given above is/are correct?
+
+(a) 1 and 2 only
+
+(b) 1, 2 and 4 only
+
+(c) 2, 3 and 4 only
+
+(d) 1, 2, 3 and 4
+
+**Q15. Concerning defence procurement and the 'Make-in-India' initiative, consider the following statements:**
+
+1.  The 'Make-in-India' initiative in defence procurement aims to foster indigenous manufacturing and reduce reliance on foreign imports.
+
+2.  Defence offset policies typically mandate that foreign suppliers invest a certain percentage of the contract value back into the domestic defence industry.
+
+3.  The Rafale deal primarily involved the direct acquisition of fully-built aircraft without any transfer of technology or co-production clauses.
+
+4.  Promoting domestic manufacturing in the defence sector enhances national security and creates high-skill employment opportunities within the country.
+
+Which of the statements given above is/are correct?
+
+(a) 1, 2 and 3 only
+
+(b) 1, 2 and 4 only
+
+(c) 3 and 4 only
+
+(d) 1, 2, 3 and 4
+
+**Q16. Regarding border security and challenges along the Line of Control (LoC), consider the following statements:**
+
+1.  Unmanned Aerial Vehicles (UAVs) or drones pose significant challenges to border security due to their surveillance and potential payload capabilities.
+
+2.  The Line of Control (LoC) is a clearly demarcated and internationally recognized boundary between India and Pakistan.
+
+3.  Anti-drone systems, including jammers and net guns, are being deployed to counter unauthorized drone activities along border areas.
+
+4.  Incidents of drone incursions across the LoC often necessitate a review of existing border surveillance technologies and protocols.
+
+Which of the statements given above is/are correct?
+
+(a) 1 and 2 only
+
+(b) 1, 3 and 4 only
+
+(c) 2 and 3 only
+
+(d) 1, 2, 3 and 4
+
+**Q17. With reference to BRICS cooperation in agriculture, consider the following statements:**
+
+1.  BRICS is an association of five major emerging national economies, aiming to promote cooperation and development among its member states.
+
+2.  Food security, as an agenda item at the BRICS agriculture meet, reflects the collective commitment to addressing global hunger and nutrition challenges.
+
+3.  'Climate-smart farming' primarily focuses on maximizing crop yields through intensive use of chemical fertilizers and traditional irrigation methods.
+
+4.  India's role in hosting the BRICS agriculture meet underscores its growing influence in multilateral discussions concerning sustainable development goals.
+
+Which of the statements given above is/are correct?
+
+(a) 1 and 2 only
+
+(b) 1, 2 and 4 only
+
+(c) 2, 3 and 4 only
+
+(d) 1, 2, 3 and 4
+
+**Q18. Regarding India's stance on Pakistan-occupied Kashmir (PoK) and human rights concerns, consider the following statements:**
+
+1.  India maintains that Pakistan-occupied Kashmir (PoK) is an integral part of India and its occupation by Pakistan is illegal.
+
+2.  Raising 'human rights concerns' in internationally disputed territories is a common diplomatic tool to draw global attention to specific issues.
+
+3.  The Ministry of External Affairs (MEA) has the authority to unilaterally impose economic sanctions on other nations in response to human rights violations without parliamentary approval.
+
+4.  International law allows for intervention in cases of grave human rights violations, even in sovereign territories, under specific circumstances.
+
+Which of the statements given above is/are correct?
+
+(a) 1 and 2 only
+
+(b) 1, 2 and 4 only
+
+(c) 2, 3 and 4 only
+
+(d) 1, 2, 3 and 4
 

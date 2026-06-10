@@ -1,51 +1,73 @@
 
 
-1. (b)
+1. (a)
 
-Reason:
-Statement 1 is incorrect as the primary aim of the Zoji La Tunnel is strategic all-weather connectivity, not primarily tourism, though tourism is a beneficial outcome. Statement 2 is correct as projects in the Greater Himalayas face significant geological and climatic challenges. Statement 3 is correct as improved connectivity in border areas enhances national security and logistical support for defense forces.
+Reason: Statement 4 is incorrect. The news mentions "doubling" the subsidy, not a "three-fold increase." Statements 1, 2, and 3 are conceptually correct regarding subsidies and their objectives.
 
 2. (c)
 
-Reason:
-Statement 1 is correct, as universal access to banking and basic banking services for unbanked households is a core objective of PMJDY. Statement 2 is incorrect; PMJDY accounts can be zero-balance but are crucially linked to DBT schemes. Statement 3 is correct, as the significant number of accounts indicates widespread financial inclusion. Statement 4 is incorrect; an overdraft facility is available but with certain eligibility criteria, not automatically without any criteria.
+Reason: Statement 3 is incorrect. The news states funds were raised through "disinvestment and asset sale," implying a broader scope than "exclusively from the sale of minority stakes." Disinvestment can involve various forms, including strategic sales. Statements 1, 2, and 4 correctly describe aspects of disinvestment policy.
 
 3. (b)
 
-Reason:
-Statement 1 is incorrect; Ayushman Bharat is a Centrally Sponsored Scheme, implying cost-sharing between the Union and State governments, not fully funded by the Union. Statement 2 is correct, as providing health cover for secondary and tertiary care to vulnerable families is a key component (PMJAY). Statement 3 is correct, as State Health Agencies are typically involved in the implementation and oversight of such schemes at the state level. Statement 4 is incorrect; while a significant state has joined, it does not imply that all states and UTs have complete participation, as some states have opted out or adopted different models.
+Reason: Statement 3 is incorrect. Bourse-based trading aims to introduce market mechanisms and transparency, not to give the government direct control over prices, which would contradict the market-oriented approach. Statements 1, 2, and 4 are correct regarding the benefits and mechanisms of commodity trading.
 
-4. (a)
+4. (b)
 
-Reason:
-Statement 1 is correct; a current account surplus occurs when a country's total exports of goods, services, and remittances exceed its total imports and outward payments. Statement 2 is incorrect; strengthening services exports contributes to a current account *surplus*, not a deficit. Statement 3 is correct; a sustained current account surplus generally leads to increased demand for the domestic currency, causing it to appreciate. Statement 4 is incorrect; FDI and FPI flows are components of the Capital Account, not the Current Account.
+Reason: Statement 3 is incorrect. The news states "Oil marketing companies increased ATF prices," not that the increase was "solely attributed to a hike in excise duties." ATF pricing is complex and influenced by various factors. Statements 1, 2, and 4 are correct about ATF pricing dynamics and taxation.
 
 5. (c)
 
-Reason:
-Statement 1 is correct; generating revenue for social sector schemes and fiscal deficit reduction are key objectives of disinvestment. Statement 2 is incorrect; selling a small stake (3%) is typically a minority stake sale or offer for sale (OFS), not strategic disinvestment which involves a transfer of management control. Strategic disinvestment usually entails a much larger stake sale. Statement 3 is correct; DIPAM is the nodal agency for managing disinvestment processes.
+Reason: Statement 3 is incorrect. The Reserve Bank of India primarily uses *monetary policy* tools (like interest rates, open market operations) to manage inflation, while fiscal policy (government spending and taxation) is the domain of the government. Statements 1, 2, and 4 are correct regarding the economic impacts of geopolitical tensions and India's energy security measures.
 
-6. (b)
+6. (c)
 
-Reason:
-Statement 1 is correct; ensuring 'no future tariffs' provides certainty for market access and promotes trade. Statement 2 is correct; 'forced labour' probes, while sometimes legitimate, can also function as non-tariff barriers, imposing additional costs or restrictions on trade. Statement 3 is incorrect; while MFN is a core WTO principle, bilateral trade agreements often involve preferential treatment that goes beyond MFN for the signatory countries, operating under specific WTO exceptions for Free Trade Agreements or Customs Unions, hence not strictly adhering to MFN in all aspects.
+Reason: Statement 3 is incorrect. India follows a managed float exchange rate system, where the RBI intervenes to curb excessive volatility, but not to maintain a *fixed* exchange rate. Statements 1, 2, and 4 are correct implications and causes of Rupee exchange rate movements.
 
-7. (d)
+7. (b)
 
-Reason:
-Statement 1 is correct; India's foreign policy consistently advocates for peaceful resolution of disputes and non-intervention. Statement 2 is correct; such advisories are standard practice for governments to ensure the safety of their citizens during times of perceived instability or conflict. Statement 3 is correct; India imports a significant portion of its crude oil from West Asia, making the region's stability crucial for its energy security.
+Reason: Statement 2 is incorrect. The news highlights a focus on LPG, LNG, and Russian crude oil, which are all fossil fuels. While long-term goals include reducing fossil fuel dependence, the primary aim of *this specific interaction* as reported was not solely to reduce fossil fuel dependence. Statements 1, 3, and 4 are correct aspects of India's energy policy and international relations.
 
 8. (b)
 
-Reason:
-Statement 1 is incorrect; the Ashoka Chakra is India's highest peacetime gallantry award, while Kirti Chakra is the second-highest. Statement 2 is correct; Kirti Chakra can be awarded to both military personnel and civilians. Statement 3 is correct; the President of India is the ceremonial head who confers these national awards. Statement 4 is incorrect; the news explicitly mentions a Gaganyatri receiving a Kirti Chakra, indicating their eligibility for such awards based on distinguished service.
+Reason: Statement 3 is incorrect. While the RBI provides economic assessments, the Ministry of Finance is also responsible for presenting the official economic outlook for the country (e.g., Economic Survey) and engaging with international financial bodies. It is not *solely* the RBI's responsibility. Statements 1, 2, and 4 are correct regarding economic assessments and fiscal strategies.
 
 9. (b)
 
-Reason:
-Statement 1 is incorrect; while connectivity can have broader economic benefits, the primary stated purpose of the Zoji La tunnel is domestic all-weather connectivity between Kashmir and Ladakh, not specifically to open new trade routes to Central Asia. Statement 2 is correct; all-weather access to Ladakh holds significant strategic importance for military operations and overall development of the border region. Statement 3 is correct; by providing road access during winter, such tunnels reduce the critical dependence on costly and weather-dependent air transport for essential supplies.
+Reason: Statement 2 is incorrect. While the CJI can express concerns and requests regarding judicial security, providing security cover is an executive function carried out by law enforcement agencies, not a direct mandate issued by the CJI. Statements 1 and 3 are correct.
 
-10. (b)
+10. (c)
 
-Reason:
-Statement 1 is incorrect; PMJDY primarily focuses on providing universal access to basic banking services and financial inclusion, not specifically on providing credit facilities to MSMEs, although it can facilitate access to credit. Statement 2 is correct; a key objective of PMJDY is to ensure that every household has at least one basic savings bank deposit account. Statement 3 is correct; the high number of dormant accounts remains a significant challenge, impacting the effectiveness of financial inclusion.
+Reason: Statement 3 is incorrect. An 'amicus curiae' (friend of the court) is a neutral party, not a primary litigant, who provides expert opinion or information to assist the court. They do not hold the same legal standing as the primary parties. Statements 1, 2, and 4 are correct.
+
+11. (c)
+
+Reason: Statement 3 is incorrect. The news mentions "Artificial Intelligence concerns" were discussed, implying challenges and ethical implications, not primarily promoting job creation through automation. Statements 1, 2, and 4 correctly describe the ILO's mandate and labour union roles.
+
+12. (c)
+
+Reason: Statement 3 is incorrect. The Supreme Court's power under Article 142 is inherent and can be exercised *suo motu* (on its own motion) or when a case is pending, without requiring a specific request from the executive branch. Statements 1, 2, and 4 are correct about the scope and limitations of Article 142.
+
+13. (b)
+
+Reason: Statement 3 is incorrect. Cyber fraud, especially large-scale incidents, can significantly impact the corporate sector through data breaches, financial theft, and operational disruptions, not just individual consumers. Statements 1, 2, and 4 are correct.
+
+14. (b)
+
+Reason: Statement 3 is incorrect. Starlink primarily operates in Low Earth Orbit (LEO), not Geosynchronous Earth Orbit (GEO), to achieve low latency connectivity. GEO satellites are much farther from Earth, resulting in higher latency. Statements 1, 2, and 4 are correct regarding satellite internet and its regulation.
+
+15. (b)
+
+Reason: Statement 3 is incorrect. The news explicitly states the Rafale deal "emphasizes Make-in-India" and "domestic manufacturing," which contradicts the claim of "without any transfer of technology or co-production clauses." Such deals often include offset clauses and technology transfer components to boost domestic capabilities. Statements 1, 2, and 4 are correct regarding defence procurement and 'Make-in-India'.
+
+16. (b)
+
+Reason: Statement 2 is incorrect. The Line of Control (LoC) is a de facto military control line, not an internationally recognized boundary like an international border. Its status is disputed. Statements 1, 3, and 4 are correct regarding border security challenges and drone technology.
+
+17. (b)
+
+Reason: Statement 3 is incorrect. 'Climate-smart farming' focuses on increasing productivity sustainably, enhancing resilience to climate change, and reducing greenhouse gas emissions. It is not primarily about maximizing yields through intensive use of chemical fertilizers and traditional irrigation, which can be environmentally detrimental. Statements 1, 2, and 4 are correct.
+
+18. (b)
+
+Reason: Statement 3 is incorrect. While the MEA plays a role in foreign policy and diplomatic actions, imposing economic sanctions on other nations typically requires broader government approval, often involving the cabinet and alignment with domestic legal frameworks and international obligations, not the unilateral authority of the MEA. Statements 1, 2, and 4 are correct.
