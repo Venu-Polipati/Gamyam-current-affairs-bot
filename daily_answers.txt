@@ -2,72 +2,32 @@
 
 1. (a)
 
-Reason: Statement 4 is incorrect. The news mentions "doubling" the subsidy, not a "three-fold increase." Statements 1, 2, and 3 are conceptually correct regarding subsidies and their objectives.
+Reason: Statement 3 is incorrect as the National Biofuel Policy, 2018, promotes both first-generation (1G) and second-generation (2G) biofuels, not just 2G. Statements 1, 2, and 4 are correct. The E20 target was indeed advanced from 2030 to 2025. Ethanol blending reduces import bills and supports self-reliance. Reviewing mandates can impact climate commitments.
 
 2. (c)
 
-Reason: Statement 3 is incorrect. The news states funds were raised through "disinvestment and asset sale," implying a broader scope than "exclusively from the sale of minority stakes." Disinvestment can involve various forms, including strategic sales. Statements 1, 2, and 4 correctly describe aspects of disinvestment policy.
+Reason: Statement 3 is incorrect. While foreign universities may have some autonomy, they are not entirely exempt from domestic regulations concerning fee structures and admission processes, as the UGC framework aims for a balance between autonomy and regulatory oversight to ensure quality and accessibility. Statements 1, 2, and 4 are correct.
 
 3. (b)
 
-Reason: Statement 3 is incorrect. Bourse-based trading aims to introduce market mechanisms and transparency, not to give the government direct control over prices, which would contradict the market-oriented approach. Statements 1, 2, and 4 are correct regarding the benefits and mechanisms of commodity trading.
+Reason: Statement 2 is incorrect. Large-scale urban infrastructure projects often involve significant central government assistance and are not solely funded by state governments, as indicated by the Union Cabinet's approval of the Ahmedabad Metro project. Statements 1, 3, and 4 are correct.
 
-4. (b)
+4. (d)
 
-Reason: Statement 3 is incorrect. The news states "Oil marketing companies increased ATF prices," not that the increase was "solely attributed to a hike in excise duties." ATF pricing is complex and influenced by various factors. Statements 1, 2, and 4 are correct about ATF pricing dynamics and taxation.
+Reason: All statements are correct. Equity mutual funds primarily invest in stocks. A dip in inflows reflects investor sentiment. SEBI is the regulator. Retail investors form a significant base for mutual fund investments.
 
-5. (c)
+5. (b)
 
-Reason: Statement 3 is incorrect. The Reserve Bank of India primarily uses *monetary policy* tools (like interest rates, open market operations) to manage inflation, while fiscal policy (government spending and taxation) is the domain of the government. Statements 1, 2, and 4 are correct regarding the economic impacts of geopolitical tensions and India's energy security measures.
+Reason: Statement 1 is incorrect as it describes 'Sanitary measures', which protect human or animal health from risks arising from food. Phytosanitary measures, on the other hand, relate to the protection of plant health. Statement 3 is incorrect because restrictions due to phytosanitary concerns are classified as non-tariff barriers, not tariff barriers. Statements 2 and 4 are correct.
 
-6. (c)
+6. (b)
 
-Reason: Statement 3 is incorrect. India follows a managed float exchange rate system, where the RBI intervenes to curb excessive volatility, but not to maintain a *fixed* exchange rate. Statements 1, 2, and 4 are correct implications and causes of Rupee exchange rate movements.
+Reason: Statement 2 is incorrect. The Line of Control (LoC) is a de facto military control line, not an internationally recognized border. Statement 3 is incorrect as the situation in PoK, being a part of undivided J&K, is of direct concern to India and has implications for its foreign policy and security interests. Statements 1 and 4 are correct.
 
 7. (b)
 
-Reason: Statement 2 is incorrect. The news highlights a focus on LPG, LNG, and Russian crude oil, which are all fossil fuels. While long-term goals include reducing fossil fuel dependence, the primary aim of *this specific interaction* as reported was not solely to reduce fossil fuel dependence. Statements 1, 3, and 4 are correct aspects of India's energy policy and international relations.
+Reason: Statement 3 is incorrect. Protests by India to other nations regarding incidents involving Indian seafarers or external matters fall under the purview of the Ministry of External Affairs (MEA), not the Ministry of Home Affairs. Statements 1, 2, and 4 are correct.
 
-8. (b)
+8. (a)
 
-Reason: Statement 3 is incorrect. While the RBI provides economic assessments, the Ministry of Finance is also responsible for presenting the official economic outlook for the country (e.g., Economic Survey) and engaging with international financial bodies. It is not *solely* the RBI's responsibility. Statements 1, 2, and 4 are correct regarding economic assessments and fiscal strategies.
-
-9. (b)
-
-Reason: Statement 2 is incorrect. While the CJI can express concerns and requests regarding judicial security, providing security cover is an executive function carried out by law enforcement agencies, not a direct mandate issued by the CJI. Statements 1 and 3 are correct.
-
-10. (c)
-
-Reason: Statement 3 is incorrect. An 'amicus curiae' (friend of the court) is a neutral party, not a primary litigant, who provides expert opinion or information to assist the court. They do not hold the same legal standing as the primary parties. Statements 1, 2, and 4 are correct.
-
-11. (c)
-
-Reason: Statement 3 is incorrect. The news mentions "Artificial Intelligence concerns" were discussed, implying challenges and ethical implications, not primarily promoting job creation through automation. Statements 1, 2, and 4 correctly describe the ILO's mandate and labour union roles.
-
-12. (c)
-
-Reason: Statement 3 is incorrect. The Supreme Court's power under Article 142 is inherent and can be exercised *suo motu* (on its own motion) or when a case is pending, without requiring a specific request from the executive branch. Statements 1, 2, and 4 are correct about the scope and limitations of Article 142.
-
-13. (b)
-
-Reason: Statement 3 is incorrect. Cyber fraud, especially large-scale incidents, can significantly impact the corporate sector through data breaches, financial theft, and operational disruptions, not just individual consumers. Statements 1, 2, and 4 are correct.
-
-14. (b)
-
-Reason: Statement 3 is incorrect. Starlink primarily operates in Low Earth Orbit (LEO), not Geosynchronous Earth Orbit (GEO), to achieve low latency connectivity. GEO satellites are much farther from Earth, resulting in higher latency. Statements 1, 2, and 4 are correct regarding satellite internet and its regulation.
-
-15. (b)
-
-Reason: Statement 3 is incorrect. The news explicitly states the Rafale deal "emphasizes Make-in-India" and "domestic manufacturing," which contradicts the claim of "without any transfer of technology or co-production clauses." Such deals often include offset clauses and technology transfer components to boost domestic capabilities. Statements 1, 2, and 4 are correct regarding defence procurement and 'Make-in-India'.
-
-16. (b)
-
-Reason: Statement 2 is incorrect. The Line of Control (LoC) is a de facto military control line, not an internationally recognized boundary like an international border. Its status is disputed. Statements 1, 3, and 4 are correct regarding border security challenges and drone technology.
-
-17. (b)
-
-Reason: Statement 3 is incorrect. 'Climate-smart farming' focuses on increasing productivity sustainably, enhancing resilience to climate change, and reducing greenhouse gas emissions. It is not primarily about maximizing yields through intensive use of chemical fertilizers and traditional irrigation, which can be environmentally detrimental. Statements 1, 2, and 4 are correct.
-
-18. (b)
-
-Reason: Statement 3 is incorrect. While the MEA plays a role in foreign policy and diplomatic actions, imposing economic sanctions on other nations typically requires broader government approval, often involving the cabinet and alignment with domestic legal frameworks and international obligations, not the unilateral authority of the MEA. Statements 1, 2, and 4 are correct.
+Reason: Statement 2 is incorrect. India is not a permanent member of the G7; it participates as an invited guest. Statement 4 is incorrect as climate change is a significant focus area for G7 discussions. Statements 1 and 3 are correct.
