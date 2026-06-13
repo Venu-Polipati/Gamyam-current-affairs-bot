@@ -2,183 +2,29 @@
 MCQs
 ━━━━━━━━━━━━━━━
 
-**Q1. Consider the following statements regarding the banking sector in India:**
+**Q1. Consider the following statements regarding India's Edible Oil sector and related economic indicators:**
 
-1.  A widening credit-deposit gap primarily indicates that the growth rate of credit disbursement is outpacing that of deposit mobilization.
+1.  A significant increase in edible oil imports generally leads to a decrease in domestic inflation measured by the Consumer Price Index (CPI).
+2.  Soyabean oil, being a major contributor to India's edible oil imports, directly impacts the overall food inflation component of the CPI.
+3.  The government's primary policy tool to manage domestic edible oil prices and ensure food security is typically the Minimum Support Price (MSP) for oilseeds.
+4.  A rise in global edible oil prices, coupled with increased domestic consumption, often necessitates higher imports even if domestic production is stable.
 
-2.  The Reserve Bank of India (RBI) typically responds to a significant widening of this gap by reducing the Statutory Liquidity Ratio (SLR) to enhance banks' lending capacity.
-
-3.  A sustained widening of the credit-deposit gap can potentially lead to increased reliance on wholesale funding for banks, impacting their asset-liability management.
-
-Which of the statements given above is/are correct?
-
-(a) 1 only
-
-(b) 1 and 2 only
-
-(c) 1 and 3 only
-
-(d) 2 and 3 only
-
-**Q2. With reference to the National Medical Commission (NMC) and patient grievance redressal, consider the following statements:**
-
-1.  The National Medical Commission (NMC) is a statutory body established to regulate medical education and practice in India.
-
-2.  A recent regulatory change by the NMC has shifted the primary responsibility for resolving patient appeals directly to the Union Ministry of Health and Family Welfare.
-
-3.  This shift of responsibility is primarily intended to empower individual medical practitioners to handle patient grievances autonomously without regulatory oversight.
-
-Which of the statements given above is/are correct?
-
-(a) 1 only
-
-(b) 1 and 2 only
-
-(c) 2 and 3 only
-
-(d) 1, 2 and 3
-
-**Q3. With reference to delimitation in India, consider the following statements:**
-
-1.  The Delimitation Commission in India is a constitutional body whose orders have the force of law and cannot be called into question by any court.
-
-2.  The Economic Advisory Council to the Prime Minister (EAC-PM) is a permanent body mandated by the Constitution to advise the government on economic matters.
-
-3.  Delimitation recommendations, once implemented, are generally immune from judicial review.
-
-4.  The EAC-PM has recently recommended targeted delimitation for approximately 170 Lok Sabha seats.
-
-Which of the statements given above is/are correct?
-
-(a) 1 and 2 only
-
-(b) 3 and 4 only
-
-(c) 1, 3 and 4 only
-
-(d) 2, 3 and 4 only
-
-**Q4. Consider the following statements regarding global economic assessments:**
-
-1.  The World Bank and the International Monetary Fund (IMF) are often collectively referred to as the Bretton Woods Institutions.
-
-2.  The World Bank's recent forecast for India's growth rate stands at 6.6%, indicating a robust economic outlook compared to the global trend.
-
-3.  A cut in the global economic outlook by institutions like the World Bank typically signals a deceleration in global trade and investment flows.
-
-Which of the statements given above is/are correct?
-
-(a) 1 only
-
-(b) 2 only
-
-(c) 1 and 3 only
-
-(d) 1, 2 and 3
-
-**Q5. With reference to Geographical Indication (GI) tags in India, consider the following statements:**
-
-1.  Geographical Indication tags are intellectual property rights granted to products that have a specific geographical origin and possess qualities or a reputation due to that origin.
-
-2.  Tezpur Litchi, which recently saw exports to international markets, holds a Geographical Indication tag from the state of West Bengal.
-
-3.  A product with a GI tag helps in preventing unauthorized use of the registered geographical indication by others and generally boosts the export potential of unique regional products.
-
-Which of the statements given above is/are correct?
-
-(a) 1 only
-
-(b) 1 and 3 only
-
-(c) 2 and 3 only
-
-(d) 1, 2 and 3
-
-**Q6. Regarding India-UAE cooperation on Strategic Oil Reserves, consider the following statements:**
-
-1.  Strategic Petroleum Reserves (SPR) are underground crude oil stockpiles maintained by governments to meet emergencies arising from supply disruptions.
-
-2.  The India-UAE strategic oil reserves cooperation is explicitly an energy security initiative aimed at bolstering India's ability to withstand global energy shocks.
-
-3.  Under this expanded cooperation, India and UAE are planning for a total of 300 million barrels in strategic oil storage capacity.
-
-4.  Indian Strategic Petroleum Reserves Limited (ISPRL) is a wholly owned subsidiary of the Oil Industry Development Board (OIDB) and maintains India's crude oil reserves.
-
-Which of the statements given above is/are correct?
+Which of the statements given above are correct?
 
 (a) 1, 2 and 3 only
 
-(b) 1, 2 and 4 only
+(b) 2, 3 and 4 only
 
-(c) 3 and 4 only
+(c) 1 and 4 only
 
-(d) 1, 2, 3 and 4
+(d) 2 and 4 only
 
-**Q7. With reference to India-France Defence Cooperation, consider the following statements:**
+**Q2. With reference to government policies on education, consider the following statements:**
 
-1.  India's strategic partnership with France is characterized by robust cooperation in defence, space, and civil nuclear energy sectors.
-
-2.  France has explicitly expressed its backing for India's 'Make in India' initiative within the defence manufacturing sector.
-
-3.  The recent discussions on defence cooperation include exploring a new model for future Rafale aircraft deals.
-
-4.  This bilateral cooperation primarily focuses on outright procurement of military hardware and expressly excludes technology transfer arrangements.
-
-Which of the statements given above is/are correct?
-
-(a) 1 and 4 only
-
-(b) 2 and 3 only
-
-(c) 1, 2 and 3 only
-
-(d) 1, 2, 3 and 4
-
-**Q8. Regarding maritime security in the Gulf region, consider the following statements:**
-
-1.  The recent incident involving an attack on a tanker vessel off the coast of Oman highlights the persistent maritime security challenges in the region.
-
-2.  The United Nations Convention on the Law of the Sea (UNCLOS) provides a comprehensive legal framework for maritime activities, including provisions for freedom of navigation.
-
-3.  The attack, which resulted in the death of three Indian nationals, was directly and solely attributed to an explicit US strike on the vessel.
-
-Which of the statements given above is/are correct?
-
-(a) 1 only
-
-(b) 1 and 2 only
-
-(c) 2 and 3 only
-
-(d) 1, 2 and 3
-
-**Q9. With respect to India's global trade policy stance, consider the following statements:**
-
-1.  Protection of domestic industries is a key objective frequently incorporated into India's global trade policy framework.
-
-2.  The World Trade Organization (WTO) framework explicitly prohibits member countries from implementing any measures aimed at protecting their domestic industries.
-
-3.  A protectionist trade policy typically involves the imposition of tariffs, quotas, and subsidies to make imported goods more expensive or less available.
-
-Which of the statements given above is/are correct?
-
-(a) 1 only
-
-(b) 1 and 2 only
-
-(c) 1 and 3 only
-
-(d) 2 and 3 only
-
-**Q10. With reference to the new Labour Codes in India, consider the following statements:**
-
-1.  The new Labour Codes aim to consolidate and simplify the country's complex labour laws, currently spread across multiple statutes.
-
-2.  These codes specifically provide enhanced benefits and wage safety provisions for contract workers.
-
-3.  The new Labour Codes mandate a universal minimum wage across all sectors, irrespective of geographical location or skill level.
-
-4.  Overtime regulations, designed to safeguard worker welfare, are an integral part of the provisions within the new Labour Codes.
+1.  The Directive Principles of State Policy in the Indian Constitution advocate for free and compulsory education for all children until they complete the age of fourteen years.
+2.  A state government's policy of providing free education from Kindergarten (KG) to Post Graduate (PG) levels in its institutions is a step towards fulfilling the objectives outlined in the fundamental duties of citizens.
+3.  Such a policy, exclusively for government institutions, is likely to put a financial strain on the state's exchequer but is essential for achieving universal literacy targets.
+4.  The Right to Education Act, 2009, mandates free and compulsory education for all children between the age of six and eighteen years.
 
 Which of the statements given above is/are correct?
 
@@ -186,21 +32,18 @@ Which of the statements given above is/are correct?
 
 (b) 2 and 4 only
 
-(c) 1, 2 and 4 only
+(c) 3 only
 
-(d) 1, 2, 3 and 4
+(d) 1, 2 and 3
 
-**Q11. Regarding India's energy security status, consider the following statements:**
+**Q3. Regarding India's approach to border management and international relations, consider the following statements:**
 
-1.  India's energy security strategy encompasses ensuring the availability, affordability, and sustainability of energy supplies to meet national demand.
+1.  The Border Security Force (BSF) and the Border Guards Bangladesh (BGB) regularly engage in dialogues primarily to resolve issues related to cross-border trade and infrastructure development.
+2.  The "pushback" issue, when raised by a neighbouring country like Bangladesh, typically refers to allegations of illegal repatriation of their citizens across the international border.
+3.  Diplomatic protests, such as summoning a diplomat, are a standard tool in international relations to express disapproval over actions perceived as a violation of sovereignty or international law.
+4.  India's external policy always prioritizes bilateral negotiations over multilateral forums to address security concerns with immediate neighbours.
 
-2.  The assessment of India's energy supplies indicates that Liquefied Petroleum Gas (LPG) coverage is currently robust, contributing significantly to household energy security.
-
-3.  Despite India's substantial crude oil imports, the current energy security assessment suggests that crude oil supply mechanisms are not problematic.
-
-4.  India is a net exporter of crude oil, which significantly enhances its strategic autonomy in energy matters.
-
-Which of the statements given above is/are correct?
+Which of the statements given above are correct?
 
 (a) 1 and 4 only
 
@@ -208,40 +51,123 @@ Which of the statements given above is/are correct?
 
 (c) 1, 2 and 3 only
 
-(d) 1, 2, 3 and 4
+(d) 2, 3 and 4 only
 
-**Q12. With reference to India's agricultural sector, consider the following statements:**
+**Q4. With reference to the impact of climate change and extreme weather events, consider the following statements:**
 
-1.  The sustained high output in India's agricultural sector over the past decade can be attributed primarily to the widespread adoption of genetically modified crops across all major food grains.
-
-2.  The "transformation" observed in India's agricultural sector over a 12-year period reflects a shift towards more sustainable farming practices and diversification into high-value crops.
-
-3.  Food security in India is primarily maintained through a robust public distribution system and buffer stock operations by the Food Corporation of India (FCI).
-
-Which of the statements given above is/are correct?
-
-(a) 1 only
-
-(b) 2 and 3 only
-
-(c) 1 and 3 only
-
-(d) 1, 2 and 3
-
-**Q13. Consider the recent Ministry report on road fatalities for 2024:**
-
-1.  India is a signatory to the Brasilia Declaration on Road Safety, aiming to halve road traffic deaths and injuries by 2030.
-
-2.  The report specifically highlighted that pedestrians and two-wheeler riders constituted a significant proportion of the road fatalities.
-
-3.  The Ministry report indicated that road fatalities were around 45% of the total road accidents in 2024.
+1.  Invisible tropical waves are atmospheric disturbances that can influence weather patterns, including the intensity and distribution of rainfall.
+2.  A stronger monsoon system in India necessarily reduces the occurrence of extreme rainfall events across the country.
+3.  Climate change research typically focuses on long-term shifts in global temperatures and sea levels, rather than short-term atmospheric phenomena like tropical waves.
+4.  Understanding the dynamics of such tropical waves can enhance the predictability of extreme rainfall events, which is crucial for disaster preparedness.
 
 Which of the statements given above is/are correct?
 
 (a) 1 and 2 only
 
+(b) 1 and 4 only
+
+(c) 2, 3 and 4 only
+
+(d) 1, 3 and 4 only
+
+**Q5. In the context of India's economic and infrastructure development, consider the following statements:**
+
+1.  The capping of bulk fuel procurement by the government primarily aims to promote competition among fuel suppliers in the retail sector.
+2.  Digitalization of Indian Railways, involving steel and software synergy, is part of a broader strategy to enhance operational efficiency and improve logistics.
+3.  Such digitalization initiatives contribute to the 'Make in India' objective by fostering indigenous development of advanced railway technologies.
+4.  Increased infrastructure investment, including in railways, typically contributes to inflationary pressures across the economy due to higher demand for raw materials and labour.
+
+Which of the statements given above are correct?
+
+(a) 1, 2 and 3 only
+
+(b) 2, 3 and 4 only
+
+(c) 1 and 4 only
+
+(d) 2 and 3 only
+
+**Q6. With reference to women farmers in India and related legislative measures, consider the following statements:**
+
+1.  A bill focusing on the empowerment of women farmers aims to address the existing disparities in land ownership, access to credit, and market linkages.
+2.  Women farmers, despite their significant contribution to agriculture, often face challenges such as limited recognition of their work and lack of formal land titles.
+3.  The constitutional provision for equal pay for equal work directly mandates state governments to enact specific laws for women farmers' financial independence.
+4.  Legislations for women farmers' empowerment are typically introduced as central government initiatives, with states playing only an implementation role.
+
+Which of the statements given above are correct?
+
+(a) 1 and 2 only
+
 (b) 2 and 3 only
 
-(c) 1 and 3 only
+(c) 1, 3 and 4 only
 
-(d) 1, 2 and 3
+(d) 1, 2 and 4 only
+
+**Q7. Consider the following statements regarding inflation in India:**
+
+1.  Retail inflation measured by the Consumer Price Index (CPI) reflects the average change in prices that consumers pay for a basket of goods and services.
+2.  An acceleration in food prices is a common factor that can contribute to a significant increase in the overall headline retail inflation.
+3.  The Reserve Bank of India (RBI) uses the Wholesale Price Index (WPI) as its primary measure for inflation targeting under its monetary policy framework.
+4.  A prolonged period of high inflation often leads to an increase in real interest rates, encouraging savings over consumption.
+
+Which of the statements given above is/are correct?
+
+(a) 1 and 2 only
+
+(b) 1, 2 and 3 only
+
+(c) 2, 3 and 4 only
+
+(d) 1, 2 and 4 only
+
+**Q8. India's agricultural exports, specifically tropical fruits like mangoes, face various challenges in the global market. Consider the following in this regard:**
+
+1.  Compliance with strict phytosanitary and food safety standards of importing countries is a major non-tariff barrier for Indian agricultural exports.
+2.  Lack of adequate cold chain infrastructure and efficient logistics often leads to post-harvest losses, impacting export competitiveness.
+3.  Geographical Indication (GI) tags primarily serve to protect the intellectual property rights of traditional agricultural products within India and have no bearing on international trade.
+4.  Promotion of value-added products and diversification of export markets can mitigate risks associated with over-reliance on a few traditional markets.
+
+Which of the statements given above are correct?
+
+(a) 1, 2 and 3 only
+
+(b) 1, 2 and 4 only
+
+(c) 2, 3 and 4 only
+
+(d) 1 and 4 only
+
+**Q9. With respect to the legislative powers concerning education in India, consider the following statements:**
+
+1.  Education is a subject listed in the Concurrent List of the Seventh Schedule to the Constitution of India, empowering both the Union and State Governments to legislate on it.
+2.  A state government's decision to provide free education from Kindergarten (KG) to Post Graduate (PG) levels in its institutions must receive prior assent from the President of India.
+3.  The financial implications of such a state policy are borne exclusively by the state exchequer, without any scope for central government grants or shared funding mechanisms.
+4.  The Supreme Court of India has, through various judgments, emphasized the right to education as an integral part of the right to life under Article 21 of the Constitution.
+
+Which of the statements given above are correct?
+
+(a) 1 and 4 only
+
+(b) 2 and 3 only
+
+(c) 1, 3 and 4 only
+
+(d) 1, 2 and 4 only
+
+**Q10. In the context of India-US bilateral relations and maritime security, consider the following statements:**
+
+1.  The Freedom of Navigation Operations (FONOPs) conducted by naval forces in international waters are universally accepted under the United Nations Convention on the Law of the Sea (UNCLOS).
+2.  Lodging a strong diplomatic protest and summoning a diplomat are formal steps indicating India's concern over perceived violations of its sovereignty or international norms.
+3.  Maritime security issues between India and the US are typically addressed through established dialogue mechanisms, aiming to prevent unilateral actions that could escalate tensions.
+4.  India's consistent stand on maritime boundary disputes aligns with its strategic autonomy, engaging with various partners while safeguarding its national interests.
+
+Which of the statements given above are correct?
+
+(a) 1, 2 and 3 only
+
+(b) 2, 3 and 4 only
+
+(c) 1, 3 and 4 only
+
+(d) 1, 2, 3 and 4
