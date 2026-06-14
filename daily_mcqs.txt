@@ -2,172 +2,125 @@
 MCQs
 ━━━━━━━━━━━━━━━
 
-**Q1. Consider the following statements regarding India's Edible Oil sector and related economic indicators:**
+**Q1. Consider the following statements regarding the Zojila Tunnel project:**
 
-1.  A significant increase in edible oil imports generally leads to a decrease in domestic inflation measured by the Consumer Price Index (CPI).
-2.  Soyabean oil, being a major contributor to India's edible oil imports, directly impacts the overall food inflation component of the CPI.
-3.  The government's primary policy tool to manage domestic edible oil prices and ensure food security is typically the Minimum Support Price (MSP) for oilseeds.
-4.  A rise in global edible oil prices, coupled with increased domestic consumption, often necessitates higher imports even if domestic production is stable.
-
-Which of the statements given above are correct?
-
-(a) 1, 2 and 3 only
-
-(b) 2, 3 and 4 only
-
-(c) 1 and 4 only
-
-(d) 2 and 4 only
-
-**Q2. With reference to government policies on education, consider the following statements:**
-
-1.  The Directive Principles of State Policy in the Indian Constitution advocate for free and compulsory education for all children until they complete the age of fourteen years.
-2.  A state government's policy of providing free education from Kindergarten (KG) to Post Graduate (PG) levels in its institutions is a step towards fulfilling the objectives outlined in the fundamental duties of citizens.
-3.  Such a policy, exclusively for government institutions, is likely to put a financial strain on the state's exchequer but is essential for achieving universal literacy targets.
-4.  The Right to Education Act, 2009, mandates free and compulsory education for all children between the age of six and eighteen years.
+1.  The project is a significant infrastructure development aimed at providing all-weather connectivity to the Ladakh region.
+2.  Its strategic importance primarily stems from enhancing trade routes with Central Asian countries.
+3.  The project is expected to significantly reduce the time taken to traverse the Zojila Pass during winter months.
 
 Which of the statements given above is/are correct?
-
 (a) 1 and 3 only
-
-(b) 2 and 4 only
-
-(c) 3 only
-
+(b) 1 and 2 only
+(c) 2 and 3 only
 (d) 1, 2 and 3
 
-**Q3. Regarding India's approach to border management and international relations, consider the following statements:**
+**Q2. Consider the following statements regarding India's fertiliser sector and climate events:**
 
-1.  The Border Security Force (BSF) and the Border Guards Bangladesh (BGB) regularly engage in dialogues primarily to resolve issues related to cross-border trade and infrastructure development.
-2.  The "pushback" issue, when raised by a neighbouring country like Bangladesh, typically refers to allegations of illegal repatriation of their citizens across the international border.
-3.  Diplomatic protests, such as summoning a diplomat, are a standard tool in international relations to express disapproval over actions perceived as a violation of sovereignty or international law.
-4.  India's external policy always prioritizes bilateral negotiations over multilateral forums to address security concerns with immediate neighbours.
-
-Which of the statements given above are correct?
-
-(a) 1 and 4 only
-
-(b) 2 and 3 only
-
-(c) 1, 2 and 3 only
-
-(d) 2, 3 and 4 only
-
-**Q4. With reference to the impact of climate change and extreme weather events, consider the following statements:**
-
-1.  Invisible tropical waves are atmospheric disturbances that can influence weather patterns, including the intensity and distribution of rainfall.
-2.  A stronger monsoon system in India necessarily reduces the occurrence of extreme rainfall events across the country.
-3.  Climate change research typically focuses on long-term shifts in global temperatures and sea levels, rather than short-term atmospheric phenomena like tropical waves.
-4.  Understanding the dynamics of such tropical waves can enhance the predictability of extreme rainfall events, which is crucial for disaster preparedness.
+1.  The government has assured adequate fertiliser availability for both Kharif and Rabi crops.
+2.  El Niño conditions typically result in above-average rainfall, which can lead to increased crop yields in India.
+3.  To mitigate the impact of adverse climatic conditions on agriculture, the government primarily relies on buffer stock maintenance and import management for fertilisers.
 
 Which of the statements given above is/are correct?
+(a) 1 only
+(b) 1 and 3 only
+(c) 2 and 3 only
+(d) 1, 2 and 3
 
-(a) 1 and 2 only
+**Q3. Consider the following statements concerning India's economic stress points, often referred to as the '3Fs':**
 
-(b) 1 and 4 only
+1.  The '3Fs' refer to Fuel, Fertilizers, and Food, which are crucial for economic stability.
+2.  Fluctuations in global crude oil prices directly impact India's current account deficit and inflation due to its high import dependence.
+3.  Ensuring adequate availability of Fertilizers is vital for maintaining food security and supporting agricultural productivity.
+4.  Forex (Foreign Exchange) reserves are primarily maintained by the Reserve Bank of India to manage the exchange rate and ensure external sector stability.
 
-(c) 2, 3 and 4 only
-
-(d) 1, 3 and 4 only
-
-**Q5. In the context of India's economic and infrastructure development, consider the following statements:**
-
-1.  The capping of bulk fuel procurement by the government primarily aims to promote competition among fuel suppliers in the retail sector.
-2.  Digitalization of Indian Railways, involving steel and software synergy, is part of a broader strategy to enhance operational efficiency and improve logistics.
-3.  Such digitalization initiatives contribute to the 'Make in India' objective by fostering indigenous development of advanced railway technologies.
-4.  Increased infrastructure investment, including in railways, typically contributes to inflationary pressures across the economy due to higher demand for raw materials and labour.
-
-Which of the statements given above are correct?
-
+Which of the statements given above is/are correct?
 (a) 1, 2 and 3 only
-
 (b) 2, 3 and 4 only
-
 (c) 1 and 4 only
+(d) 1, 2, 3 and 4
 
-(d) 2 and 3 only
+**Q4. Consider the following statements regarding India's energy imports and strategic autonomy:**
 
-**Q6. With reference to women farmers in India and related legislative measures, consider the following statements:**
-
-1.  A bill focusing on the empowerment of women farmers aims to address the existing disparities in land ownership, access to credit, and market linkages.
-2.  Women farmers, despite their significant contribution to agriculture, often face challenges such as limited recognition of their work and lack of formal land titles.
-3.  The constitutional provision for equal pay for equal work directly mandates state governments to enact specific laws for women farmers' financial independence.
-4.  Legislations for women farmers' empowerment are typically introduced as central government initiatives, with states playing only an implementation role.
-
-Which of the statements given above are correct?
-
-(a) 1 and 2 only
-
-(b) 2 and 3 only
-
-(c) 1, 3 and 4 only
-
-(d) 1, 2 and 4 only
-
-**Q7. Consider the following statements regarding inflation in India:**
-
-1.  Retail inflation measured by the Consumer Price Index (CPI) reflects the average change in prices that consumers pay for a basket of goods and services.
-2.  An acceleration in food prices is a common factor that can contribute to a significant increase in the overall headline retail inflation.
-3.  The Reserve Bank of India (RBI) uses the Wholesale Price Index (WPI) as its primary measure for inflation targeting under its monetary policy framework.
-4.  A prolonged period of high inflation often leads to an increase in real interest rates, encouraging savings over consumption.
+1.  India became the second largest buyer of Russian oil in May, indicating a significant shift in its crude oil import sources.
+2.  The increasing share of Russian oil in India's import basket is primarily a strategy to diversify energy sources away from traditional Middle Eastern suppliers.
+3.  India's decisions on oil imports are guided by its energy security requirements, irrespective of sanctions imposed by other nations.
 
 Which of the statements given above is/are correct?
+(a) 1 only
+(b) 1 and 2 only
+(c) 2 and 3 only
+(d) 1, 2 and 3
 
-(a) 1 and 2 only
+**Q5. Consider the following statements concerning India's role in global forums:**
 
-(b) 1, 2 and 3 only
+1.  Prime Minister Modi's participation at the G7 summit provided a platform to voice the aspirations of the Global South.
+2.  The G7 group primarily comprises the world's largest emerging economies and aims to address global economic governance challenges.
+3.  India's engagement with groups like the G7 underscores its growing global leadership in addressing multilateral challenges.
 
-(c) 2, 3 and 4 only
+Which of the statements given above is/are correct?
+(a) 1 only
+(b) 1 and 3 only
+(c) 2 and 3 only
+(d) 1, 2 and 3
 
-(d) 1, 2 and 4 only
+**Q6. Consider the following statements regarding the BRICS grouping and its recent declarations:**
 
-**Q8. India's agricultural exports, specifically tropical fruits like mangoes, face various challenges in the global market. Consider the following in this regard:**
+1.  The BRICS Indore Declaration specifically highlighted India's commitment to lead initiatives in seed rights and digital agriculture among member nations.
+2.  Seed rights primarily focus on safeguarding the intellectual property of large corporations in agricultural research and development.
+3.  Digital agriculture aims to integrate emerging technologies such as Artificial Intelligence and Internet of Things into farming practices.
+4.  BRICS countries collectively represent a significant portion of the world's population and global GDP.
 
-1.  Compliance with strict phytosanitary and food safety standards of importing countries is a major non-tariff barrier for Indian agricultural exports.
-2.  Lack of adequate cold chain infrastructure and efficient logistics often leads to post-harvest losses, impacting export competitiveness.
-3.  Geographical Indication (GI) tags primarily serve to protect the intellectual property rights of traditional agricultural products within India and have no bearing on international trade.
-4.  Promotion of value-added products and diversification of export markets can mitigate risks associated with over-reliance on a few traditional markets.
-
-Which of the statements given above are correct?
-
-(a) 1, 2 and 3 only
-
-(b) 1, 2 and 4 only
-
-(c) 2, 3 and 4 only
-
-(d) 1 and 4 only
-
-**Q9. With respect to the legislative powers concerning education in India, consider the following statements:**
-
-1.  Education is a subject listed in the Concurrent List of the Seventh Schedule to the Constitution of India, empowering both the Union and State Governments to legislate on it.
-2.  A state government's decision to provide free education from Kindergarten (KG) to Post Graduate (PG) levels in its institutions must receive prior assent from the President of India.
-3.  The financial implications of such a state policy are borne exclusively by the state exchequer, without any scope for central government grants or shared funding mechanisms.
-4.  The Supreme Court of India has, through various judgments, emphasized the right to education as an integral part of the right to life under Article 21 of the Constitution.
-
-Which of the statements given above are correct?
-
-(a) 1 and 4 only
-
-(b) 2 and 3 only
-
-(c) 1, 3 and 4 only
-
-(d) 1, 2 and 4 only
-
-**Q10. In the context of India-US bilateral relations and maritime security, consider the following statements:**
-
-1.  The Freedom of Navigation Operations (FONOPs) conducted by naval forces in international waters are universally accepted under the United Nations Convention on the Law of the Sea (UNCLOS).
-2.  Lodging a strong diplomatic protest and summoning a diplomat are formal steps indicating India's concern over perceived violations of its sovereignty or international norms.
-3.  Maritime security issues between India and the US are typically addressed through established dialogue mechanisms, aiming to prevent unilateral actions that could escalate tensions.
-4.  India's consistent stand on maritime boundary disputes aligns with its strategic autonomy, engaging with various partners while safeguarding its national interests.
-
-Which of the statements given above are correct?
-
-(a) 1, 2 and 3 only
-
-(b) 2, 3 and 4 only
-
-(c) 1, 3 and 4 only
-
+Which of the statements given above is/are correct?
+(a) 1 and 3 only
+(b) 1, 3 and 4 only
+(c) 2 and 4 only
 (d) 1, 2, 3 and 4
+
+**Q7. Consider the following statements regarding Artificial Intelligence (AI) and its societal impact:**
+
+1.  The Higher Education Minister's remarks on AI indicate its increasing importance in shaping future technological landscapes and generating new opportunities.
+2.  AI primarily focuses on replicating human cognitive functions, thereby reducing the need for creative problem-solving skills in the workforce.
+3.  Government strategies for AI often emphasize research and development, ethical guidelines, and skill upgradation programs.
+
+Which of the statements given above is/are correct?
+(a) 1 only
+(b) 1 and 3 only
+(c) 2 and 3 only
+(d) 1, 2 and 3
+
+**Q8. Consider the following statements concerning heat stress and its implications:**
+
+1.  Heat stress, as experienced in regions like Tamil Nadu, can lead to significant public health challenges, including heatstroke and dehydration.
+2.  Urban areas are generally more vulnerable to heat stress due to the Urban Heat Island (UHI) effect.
+3.  Mitigating the health impacts of heat stress primarily involves early warning systems and public awareness campaigns.
+4.  The frequency and intensity of heatwaves are projected to decrease globally due to comprehensive climate change mitigation efforts.
+
+Which of the statements given above is/are correct?
+(a) 1 and 2 only
+(b) 1, 2 and 3 only
+(c) 3 and 4 only
+(d) 1, 2, 3 and 4
+
+**Q9. Consider the following statements regarding the vision for strengthening governance systems to manage national challenges:**
+
+1.  The emphasis on building a stronger system primarily aims to insulate decision-making processes from public scrutiny during periods of uncertainty.
+2.  Such a system is intended to enhance the nation's capacity to address unforeseen disruptions and challenges effectively.
+3.  Fostering adaptability and responsiveness within public administration is a key component of this approach.
+
+Which of the statements given above is/are correct?
+(a) 1 and 2 only
+(b) 2 and 3 only
+(c) 1 and 3 only
+(d) 1, 2 and 3
+
+**Q10. Consider the following statements regarding bilateral trade negotiations between India and the United States:**
+
+1.  Recent reports suggest that an imminent comprehensive trade agreement between India and the US is unlikely, with further discussions required.
+2.  Trade negotiations between these nations typically address issues such as market access for goods, services, and non-tariff barriers.
+3.  A potential trade deal is primarily aimed at reducing India's trade deficit with the United States.
+
+Which of the statements given above is/are correct?
+(a) 1 and 2 only
+(b) 1 and 3 only
+(c) 2 and 3 only
+(d) 1, 2 and 3
