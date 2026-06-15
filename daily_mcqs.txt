@@ -2,175 +2,115 @@
 MCQs
 ━━━━━━━━━━━━━━━
 
-**Q1. With reference to major infrastructure projects like the Bengaluru–Chennai Expressway, consider the following statements:**
+**Q1. With reference to India’s agricultural sector and climate preparedness, consider the following statements:**
 
-1.  Such expressways are primarily aimed at enhancing regional connectivity and reducing logistical costs for industries.
+1.  The Union government's preparedness for potential El Niño impacts on agriculture primarily involves ensuring adequate buffer stocks of food grains.
 
-2.  These projects typically fall under the ambit of the National Infrastructure Pipeline and aim to improve multimodal transportation.
+2.  India is entirely self-sufficient in its requirement for Urea fertilizers due to significant domestic production capacity.
 
-3.  The construction of greenfield expressways invariably requires significant land acquisition which is exclusively handled by private entities.
+3.  The Nutrient Based Subsidy (NBS) Policy covers urea, providing fixed per-tonne subsidies on specified Phosphatic and Potassic (P&K) fertilizers.
 
-4.  Investment in such infrastructure is crucial for facilitating economic growth and integrating geographically separated markets.
-
-Which of the statements given above is/are correct?
-
-(a) 1, 2 and 4 only
-
-(b) 1, 3 and 4 only
-
-(c) 2 and 3 only
-
-(d) 1, 2, 3 and 4
-
-**Q2. With regard to India's agricultural sector and environmental factors, consider the following statements:**
-
-1.  El Nino events are generally associated with a strengthening of the monsoon winds, leading to above-average rainfall in India.
-
-2.  Ensuring adequate fertiliser stocks is critical for maintaining agricultural productivity, especially during the Kharif and Rabi cropping seasons.
-
-3.  The government often intervenes in the fertiliser sector through subsidies to make agricultural inputs affordable for farmers.
-
-4.  El Nino is a climate pattern linked to the periodic warming of sea surface temperatures in the central and eastern equatorial Pacific Ocean.
-
-Which of the statements given above is/are correct?
-
-(a) 1, 2 and 3 only
-
-(b) 2 and 4 only
-
-(c) 2, 3 and 4 only
-
-(d) 1, 3 and 4 only
-
-**Q3. Consider the following statements regarding India's energy security and crude oil imports:**
-
-1.  India's strategy for energy security emphasizes diversification of import sources to mitigate geopolitical risks and price volatility.
-
-2.  The increase in crude oil imports from a particular country primarily indicates a shift in India's strategic alliances rather than economic considerations.
-
-3.  Strategic Petroleum Reserves (SPRs) are maintained by India as buffer stocks, largely in above-ground storage tanks, to address supply disruptions.
-
-4.  The concept of 'strategic autonomy' guides India's approach in making procurement decisions in global energy markets.
+4.  Kharif crops are predominantly sown during the monsoon season and rely heavily on southwest monsoon rainfall.
 
 Which of the statements given above is/are correct?
 
 (a) 1 and 4 only
 
-(b) 1, 2 and 3 only
+(b) 2 and 3 only
 
-(c) 2, 3 and 4 only
+(c) 1, 2 and 4 only
 
-(d) 1, 2, 3 and 4
+(d) 1, 3 and 4 only
 
-**Q4. With reference to India's Gross Domestic Product (GDP) data and its methodology, consider the following statements:**
+**Q2. With reference to the India-France Strategic Partnership, consider the following statements:**
 
-1.  Gross Domestic Product (GDP) measures the total monetary value of all final goods and services produced within a country's geographical boundaries during a specified period.
+1.  The 'Innovation Roadmap 2030' established between the two nations primarily focuses on military technology transfer and joint defence production.
 
-2.  Gross Value Added (GVA) differs from GDP by primarily excluding indirect taxes and including product subsidies in its calculation.
+2.  An 'Economic Security Dialogue' signifies the broadening of bilateral engagement beyond traditional strategic sectors.
 
-3.  The base year for calculating India's GDP is routinely updated to incorporate structural changes and better reflect economic realities.
+3.  France is a key partner for India in multilateral forums concerning climate change and sustainable development.
 
-4.  The compilation and release of India's GDP data are primarily the responsibility of the Ministry of Finance, Department of Economic Affairs.
-
-Which of the statements given above is/are correct?
-
-(a) 1, 2 and 3 only
-
-(b) 1, 3 and 4 only
-
-(c) 2 and 4 only
-
-(d) 1, 2, 3 and 4
-
-**Q5. With reference to the India-France Strategic Partnership, consider the following statements:**
-
-1.  The 'Innovation Roadmap 2030' between the two nations primarily focuses on enhancing cooperation in space exploration and defence manufacturing.
-
-2.  An 'Economic Security Dialogue' aims to deepen bilateral cooperation on critical technologies, cybersecurity, and resilient supply chains.
-
-3.  France is a key member of the Quad grouping, alongside India, the United States, and Japan, promoting a free and open Indo-Pacific.
-
-4.  The strategic partnership spans various sectors including defence, nuclear energy, space, and cultural exchanges, highlighting a comprehensive engagement.
+4.  India's quest for French investment is limited to the nuclear energy sector.
 
 Which of the statements given above is/are correct?
 
-(a) 1, 2 and 3 only
+(a) 1 and 4 only
 
-(b) 2 and 4 only
+(b) 2 and 3 only
 
-(c) 3 and 4 only
+(c) 1, 2 and 3 only
 
-(d) 1, 2, 3 and 4
+(d) 2, 3 and 4 only
 
-**Q6. Regarding the BRICS grouping and its initiatives, consider the following statements:**
+**Q3. With reference to the BRICS grouping and its recent declarations, consider the following statements:**
 
-1.  The primary objective of BRICS is to establish a military alliance among its member countries to counter geopolitical blocs.
+1.  The BRICS group's primary objective is to establish a military alliance against Western blocs.
 
-2.  India's initiative to lead 'seed rights' within BRICS aims to strengthen farmers' intellectual property rights over plant varieties.
+2.  India's commitment to lead 'seed rights initiatives' within BRICS aims to enhance intellectual property protection for agricultural innovations.
 
-3.  'Digital agriculture' initiatives typically involve leveraging advanced technologies like Artificial Intelligence and IoT to enhance agricultural efficiency and sustainability.
+3.  'Digital agriculture initiatives' focus on leveraging space technology and Artificial Intelligence for crop monitoring and yield prediction.
 
-4.  The New Development Bank (NDB) was established by BRICS nations to mobilize resources for infrastructure and sustainable development projects.
+4.  The Indore Declaration specifically calls for the immediate expansion of BRICS membership to include all G20 nations.
+
+Which of the statements given above is/are correct?
+
+(a) 1 and 4 only
+
+(b) 2 and 3 only
+
+(c) 1, 2 and 3 only
+
+(d) 2, 3 and 4 only
+
+**Q4. With reference to India's energy security strategy, consider the following statements:**
+
+1.  India maintains Strategic Petroleum Reserves (SPR) at various underground locations to mitigate crude oil supply disruptions.
+
+2.  The '60 days of crude stock' reported for India exclusively comprises crude held in government-owned strategic reserves.
+
+3.  India's increasing imports of crude oil from Russia significantly impact the overall trade balance with other Middle Eastern suppliers.
+
+4.  Diversifying crude oil sources is a crucial element of India's long-term energy security strategy.
 
 Which of the statements given above is/are correct?
 
 (a) 1 and 2 only
 
-(b) 2, 3 and 4 only
+(b) 3 and 4 only
 
 (c) 1, 3 and 4 only
 
-(d) 1, 2, 3 and 4
+(d) 2, 3 and 4 only
 
-**Q7. With respect to maritime safety and the deployment of Indian seafarers, consider the following statements:**
+**Q5. With reference to India's Gross Domestic Product (GDP) data and its methodology, consider the following statements:**
 
-1.  The Directorate General of Shipping (DGS) functions as the principal administrative body for implementing India's Merchant Shipping Act.
+1.  Gross Value Added (GVA) measures the value of goods and services produced in an area, primarily reflecting the demand-side of the economy.
 
-2.  International Labour Organization (ILO) conventions are crucial in establishing global standards for the working conditions and welfare of seafarers.
+2.  The National Statistical Office (NSO) is responsible for the compilation and dissemination of national accounts statistics in India.
 
-3.  Advisories issued by the DGS restricting seafarer deployment to conflict zones are legally binding international treaties enforceable across all UN member states.
+3.  Routine revisions in GDP growth numbers occur as more comprehensive data become available, rather than indicating methodological changes.
 
-4.  Such advisories are primarily issued to safeguard the lives and security of Indian citizens working in high-risk maritime areas.
-
-Which of the statements given above is/are correct?
-
-(a) 1, 2 and 3 only
-
-(b) 1, 2 and 4 only
-
-(c) 3 and 4 only
-
-(d) 1, 2, 3 and 4
-
-**Q8. Consider the implications of aggressive growth plans by large e-commerce entities in India, such as Amazon:**
-
-1.  Such expansion typically leads to increased foreign direct investment (FDI) in the multi-brand retail sector, which is currently allowed without sectoral restrictions in India.
-
-2.  Enhanced e-commerce penetration has the potential to provide wider market access and better price realization for Micro, Small and Medium Enterprises (MSMEs).
-
-3.  India's policy framework for the digital economy increasingly emphasizes data localization requirements for foreign e-commerce platforms operating in the country.
-
-4.  The Competition Commission of India (CCI) plays a crucial role in scrutinizing potential anti-competitive practices by dominant e-commerce players to ensure fair market competition.
+4.  India's base year for calculating national income statistics is revised every five years to reflect structural changes in the economy.
 
 Which of the statements given above is/are correct?
 
-(a) 1, 2 and 3 only
+(a) 1 and 4 only
 
-(b) 2, 3 and 4 only
+(b) 2 and 3 only
 
-(c) 1 and 4 only
+(c) 1, 2 and 3 only
 
-(d) 1, 2, 3 and 4
+(d) 2, 3 and 4 only
 
-**Q9. With reference to India's defence policy and the operational freedom of its armed forces, consider the following statements:**
+**Q6. With reference to the restriction on seafarer deployment by India, consider the following statements:**
 
-1.  The supreme command of the Indian Armed Forces is vested in the Prime Minister of India.
+1.  The Directorate General of Shipping primarily regulates marine environment protection and coastal area development in India.
 
-2.  Article 51 of the Constitution of India enshrines the directive for the State to promote international peace and security.
+2.  Restrictions on seafarer deployment are issued to protect Indian nationals from maritime piracy and conflict zones.
 
-3.  Granting full operational freedom to the armed forces implies an exemption from parliamentary oversight regarding defence expenditures.
+3.  These advisories are only applicable to Indian citizens working on Indian-flagged vessels.
 
-4.  India's defence posture seeks to uphold peace and stability while maintaining robust capabilities to safeguard its sovereignty and territorial integrity.
+4.  The United Nations Convention on the Law of the Sea (UNCLOS) establishes a comprehensive legal framework for all ocean activities.
 
 Which of the statements given above is/are correct?
 
@@ -180,23 +120,83 @@ Which of the statements given above is/are correct?
 
 (c) 1, 2 and 4 only
 
-(d) 1, 2, 3 and 4
+(d) 2, 3 and 4 only
 
-**Q10. With regard to India's energy security strategy, consider the following statements:**
+**Q7. With reference to India's national security framework, consider the following statements:**
 
-1.  India's Strategic Petroleum Reserves (SPRs) are primarily developed as underground rock caverns, offering protection against geopolitical disturbances.
+1.  The President of India is the Commander-in-Chief of the Indian Armed Forces.
 
-2.  Maintaining substantial crude oil and natural gas stocks is a fundamental component of a nation's energy security planning.
+2.  The statement about 'full freedom for armed forces' implies a complete removal of civilian oversight in operational matters.
 
-3.  A diversified energy mix, including a significant share of renewable energy sources, increases a country's vulnerability to global crude oil price volatility.
+3.  India's commitment to ensuring peace is primarily achieved through military deterrence and defensive alliances.
 
-4.  India relies entirely on domestic production for its natural gas requirements, making its economy immune to international gas price fluctuations.
+4.  The Cabinet Committee on Security (CCS) is the apex body for national security decision-making in India.
 
 Which of the statements given above is/are correct?
 
 (a) 1 and 2 only
 
+(b) 3 and 4 only
+
+(c) 1 and 4 only
+
+(d) 2, 3 and 4 only
+
+**Q8. With reference to e-commerce and foreign investment in India, consider the following statements:**
+
+1.  The recent doubling of Amazon's growth plans in India is solely attributed to a relaxation of Foreign Direct Investment (FDI) norms in the e-commerce sector.
+
+2.  E-commerce companies operating in India are subject to regulations concerning consumer protection and data privacy.
+
+3.  The 'Make in India' initiative encourages foreign companies to establish manufacturing units within India.
+
+4.  Marketplace model e-commerce entities in India are allowed 100% FDI under the automatic route, subject to certain conditions.
+
+Which of the statements given above is/are correct?
+
+(a) 1, 2 and 3 only
+
 (b) 2, 3 and 4 only
+
+(c) 1, 3 and 4 only
+
+(d) 2 and 4 only
+
+**Q9. With reference to infrastructure development in India, consider the following statements:**
+
+1.  The Bengaluru-Chennai Expressway is being developed under the Sagarmala Programme, focusing on port connectivity.
+
+2.  Such large-scale infrastructure projects often involve a detailed Environmental Impact Assessment (EIA) to address ecological concerns.
+
+3.  The National Highways Authority of India (NHAI) is responsible for the development and maintenance of National Highways and Expressways in India.
+
+4.  The financial model for expressway projects in India primarily relies on Build-Operate-Transfer (BOT) agreements.
+
+Which of the statements given above is/are correct?
+
+(a) 1 and 4 only
+
+(b) 2 and 3 only
+
+(c) 1, 2 and 3 only
+
+(d) 2, 3 and 4 only
+
+**Q10. With reference to international maritime cooperation, consider the following statements:**
+
+1.  The US Navy's action of rescuing Indian seafarers is an example of humanitarian assistance under international maritime law.
+
+2.  Such rescue operations typically require specific authorization from the flag state of the distressed vessel prior to intervention.
+
+3.  The International Maritime Organization (IMO) develops global standards for the safety, security, and environmental performance of international shipping.
+
+4.  India's foreign policy prioritizes cooperation with naval powers for the safety of its citizens abroad.
+
+Which of the statements given above is/are correct?
+
+(a) 1 and 2 only
+
+(b) 2 and 3 only
 
 (c) 1, 3 and 4 only
 
