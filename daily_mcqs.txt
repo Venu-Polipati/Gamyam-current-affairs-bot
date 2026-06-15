@@ -2,125 +2,202 @@
 MCQs
 ━━━━━━━━━━━━━━━
 
-**Q1. Consider the following statements regarding the Zojila Tunnel project:**
+**Q1. With reference to major infrastructure projects like the Bengaluru–Chennai Expressway, consider the following statements:**
 
-1.  The project is a significant infrastructure development aimed at providing all-weather connectivity to the Ladakh region.
-2.  Its strategic importance primarily stems from enhancing trade routes with Central Asian countries.
-3.  The project is expected to significantly reduce the time taken to traverse the Zojila Pass during winter months.
+1.  Such expressways are primarily aimed at enhancing regional connectivity and reducing logistical costs for industries.
 
-Which of the statements given above is/are correct?
-(a) 1 and 3 only
-(b) 1 and 2 only
-(c) 2 and 3 only
-(d) 1, 2 and 3
+2.  These projects typically fall under the ambit of the National Infrastructure Pipeline and aim to improve multimodal transportation.
 
-**Q2. Consider the following statements regarding India's fertiliser sector and climate events:**
+3.  The construction of greenfield expressways invariably requires significant land acquisition which is exclusively handled by private entities.
 
-1.  The government has assured adequate fertiliser availability for both Kharif and Rabi crops.
-2.  El Niño conditions typically result in above-average rainfall, which can lead to increased crop yields in India.
-3.  To mitigate the impact of adverse climatic conditions on agriculture, the government primarily relies on buffer stock maintenance and import management for fertilisers.
+4.  Investment in such infrastructure is crucial for facilitating economic growth and integrating geographically separated markets.
 
 Which of the statements given above is/are correct?
-(a) 1 only
-(b) 1 and 3 only
-(c) 2 and 3 only
-(d) 1, 2 and 3
 
-**Q3. Consider the following statements concerning India's economic stress points, often referred to as the '3Fs':**
+(a) 1, 2 and 4 only
 
-1.  The '3Fs' refer to Fuel, Fertilizers, and Food, which are crucial for economic stability.
-2.  Fluctuations in global crude oil prices directly impact India's current account deficit and inflation due to its high import dependence.
-3.  Ensuring adequate availability of Fertilizers is vital for maintaining food security and supporting agricultural productivity.
-4.  Forex (Foreign Exchange) reserves are primarily maintained by the Reserve Bank of India to manage the exchange rate and ensure external sector stability.
-
-Which of the statements given above is/are correct?
-(a) 1, 2 and 3 only
-(b) 2, 3 and 4 only
-(c) 1 and 4 only
-(d) 1, 2, 3 and 4
-
-**Q4. Consider the following statements regarding India's energy imports and strategic autonomy:**
-
-1.  India became the second largest buyer of Russian oil in May, indicating a significant shift in its crude oil import sources.
-2.  The increasing share of Russian oil in India's import basket is primarily a strategy to diversify energy sources away from traditional Middle Eastern suppliers.
-3.  India's decisions on oil imports are guided by its energy security requirements, irrespective of sanctions imposed by other nations.
-
-Which of the statements given above is/are correct?
-(a) 1 only
-(b) 1 and 2 only
-(c) 2 and 3 only
-(d) 1, 2 and 3
-
-**Q5. Consider the following statements concerning India's role in global forums:**
-
-1.  Prime Minister Modi's participation at the G7 summit provided a platform to voice the aspirations of the Global South.
-2.  The G7 group primarily comprises the world's largest emerging economies and aims to address global economic governance challenges.
-3.  India's engagement with groups like the G7 underscores its growing global leadership in addressing multilateral challenges.
-
-Which of the statements given above is/are correct?
-(a) 1 only
-(b) 1 and 3 only
-(c) 2 and 3 only
-(d) 1, 2 and 3
-
-**Q6. Consider the following statements regarding the BRICS grouping and its recent declarations:**
-
-1.  The BRICS Indore Declaration specifically highlighted India's commitment to lead initiatives in seed rights and digital agriculture among member nations.
-2.  Seed rights primarily focus on safeguarding the intellectual property of large corporations in agricultural research and development.
-3.  Digital agriculture aims to integrate emerging technologies such as Artificial Intelligence and Internet of Things into farming practices.
-4.  BRICS countries collectively represent a significant portion of the world's population and global GDP.
-
-Which of the statements given above is/are correct?
-(a) 1 and 3 only
 (b) 1, 3 and 4 only
-(c) 2 and 4 only
+
+(c) 2 and 3 only
+
 (d) 1, 2, 3 and 4
 
-**Q7. Consider the following statements regarding Artificial Intelligence (AI) and its societal impact:**
+**Q2. With regard to India's agricultural sector and environmental factors, consider the following statements:**
 
-1.  The Higher Education Minister's remarks on AI indicate its increasing importance in shaping future technological landscapes and generating new opportunities.
-2.  AI primarily focuses on replicating human cognitive functions, thereby reducing the need for creative problem-solving skills in the workforce.
-3.  Government strategies for AI often emphasize research and development, ethical guidelines, and skill upgradation programs.
+1.  El Nino events are generally associated with a strengthening of the monsoon winds, leading to above-average rainfall in India.
 
-Which of the statements given above is/are correct?
-(a) 1 only
-(b) 1 and 3 only
-(c) 2 and 3 only
-(d) 1, 2 and 3
+2.  Ensuring adequate fertiliser stocks is critical for maintaining agricultural productivity, especially during the Kharif and Rabi cropping seasons.
 
-**Q8. Consider the following statements concerning heat stress and its implications:**
+3.  The government often intervenes in the fertiliser sector through subsidies to make agricultural inputs affordable for farmers.
 
-1.  Heat stress, as experienced in regions like Tamil Nadu, can lead to significant public health challenges, including heatstroke and dehydration.
-2.  Urban areas are generally more vulnerable to heat stress due to the Urban Heat Island (UHI) effect.
-3.  Mitigating the health impacts of heat stress primarily involves early warning systems and public awareness campaigns.
-4.  The frequency and intensity of heatwaves are projected to decrease globally due to comprehensive climate change mitigation efforts.
+4.  El Nino is a climate pattern linked to the periodic warming of sea surface temperatures in the central and eastern equatorial Pacific Ocean.
 
 Which of the statements given above is/are correct?
-(a) 1 and 2 only
+
+(a) 1, 2 and 3 only
+
+(b) 2 and 4 only
+
+(c) 2, 3 and 4 only
+
+(d) 1, 3 and 4 only
+
+**Q3. Consider the following statements regarding India's energy security and crude oil imports:**
+
+1.  India's strategy for energy security emphasizes diversification of import sources to mitigate geopolitical risks and price volatility.
+
+2.  The increase in crude oil imports from a particular country primarily indicates a shift in India's strategic alliances rather than economic considerations.
+
+3.  Strategic Petroleum Reserves (SPRs) are maintained by India as buffer stocks, largely in above-ground storage tanks, to address supply disruptions.
+
+4.  The concept of 'strategic autonomy' guides India's approach in making procurement decisions in global energy markets.
+
+Which of the statements given above is/are correct?
+
+(a) 1 and 4 only
+
 (b) 1, 2 and 3 only
-(c) 3 and 4 only
+
+(c) 2, 3 and 4 only
+
 (d) 1, 2, 3 and 4
 
-**Q9. Consider the following statements regarding the vision for strengthening governance systems to manage national challenges:**
+**Q4. With reference to India's Gross Domestic Product (GDP) data and its methodology, consider the following statements:**
 
-1.  The emphasis on building a stronger system primarily aims to insulate decision-making processes from public scrutiny during periods of uncertainty.
-2.  Such a system is intended to enhance the nation's capacity to address unforeseen disruptions and challenges effectively.
-3.  Fostering adaptability and responsiveness within public administration is a key component of this approach.
+1.  Gross Domestic Product (GDP) measures the total monetary value of all final goods and services produced within a country's geographical boundaries during a specified period.
 
-Which of the statements given above is/are correct?
-(a) 1 and 2 only
-(b) 2 and 3 only
-(c) 1 and 3 only
-(d) 1, 2 and 3
+2.  Gross Value Added (GVA) differs from GDP by primarily excluding indirect taxes and including product subsidies in its calculation.
 
-**Q10. Consider the following statements regarding bilateral trade negotiations between India and the United States:**
+3.  The base year for calculating India's GDP is routinely updated to incorporate structural changes and better reflect economic realities.
 
-1.  Recent reports suggest that an imminent comprehensive trade agreement between India and the US is unlikely, with further discussions required.
-2.  Trade negotiations between these nations typically address issues such as market access for goods, services, and non-tariff barriers.
-3.  A potential trade deal is primarily aimed at reducing India's trade deficit with the United States.
+4.  The compilation and release of India's GDP data are primarily the responsibility of the Ministry of Finance, Department of Economic Affairs.
 
 Which of the statements given above is/are correct?
+
+(a) 1, 2 and 3 only
+
+(b) 1, 3 and 4 only
+
+(c) 2 and 4 only
+
+(d) 1, 2, 3 and 4
+
+**Q5. With reference to the India-France Strategic Partnership, consider the following statements:**
+
+1.  The 'Innovation Roadmap 2030' between the two nations primarily focuses on enhancing cooperation in space exploration and defence manufacturing.
+
+2.  An 'Economic Security Dialogue' aims to deepen bilateral cooperation on critical technologies, cybersecurity, and resilient supply chains.
+
+3.  France is a key member of the Quad grouping, alongside India, the United States, and Japan, promoting a free and open Indo-Pacific.
+
+4.  The strategic partnership spans various sectors including defence, nuclear energy, space, and cultural exchanges, highlighting a comprehensive engagement.
+
+Which of the statements given above is/are correct?
+
+(a) 1, 2 and 3 only
+
+(b) 2 and 4 only
+
+(c) 3 and 4 only
+
+(d) 1, 2, 3 and 4
+
+**Q6. Regarding the BRICS grouping and its initiatives, consider the following statements:**
+
+1.  The primary objective of BRICS is to establish a military alliance among its member countries to counter geopolitical blocs.
+
+2.  India's initiative to lead 'seed rights' within BRICS aims to strengthen farmers' intellectual property rights over plant varieties.
+
+3.  'Digital agriculture' initiatives typically involve leveraging advanced technologies like Artificial Intelligence and IoT to enhance agricultural efficiency and sustainability.
+
+4.  The New Development Bank (NDB) was established by BRICS nations to mobilize resources for infrastructure and sustainable development projects.
+
+Which of the statements given above is/are correct?
+
 (a) 1 and 2 only
-(b) 1 and 3 only
-(c) 2 and 3 only
-(d) 1, 2 and 3
+
+(b) 2, 3 and 4 only
+
+(c) 1, 3 and 4 only
+
+(d) 1, 2, 3 and 4
+
+**Q7. With respect to maritime safety and the deployment of Indian seafarers, consider the following statements:**
+
+1.  The Directorate General of Shipping (DGS) functions as the principal administrative body for implementing India's Merchant Shipping Act.
+
+2.  International Labour Organization (ILO) conventions are crucial in establishing global standards for the working conditions and welfare of seafarers.
+
+3.  Advisories issued by the DGS restricting seafarer deployment to conflict zones are legally binding international treaties enforceable across all UN member states.
+
+4.  Such advisories are primarily issued to safeguard the lives and security of Indian citizens working in high-risk maritime areas.
+
+Which of the statements given above is/are correct?
+
+(a) 1, 2 and 3 only
+
+(b) 1, 2 and 4 only
+
+(c) 3 and 4 only
+
+(d) 1, 2, 3 and 4
+
+**Q8. Consider the implications of aggressive growth plans by large e-commerce entities in India, such as Amazon:**
+
+1.  Such expansion typically leads to increased foreign direct investment (FDI) in the multi-brand retail sector, which is currently allowed without sectoral restrictions in India.
+
+2.  Enhanced e-commerce penetration has the potential to provide wider market access and better price realization for Micro, Small and Medium Enterprises (MSMEs).
+
+3.  India's policy framework for the digital economy increasingly emphasizes data localization requirements for foreign e-commerce platforms operating in the country.
+
+4.  The Competition Commission of India (CCI) plays a crucial role in scrutinizing potential anti-competitive practices by dominant e-commerce players to ensure fair market competition.
+
+Which of the statements given above is/are correct?
+
+(a) 1, 2 and 3 only
+
+(b) 2, 3 and 4 only
+
+(c) 1 and 4 only
+
+(d) 1, 2, 3 and 4
+
+**Q9. With reference to India's defence policy and the operational freedom of its armed forces, consider the following statements:**
+
+1.  The supreme command of the Indian Armed Forces is vested in the Prime Minister of India.
+
+2.  Article 51 of the Constitution of India enshrines the directive for the State to promote international peace and security.
+
+3.  Granting full operational freedom to the armed forces implies an exemption from parliamentary oversight regarding defence expenditures.
+
+4.  India's defence posture seeks to uphold peace and stability while maintaining robust capabilities to safeguard its sovereignty and territorial integrity.
+
+Which of the statements given above is/are correct?
+
+(a) 1 and 3 only
+
+(b) 2 and 4 only
+
+(c) 1, 2 and 4 only
+
+(d) 1, 2, 3 and 4
+
+**Q10. With regard to India's energy security strategy, consider the following statements:**
+
+1.  India's Strategic Petroleum Reserves (SPRs) are primarily developed as underground rock caverns, offering protection against geopolitical disturbances.
+
+2.  Maintaining substantial crude oil and natural gas stocks is a fundamental component of a nation's energy security planning.
+
+3.  A diversified energy mix, including a significant share of renewable energy sources, increases a country's vulnerability to global crude oil price volatility.
+
+4.  India relies entirely on domestic production for its natural gas requirements, making its economy immune to international gas price fluctuations.
+
+Which of the statements given above is/are correct?
+
+(a) 1 and 2 only
+
+(b) 2, 3 and 4 only
+
+(c) 1, 3 and 4 only
+
+(d) 1, 2, 3 and 4
