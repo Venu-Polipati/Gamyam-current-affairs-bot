@@ -1,4 +1,6 @@
 import asyncio
+import re
+
 from telegram_sender import send_message
 from fact_extractor import extract_facts
 from mcq_generator import generate_mcqs
@@ -18,12 +20,18 @@ print("FACTS READY")
 
 mcq_output = generate_mcqs(facts)
 
-if "###ANSWER_KEY###" in mcq_output:
+# Different answer key formats handle cheyyadaniki
+parts = re.split(
+    r"#+\s*ANSWER[_ ]KEY\s*#+",
+    mcq_output,
+    maxsplit=1,
+    flags=re.IGNORECASE
+)
 
-    questions, answers = mcq_output.split(
-        "###ANSWER_KEY###",
-        1
-    )
+if len(parts) == 2:
+
+    questions = parts[0].strip()
+    answers = parts[1].strip()
 
     with open(
         "daily_mcqs.txt",
@@ -39,7 +47,6 @@ if "###ANSWER_KEY###" in mcq_output:
     ) as f:
         f.write(answers)
 
-    # Telegram lo MCQs post cheyyi
     asyncio.run(
         send_message(questions)
     )
