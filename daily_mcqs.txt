@@ -2,202 +2,182 @@
 MCQs
 ━━━━━━━━━━━━━━━
 
-**Q1. With reference to India’s agricultural sector and climate preparedness, consider the following statements:**
+**Q1. Consider the following statements regarding Inter-State Water Disputes in India:**
 
-1.  The Union government's preparedness for potential El Niño impacts on agriculture primarily involves ensuring adequate buffer stocks of food grains.
-
-2.  India is entirely self-sufficient in its requirement for Urea fertilizers due to significant domestic production capacity.
-
-3.  The Nutrient Based Subsidy (NBS) Policy covers urea, providing fixed per-tonne subsidies on specified Phosphatic and Potassic (P&K) fertilizers.
-
-4.  Kharif crops are predominantly sown during the monsoon season and rely heavily on southwest monsoon rainfall.
+1.  The Constitution of India explicitly empowers the Parliament to provide for the adjudication of inter-state river water disputes, to the exclusion of other courts.
+2.  The Inter-State Water Disputes Act, 1956, enables the Central Government to constitute a Tribunal for the adjudication of such disputes.
+3.  The decisions of an Inter-State Water Disputes Tribunal are binding on the party states and are not subject to the appellate jurisdiction of the Supreme Court.
 
 Which of the statements given above is/are correct?
-
-(a) 1 and 4 only
-
+(a) 1 and 2 only
 (b) 2 and 3 only
+(c) 1 and 3 only
+(d) 1, 2 and 3
 
+**Q2. With reference to inflation measurement in India, consider the following statements:**
+
+1.  The Wholesale Price Index (WPI) primarily measures inflation at the consumer level, reflecting changes in the average price of goods and services purchased by households.
+2.  The Producer Price Index (PPI) aims to measure the average change over time in the selling prices received by domestic producers for their output.
+3.  A primary reason for India's transition from WPI to PPI is to align with international best practices for inflation measurement and reduce distortions caused by indirect taxes.
+4.  An increase in crude oil prices typically has a significant impact on India's Wholesale Price Index due to the country's high reliance on oil imports.
+
+Which of the statements given above are correct?
+(a) 1 and 2 only
+(b) 1, 3 and 4 only
+(c) 2, 3 and 4 only
+(d) 1, 2, 3 and 4
+
+**Q3. With reference to government policy on Public Sector Undertakings (PSUs) in India, consider the following statements:**
+
+1.  The primary objective of disinvestment in PSUs is to generate revenue for the government and reduce its fiscal deficit.
+2.  An Offer for Sale (OFS) is a method used by promoters of listed companies, including the government, to dilute their shareholding in a transparent manner.
+3.  A suggestion for a dedicated privatisation ministry aims to streamline the disinvestment process by centralizing decision-making across various sectors including financial institutions.
+4.  The establishment of a dedicated ministry for privatisation would necessarily require a constitutional amendment to alter the existing departmental jurisdictions over Public Sector Undertakings.
+
+Which of the statements given above are correct?
+(a) 1, 2 and 3 only
+(b) 2, 3 and 4 only
+(c) 1 and 4 only
+(d) 1, 2, 3 and 4
+
+**Q4. Consider the following statements regarding India's external sector:**
+
+1.  A substantial plunge in global crude oil prices typically contributes to the appreciation of the Indian Rupee by easing the pressure on the country's import bill.
+2.  The Reserve Bank of India (RBI) can employ various tools, including direct intervention in the foreign exchange market, to manage volatility and influence the value of the Rupee.
+3.  An increase in India's merchandise exports, assuming imports remain constant, generally results in a reduction of the country's trade deficit.
+4.  India's trade deficit exclusively refers to the difference between the monetary value of its exports and imports of goods.
+
+Which of the statements given above are correct?
+(a) 1 and 2 only
+(b) 1, 2 and 3 only
 (c) 1, 2 and 4 only
+(d) 2, 3 and 4 only
 
+**Q5. With reference to India's energy security and international relations, consider the following statements:**
+
+1.  The Strait of Hormuz is a critical maritime chokepoint connecting the Persian Gulf to the Arabian Sea, through which a significant portion of global crude oil passes.
+2.  India's energy security strategy typically involves diversifying its sources of energy imports and exploring multiple supply routes to mitigate geopolitical risks.
+3.  An improved geopolitical situation leading to a more secure passage through the Strait of Hormuz would necessarily result in a sustained reduction in global crude oil prices.
+4.  India's pursuit of strategic autonomy in its foreign policy enables it to engage with various nations, including those under international scrutiny, to safeguard its national energy interests.
+
+Which of the statements given above are correct?
+(a) 1, 2 and 3 only
+(b) 1, 2 and 4 only
+(c) 3 and 4 only
+(d) 1, 2, 3 and 4
+
+**Q6. With reference to consumer protection in the Indian financial sector, consider the following statements:**
+
+1.  The Reserve Bank of India (RBI) possesses the statutory authority to issue guidelines for commercial banks aimed at protecting consumer interests, including measures against mis-selling.
+2.  Mis-selling of financial products generally refers to the practice of selling a financial product to a customer without adequately assessing their needs or by providing misleading information.
+3.  Linking sales incentives predominantly to the volume of financial products sold, rather than their suitability for customers, is a practice that can exacerbate mis-selling.
+4.  The recent RBI rules specifically targeting mis-selling are exclusively applicable to non-banking financial companies (NBFCs) and cooperative banks, thereby exempting scheduled commercial banks.
+
+Which of the statements given above are correct?
+(a) 1, 2 and 3 only
+(b) 2, 3 and 4 only
+(c) 1 and 4 only
+(d) 1, 2, 3 and 4
+
+**Q7. With reference to the Right to Education (RTE) Act, 2009, consider the following statements:**
+
+1.  The RTE Act, 2009, mandates free and compulsory education for all children aged six to fourteen years.
+2.  Article 21A of the Constitution of India, which declares education as a fundamental right, was introduced through the 86th Constitutional Amendment Act.
+3.  The financial responsibility for the implementation of the RTE Act rests exclusively with the State Governments, with no contribution from the Central Government.
+4.  A notice issued by the Supreme Court to the Centre and a state government regarding RTE implementation implies a conclusive finding of their failure to adhere to the Act's provisions.
+
+Which of the statements given above are correct?
+(a) 1 and 2 only
+(b) 1, 2 and 3 only
+(c) 2, 3 and 4 only
+(d) 1, 2, 3 and 4
+
+**Q8. With reference to infrastructure development and project management in India, consider the following statements:**
+
+1.  Bitumen, a derivative of crude oil, is a crucial binding material predominantly used in the construction of flexible pavements for National Highways.
+2.  Parliamentary panels, while assessing project compensation issues, primarily provide recommendations which are generally advisory in nature.
+3.  Fluctuations in diesel prices directly impact the cost of transport and machinery operation for National Highway builders, leading to changes in overall project expenditure.
+4.  The compensation for NH builders, related to diesel price surge, exclusively covers the cost difference of raw materials such as steel and cement, but not fuel itself.
+
+Which of the statements given above are correct?
+(a) 1 and 2 only
+(b) 1, 2 and 3 only
+(c) 2, 3 and 4 only
 (d) 1, 3 and 4 only
 
-**Q2. With reference to the India-France Strategic Partnership, consider the following statements:**
+**Q9. With reference to a citizen's right to seek legal recourse in India, consider the following statements:**
 
-1.  The 'Innovation Roadmap 2030' established between the two nations primarily focuses on military technology transfer and joint defence production.
+1.  The 'Right to move the Supreme Court' for the enforcement of fundamental rights is guaranteed as a fundamental right under the Constitution of India.
+2.  A One-Time Settlement (OTS) deal is a contractual arrangement between parties, typically a borrower and a lender, for the full and final settlement of dues.
+3.  The Supreme Court has ruled that a contractual agreement like an OTS cannot completely abrogate or restrict an individual's constitutional right to approach the courts for justice.
+4.  The right to seek legal remedy from courts for dispute resolution is an absolute right that cannot be circumscribed by any statutory provisions or procedural frameworks.
 
-2.  An 'Economic Security Dialogue' signifies the broadening of bilateral engagement beyond traditional strategic sectors.
-
-3.  France is a key partner for India in multilateral forums concerning climate change and sustainable development.
-
-4.  India's quest for French investment is limited to the nuclear energy sector.
-
-Which of the statements given above is/are correct?
-
-(a) 1 and 4 only
-
-(b) 2 and 3 only
-
-(c) 1, 2 and 3 only
-
-(d) 2, 3 and 4 only
-
-**Q3. With reference to the BRICS grouping and its recent declarations, consider the following statements:**
-
-1.  The BRICS group's primary objective is to establish a military alliance against Western blocs.
-
-2.  India's commitment to lead 'seed rights initiatives' within BRICS aims to enhance intellectual property protection for agricultural innovations.
-
-3.  'Digital agriculture initiatives' focus on leveraging space technology and Artificial Intelligence for crop monitoring and yield prediction.
-
-4.  The Indore Declaration specifically calls for the immediate expansion of BRICS membership to include all G20 nations.
-
-Which of the statements given above is/are correct?
-
-(a) 1 and 4 only
-
-(b) 2 and 3 only
-
-(c) 1, 2 and 3 only
-
-(d) 2, 3 and 4 only
-
-**Q4. With reference to India's energy security strategy, consider the following statements:**
-
-1.  India maintains Strategic Petroleum Reserves (SPR) at various underground locations to mitigate crude oil supply disruptions.
-
-2.  The '60 days of crude stock' reported for India exclusively comprises crude held in government-owned strategic reserves.
-
-3.  India's increasing imports of crude oil from Russia significantly impact the overall trade balance with other Middle Eastern suppliers.
-
-4.  Diversifying crude oil sources is a crucial element of India's long-term energy security strategy.
-
-Which of the statements given above is/are correct?
-
+Which of the statements given above are correct?
 (a) 1 and 2 only
+(b) 1, 2 and 3 only
+(c) 2, 3 and 4 only
+(d) 1, 2, 3 and 4
 
-(b) 3 and 4 only
+**Q10. With reference to India's renewable energy sector, consider the following statements:**
 
-(c) 1, 3 and 4 only
+1.  A digital platform for the wind energy supply chain aims to enhance transparency and optimize resource management within the sector.
+2.  India has set ambitious targets to increase its installed capacity of non-fossil fuel energy sources as part of its commitments under various international climate agreements.
+3.  The inherent intermittency of wind energy necessitates its integration with advanced energy storage solutions and smart grid technologies for grid stability.
+4.  Such digital platforms for renewable energy supply chains are exclusively developed and managed by government agencies to prevent data breaches and ensure national energy security.
 
-(d) 2, 3 and 4 only
-
-**Q5. With reference to India's Gross Domestic Product (GDP) data and its methodology, consider the following statements:**
-
-1.  Gross Value Added (GVA) measures the value of goods and services produced in an area, primarily reflecting the demand-side of the economy.
-
-2.  The National Statistical Office (NSO) is responsible for the compilation and dissemination of national accounts statistics in India.
-
-3.  Routine revisions in GDP growth numbers occur as more comprehensive data become available, rather than indicating methodological changes.
-
-4.  India's base year for calculating national income statistics is revised every five years to reflect structural changes in the economy.
-
-Which of the statements given above is/are correct?
-
-(a) 1 and 4 only
-
-(b) 2 and 3 only
-
-(c) 1, 2 and 3 only
-
-(d) 2, 3 and 4 only
-
-**Q6. With reference to the restriction on seafarer deployment by India, consider the following statements:**
-
-1.  The Directorate General of Shipping primarily regulates marine environment protection and coastal area development in India.
-
-2.  Restrictions on seafarer deployment are issued to protect Indian nationals from maritime piracy and conflict zones.
-
-3.  These advisories are only applicable to Indian citizens working on Indian-flagged vessels.
-
-4.  The United Nations Convention on the Law of the Sea (UNCLOS) establishes a comprehensive legal framework for all ocean activities.
-
-Which of the statements given above is/are correct?
-
-(a) 1 and 3 only
-
-(b) 2 and 4 only
-
-(c) 1, 2 and 4 only
-
-(d) 2, 3 and 4 only
-
-**Q7. With reference to India's national security framework, consider the following statements:**
-
-1.  The President of India is the Commander-in-Chief of the Indian Armed Forces.
-
-2.  The statement about 'full freedom for armed forces' implies a complete removal of civilian oversight in operational matters.
-
-3.  India's commitment to ensuring peace is primarily achieved through military deterrence and defensive alliances.
-
-4.  The Cabinet Committee on Security (CCS) is the apex body for national security decision-making in India.
-
-Which of the statements given above is/are correct?
-
+Which of the statements given above are correct?
 (a) 1 and 2 only
+(b) 1, 2 and 3 only
+(c) 2, 3 and 4 only
+(d) 1, 3 and 4 only
 
-(b) 3 and 4 only
+**Q11. With reference to the impact of environmental factors on public health in India, consider the following statements:**
 
-(c) 1 and 4 only
-
-(d) 2, 3 and 4 only
-
-**Q8. With reference to e-commerce and foreign investment in India, consider the following statements:**
-
-1.  The recent doubling of Amazon's growth plans in India is solely attributed to a relaxation of Foreign Direct Investment (FDI) norms in the e-commerce sector.
-
-2.  E-commerce companies operating in India are subject to regulations concerning consumer protection and data privacy.
-
-3.  The 'Make in India' initiative encourages foreign companies to establish manufacturing units within India.
-
-4.  Marketplace model e-commerce entities in India are allowed 100% FDI under the automatic route, subject to certain conditions.
+1.  Ground-level ozone, a significant air pollutant, is primarily formed when nitrogen oxides and volatile organic compounds react chemically in the presence of sunlight.
+2.  Heatwaves can contribute to increased cardiac mortality by imposing physiological stress on the cardiovascular system, leading to conditions like dehydration and exacerbation of pre-existing heart conditions.
+3.  The India study linking heatwaves and ozone to cardiac deaths primarily focused on assessing the impact of indoor air pollution in highly urbanized settings.
 
 Which of the statements given above is/are correct?
+(a) 1 only
+(b) 1 and 2 only
+(c) 2 and 3 only
+(d) 1, 2 and 3
 
-(a) 1, 2 and 3 only
+**Q12. With reference to infrastructure development in India, particularly large-scale projects like international airports, consider the following statements:**
 
-(b) 2, 3 and 4 only
+1.  The commissioning of a new international airport can significantly contribute to regional economic development by enhancing trade, tourism, and foreign direct investment.
+2.  Large infrastructure projects such as international airports generally necessitate a comprehensive Environmental Impact Assessment (EIA) to be conducted prior to their commencement.
+3.  An 'International Airport' designation implies that the facility is equipped to handle flights originating from and destined for foreign countries, thereby facilitating global connectivity.
+4.  All international airports operating in India are exclusively owned and managed by the Airports Authority of India (AAI), a statutory body under the Ministry of Civil Aviation.
 
-(c) 1, 3 and 4 only
-
-(d) 2 and 4 only
-
-**Q9. With reference to infrastructure development in India, consider the following statements:**
-
-1.  The Bengaluru-Chennai Expressway is being developed under the Sagarmala Programme, focusing on port connectivity.
-
-2.  Such large-scale infrastructure projects often involve a detailed Environmental Impact Assessment (EIA) to address ecological concerns.
-
-3.  The National Highways Authority of India (NHAI) is responsible for the development and maintenance of National Highways and Expressways in India.
-
-4.  The financial model for expressway projects in India primarily relies on Build-Operate-Transfer (BOT) agreements.
-
-Which of the statements given above is/are correct?
-
-(a) 1 and 4 only
-
-(b) 2 and 3 only
-
-(c) 1, 2 and 3 only
-
-(d) 2, 3 and 4 only
-
-**Q10. With reference to international maritime cooperation, consider the following statements:**
-
-1.  The US Navy's action of rescuing Indian seafarers is an example of humanitarian assistance under international maritime law.
-
-2.  Such rescue operations typically require specific authorization from the flag state of the distressed vessel prior to intervention.
-
-3.  The International Maritime Organization (IMO) develops global standards for the safety, security, and environmental performance of international shipping.
-
-4.  India's foreign policy prioritizes cooperation with naval powers for the safety of its citizens abroad.
-
-Which of the statements given above is/are correct?
-
+Which of the statements given above are correct?
 (a) 1 and 2 only
+(b) 1, 2 and 3 only
+(c) 2, 3 and 4 only
+(d) 1, 2, 3 and 4
 
-(b) 2 and 3 only
+**Q13. With reference to India's foreign trade, consider the following statements:**
 
-(c) 1, 3 and 4 only
+1.  India is a major global consumer of silver, utilized across sectors such as jewellery manufacturing, industrial applications, and as a financial investment.
+2.  The imposition of higher import duties on a particular commodity is typically intended to curb its inbound shipments and support domestic production or manage the balance of trade.
+3.  A substantial reduction in the import of a commodity, assuming other trade components remain constant, would generally contribute to an improvement in the country's current account deficit.
+4.  Import curbs, such as quantitative restrictions, are classified as non-tariff barriers to trade, primarily limiting the volume of goods rather than directly increasing their price.
 
+Which of the statements given above are correct?
+(a) 1 and 2 only
+(b) 1, 2 and 3 only
+(c) 2, 3 and 4 only
+(d) 1, 2, 3 and 4
+
+**Q14. With reference to international trade agreements and India's foreign policy, consider the following statements:**
+
+1.  A Free Trade Agreement (FTA) primarily seeks to reduce or eliminate customs duties and non-tariff barriers on goods and services exchanged between participating nations.
+2.  Challenges in the implementation of bilateral trade pacts often stem from discrepancies in regulatory frameworks, divergent technical standards, or differing interpretations of treaty clauses.
+3.  Both India and the United Kingdom are founding members of the World Trade Organization (WTO), which functions as the primary global forum for trade negotiations and dispute settlement.
+4.  A bilateral trade pact between two countries inherently takes precedence over all their obligations under multilateral trade agreements like those of the WTO.
+
+Which of the statements given above are correct?
+(a) 1 and 2 only
+(b) 1, 2 and 3 only
+(c) 2, 3 and 4 only
 (d) 1, 2, 3 and 4
