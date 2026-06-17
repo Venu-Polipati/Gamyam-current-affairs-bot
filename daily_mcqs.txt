@@ -2,11 +2,57 @@
 MCQs
 ━━━━━━━━━━━━━━━
 
-**Q1. Consider the following statements regarding Inter-State Water Disputes in India:**
+**Q1. Consider the following statements regarding the Indian Rupee and global crude oil prices:**
 
-1.  The Constitution of India explicitly empowers the Parliament to provide for the adjudication of inter-state river water disputes, to the exclusion of other courts.
-2.  The Inter-State Water Disputes Act, 1956, enables the Central Government to constitute a Tribunal for the adjudication of such disputes.
-3.  The decisions of an Inter-State Water Disputes Tribunal are binding on the party states and are not subject to the appellate jurisdiction of the Supreme Court.
+1.  A depreciation of the Indian Rupee against the US Dollar generally makes crude oil imports cheaper for India, thereby reducing the Current Account Deficit.
+
+2.  Lower global crude oil prices can alleviate inflationary pressures in the Indian economy and improve the government's fiscal balance.
+
+3.  The Reserve Bank of India primarily intervenes in the foreign exchange market to target a specific exchange rate for the Rupee to promote export competitiveness.
+
+Which of the statements given above is/are correct?
+(a) 2 only
+(b) 1 and 3 only
+(c) 2 and 3 only
+(d) 1, 2 and 3
+
+**Q2. With reference to the recent plea in the Supreme Court concerning Aadhaar misuse as proof of citizenship, consider the following statements:**
+
+1.  The Aadhaar Act, 2016, explicitly designates the Aadhaar number as a primary document for proving Indian citizenship.
+
+2.  The Supreme Court's verdict in the Puttaswamy case recognized the right to privacy as a fundamental right, directly impacting the collection and use of biometric data under Aadhaar.
+
+3.  Any concern regarding the validity of a law or its application can be addressed by the Supreme Court through its power of judicial review.
+
+Which of the statements given above is/are correct?
+(a) 1 and 2 only
+(b) 2 only
+(c) 2 and 3 only
+(d) 1, 2 and 3
+
+**Q3. Consider the following statements regarding environmental concerns in India:**
+
+1.  A significant deficit in monsoon rainfall can directly impact agricultural output and exacerbate water stress, particularly in rain-fed agricultural regions.
+
+2.  The Indian Summer Monsoon (ISM) is a complex meteorological phenomenon driven primarily by the differential heating of land and sea, influenced by factors like the El Niño Southern Oscillation (ENSO).
+
+3.  The proposed snow leopard conservation body focusing on the Ladakh region aims to protect a species listed as 'Critically Endangered' by the IUCN.
+
+4.  Ladakh, characterized by a cold desert ecosystem, is a significant habitat for snow leopards, supporting unique biodiversity adapted to high altitudes.
+
+Which of the statements given above is/are correct?
+(a) 1 and 3 only
+(b) 1, 2 and 4 only
+(c) 2, 3 and 4 only
+(d) 1, 2, 3 and 4
+
+**Q4. With reference to India's food grain management and food security, consider the following statements:**
+
+1.  Record grain reserves in India are primarily maintained to meet the requirements of the Public Distribution System (PDS) and to stabilize food prices.
+
+2.  Despite consecutive years of monsoon rainfall deficits, India's grain output levels have not dipped significantly due to improved irrigation facilities and climate-resilient crop varieties.
+
+3.  The minimum support price (MSP) mechanism plays a crucial role in ensuring remunerative prices for farmers and encouraging higher production, thereby contributing to grain reserves.
 
 Which of the statements given above is/are correct?
 (a) 1 and 2 only
@@ -14,170 +60,142 @@ Which of the statements given above is/are correct?
 (c) 1 and 3 only
 (d) 1, 2 and 3
 
-**Q2. With reference to inflation measurement in India, consider the following statements:**
+**Q5. Consider the following statements regarding India's energy security and international maritime routes:**
 
-1.  The Wholesale Price Index (WPI) primarily measures inflation at the consumer level, reflecting changes in the average price of goods and services purchased by households.
-2.  The Producer Price Index (PPI) aims to measure the average change over time in the selling prices received by domestic producers for their output.
-3.  A primary reason for India's transition from WPI to PPI is to align with international best practices for inflation measurement and reduce distortions caused by indirect taxes.
-4.  An increase in crude oil prices typically has a significant impact on India's Wholesale Price Index due to the country's high reliance on oil imports.
+1.  The Strait of Hormuz is a crucial maritime chokepoint primarily connecting the Persian Gulf to the Arabian Sea, through which a significant portion of global crude oil passes.
 
-Which of the statements given above are correct?
-(a) 1 and 2 only
-(b) 1, 3 and 4 only
-(c) 2, 3 and 4 only
-(d) 1, 2, 3 and 4
+2.  Geopolitical developments in the Persian Gulf region, including international sanctions or agreements, can directly influence India's crude oil supply stability and pricing.
 
-**Q3. With reference to government policy on Public Sector Undertakings (PSUs) in India, consider the following statements:**
+3.  India's emphasis on the protection of seafarers is confined only to its own citizens, without any broader implications for international maritime law or global trade.
 
-1.  The primary objective of disinvestment in PSUs is to generate revenue for the government and reduce its fiscal deficit.
-2.  An Offer for Sale (OFS) is a method used by promoters of listed companies, including the government, to dilute their shareholding in a transparent manner.
-3.  A suggestion for a dedicated privatisation ministry aims to streamline the disinvestment process by centralizing decision-making across various sectors including financial institutions.
-4.  The establishment of a dedicated ministry for privatisation would necessarily require a constitutional amendment to alter the existing departmental jurisdictions over Public Sector Undertakings.
+4.  Diversification of crude oil sources and strategic crude oil reserves are key components of India's long-term energy security strategy to mitigate supply disruptions.
 
-Which of the statements given above are correct?
-(a) 1, 2 and 3 only
-(b) 2, 3 and 4 only
-(c) 1 and 4 only
-(d) 1, 2, 3 and 4
-
-**Q4. Consider the following statements regarding India's external sector:**
-
-1.  A substantial plunge in global crude oil prices typically contributes to the appreciation of the Indian Rupee by easing the pressure on the country's import bill.
-2.  The Reserve Bank of India (RBI) can employ various tools, including direct intervention in the foreign exchange market, to manage volatility and influence the value of the Rupee.
-3.  An increase in India's merchandise exports, assuming imports remain constant, generally results in a reduction of the country's trade deficit.
-4.  India's trade deficit exclusively refers to the difference between the monetary value of its exports and imports of goods.
-
-Which of the statements given above are correct?
-(a) 1 and 2 only
-(b) 1, 2 and 3 only
-(c) 1, 2 and 4 only
-(d) 2, 3 and 4 only
-
-**Q5. With reference to India's energy security and international relations, consider the following statements:**
-
-1.  The Strait of Hormuz is a critical maritime chokepoint connecting the Persian Gulf to the Arabian Sea, through which a significant portion of global crude oil passes.
-2.  India's energy security strategy typically involves diversifying its sources of energy imports and exploring multiple supply routes to mitigate geopolitical risks.
-3.  An improved geopolitical situation leading to a more secure passage through the Strait of Hormuz would necessarily result in a sustained reduction in global crude oil prices.
-4.  India's pursuit of strategic autonomy in its foreign policy enables it to engage with various nations, including those under international scrutiny, to safeguard its national energy interests.
-
-Which of the statements given above are correct?
+Which of the statements given above is/are correct?
 (a) 1, 2 and 3 only
 (b) 1, 2 and 4 only
-(c) 3 and 4 only
+(c) 2, 3 and 4 only
 (d) 1, 2, 3 and 4
 
-**Q6. With reference to consumer protection in the Indian financial sector, consider the following statements:**
+**Q6. With reference to cybersecurity and CERT-In's recommendations, consider the following statements:**
 
-1.  The Reserve Bank of India (RBI) possesses the statutory authority to issue guidelines for commercial banks aimed at protecting consumer interests, including measures against mis-selling.
-2.  Mis-selling of financial products generally refers to the practice of selling a financial product to a customer without adequately assessing their needs or by providing misleading information.
-3.  Linking sales incentives predominantly to the volume of financial products sold, rather than their suitability for customers, is a practice that can exacerbate mis-selling.
-4.  The recent RBI rules specifically targeting mis-selling are exclusively applicable to non-banking financial companies (NBFCs) and cooperative banks, thereby exempting scheduled commercial banks.
+1.  The Indian Computer Emergency Response Team (CERT-In) is the nodal agency for responding to computer security incidents in India.
 
-Which of the statements given above are correct?
+2.  Artificial Intelligence (AI) can be effectively utilized for automated security testing and threat detection, enhancing the speed and accuracy of identifying vulnerabilities.
+
+3.  Timely application of software patches is crucial to mitigate cyber risks by addressing known vulnerabilities that could otherwise be exploited by malicious actors.
+
+4.  CERT-In's recommendations are legally binding on all government and private entities operating critical information infrastructure in India.
+
+Which of the statements given above is/are correct?
+(a) 1 and 2 only
+(b) 2 and 4 only
+(c) 1, 2 and 3 only
+(d) 1, 3 and 4 only
+
+**Q7. With reference to Rare Earth Elements (REEs) and India's strategic interests, consider the following statements:**
+
+1.  Rare Earth Elements are a group of 17 metallic elements crucial for manufacturing high-tech products, including electronics, renewable energy technologies, and defence applications.
+
+2.  India's efforts to source rare earth samples from international deposits are aimed at bolstering its domestic production capabilities and reducing reliance on a single source.
+
+3.  Despite their name, Rare Earth Elements are not particularly rare in the Earth's crust; their rarity lies in the economic viability of their extraction and processing.
+
+4.  The extraction and processing of Rare Earth Elements have significant environmental implications, often involving toxic chemicals and radioactive by-products.
+
+Which of the statements given above is/are correct?
 (a) 1, 2 and 3 only
 (b) 2, 3 and 4 only
-(c) 1 and 4 only
+(c) 1, 3 and 4 only
 (d) 1, 2, 3 and 4
 
-**Q7. With reference to the Right to Education (RTE) Act, 2009, consider the following statements:**
+**Q8. Regarding the regulation of pharmaceutical sales and public health in India, consider the following statements:**
 
-1.  The RTE Act, 2009, mandates free and compulsory education for all children aged six to fourteen years.
-2.  Article 21A of the Constitution of India, which declares education as a fundamental right, was introduced through the 86th Constitutional Amendment Act.
-3.  The financial responsibility for the implementation of the RTE Act rests exclusively with the State Governments, with no contribution from the Central Government.
-4.  A notice issued by the Supreme Court to the Centre and a state government regarding RTE implementation implies a conclusive finding of their failure to adhere to the Act's provisions.
+1.  The decision to mandate prescriptions for over-the-counter (OTC) cough syrup sales primarily aims to curb drug misuse and combat antimicrobial resistance.
 
-Which of the statements given above are correct?
+2.  Under the Drugs and Cosmetics Act, the Central Government has the authority to regulate the manufacture, sale, and distribution of drugs, including classifying them as prescription-only or OTC.
+
+3.  Pharmacists are legally authorized to dispense all types of medicines without a prescription, provided the customer has previously purchased the same medicine with a valid prescription.
+
+4.  The move to restrict OTC sales of certain drugs reflects a growing global concern over the unregulated access to medications and its potential public health consequences.
+
+Which of the statements given above is/are correct?
 (a) 1 and 2 only
+(b) 1, 2 and 4 only
+(c) 2, 3 and 4 only
+(d) 1, 2, 3 and 4
+
+**Q9. With reference to the recent changes in domestic airfare options introduced by airlines in India, consider the following statements:**
+
+1.  The introduction of a 'basic fare' option by airlines, excluding services like complimentary meals, is a strategy to offer competitive pricing and increase passenger load factors.
+
+2.  Such unbundling of services allows passengers to choose and pay only for the amenities they require, potentially leading to lower overall travel costs for budget-conscious travelers.
+
+3.  The Directorate General of Civil Aviation (DGCA) regulates the pricing of airfares and mandates certain inclusions in all fare types to ensure passenger welfare.
+
+Which of the statements given above is/are correct?
+(a) 1 and 2 only
+(b) 2 and 3 only
+(c) 1 and 3 only
+(d) 1, 2 and 3
+
+**Q10. With reference to financial investigations and the Enforcement Directorate (ED) in India, consider the following statements:**
+
+1.  The Enforcement Directorate is primarily responsible for enforcing the Prevention of Money Laundering Act (PMLA), 2002, and the Foreign Exchange Management Act (FEMA), 1999.
+
+2.  Loan fraud cases involving significant public funds often fall under the purview of financial investigative agencies due to potential elements of money laundering and illegal financial transactions.
+
+3.  The powers of the ED extend to conducting searches and seizures, attaching properties, and initiating prosecution for offenses under the PMLA.
+
+4.  The ED is an agency under the Ministry of Corporate Affairs, dedicated to ensuring compliance with corporate governance norms.
+
+Which of the statements given above is/are correct?
+(a) 1 and 4 only
 (b) 1, 2 and 3 only
 (c) 2, 3 and 4 only
 (d) 1, 2, 3 and 4
 
-**Q8. With reference to infrastructure development and project management in India, consider the following statements:**
+**Q11. With regard to laws concerning maintenance for dependants in India, consider the following statements:**
 
-1.  Bitumen, a derivative of crude oil, is a crucial binding material predominantly used in the construction of flexible pavements for National Highways.
-2.  Parliamentary panels, while assessing project compensation issues, primarily provide recommendations which are generally advisory in nature.
-3.  Fluctuations in diesel prices directly impact the cost of transport and machinery operation for National Highway builders, leading to changes in overall project expenditure.
-4.  The compensation for NH builders, related to diesel price surge, exclusively covers the cost difference of raw materials such as steel and cement, but not fuel itself.
+1.  Section 125 of the Criminal Procedure Code (CrPC) provides for maintenance to wives, children, and parents, irrespective of their religion, provided they are unable to maintain themselves.
 
-Which of the statements given above are correct?
-(a) 1 and 2 only
-(b) 1, 2 and 3 only
+2.  A High Court's denial of a maintenance hike, particularly after the death of a husband, would typically consider the financial capacity of the deceased's estate and other existing support mechanisms.
+
+3.  Hindu personal laws, under the Hindu Adoptions and Maintenance Act, 1956, also contain provisions for the maintenance of wives, children, and parents.
+
+4.  The quantum of maintenance granted by courts is fixed and cannot be varied even if there is a change in circumstances of the parties involved.
+
+Which of the statements given above is/are correct?
+(a) 1, 2 and 3 only
+(b) 1 and 4 only
 (c) 2, 3 and 4 only
+(d) 1, 2, 3 and 4
+
+**Q12. With reference to the Narikuravas community and tribal welfare in India, consider the following statements:**
+
+1.  The Narikuravas are a nomadic tribal community primarily found in the state of Tamil Nadu, recognized as a Scheduled Tribe.
+
+2.  The Constitution of India provides for the protection and advancement of Scheduled Tribes, including provisions related to land rights and social justice.
+
+3.  Laws prohibiting land alienation from tribal communities and facilitating the restoration of alienated tribal land are enacted by the Union Parliament exclusively, without State legislative involvement.
+
+4.  The Ministry of Tribal Affairs is the nodal ministry for the overall policy, planning, and coordination of programs for the development of Scheduled Tribes.
+
+Which of the statements given above is/are correct?
+(a) 1, 2 and 3 only
+(b) 2 and 4 only
+(c) 1, 2 and 4 only
 (d) 1, 3 and 4 only
 
-**Q9. With reference to a citizen's right to seek legal recourse in India, consider the following statements:**
+**Q13. Consider the various roles and functions of the Indian Armed Forces beyond conventional defence:**
 
-1.  The 'Right to move the Supreme Court' for the enforcement of fundamental rights is guaranteed as a fundamental right under the Constitution of India.
-2.  A One-Time Settlement (OTS) deal is a contractual arrangement between parties, typically a borrower and a lender, for the full and final settlement of dues.
-3.  The Supreme Court has ruled that a contractual agreement like an OTS cannot completely abrogate or restrict an individual's constitutional right to approach the courts for justice.
-4.  The right to seek legal remedy from courts for dispute resolution is an absolute right that cannot be circumscribed by any statutory provisions or procedural frameworks.
+1.  The armed forces frequently provide logistical support for civilian purposes, especially during natural disasters or in geographically challenging terrains.
 
-Which of the statements given above are correct?
-(a) 1 and 2 only
-(b) 1, 2 and 3 only
-(c) 2, 3 and 4 only
-(d) 1, 2, 3 and 4
+2.  Deployment of armed forces personnel and assets for non-combat roles, such as aid to civil authorities, is governed by specific legal frameworks and executive orders.
 
-**Q10. With reference to India's renewable energy sector, consider the following statements:**
-
-1.  A digital platform for the wind energy supply chain aims to enhance transparency and optimize resource management within the sector.
-2.  India has set ambitious targets to increase its installed capacity of non-fossil fuel energy sources as part of its commitments under various international climate agreements.
-3.  The inherent intermittency of wind energy necessitates its integration with advanced energy storage solutions and smart grid technologies for grid stability.
-4.  Such digital platforms for renewable energy supply chains are exclusively developed and managed by government agencies to prevent data breaches and ensure national energy security.
-
-Which of the statements given above are correct?
-(a) 1 and 2 only
-(b) 1, 2 and 3 only
-(c) 2, 3 and 4 only
-(d) 1, 3 and 4 only
-
-**Q11. With reference to the impact of environmental factors on public health in India, consider the following statements:**
-
-1.  Ground-level ozone, a significant air pollutant, is primarily formed when nitrogen oxides and volatile organic compounds react chemically in the presence of sunlight.
-2.  Heatwaves can contribute to increased cardiac mortality by imposing physiological stress on the cardiovascular system, leading to conditions like dehydration and exacerbation of pre-existing heart conditions.
-3.  The India study linking heatwaves and ozone to cardiac deaths primarily focused on assessing the impact of indoor air pollution in highly urbanized settings.
+3.  The Indian Air Force's logistical capabilities, including airlifting crucial supplies, are exclusively reserved for wartime operations and national security emergencies.
 
 Which of the statements given above is/are correct?
 (a) 1 only
 (b) 1 and 2 only
 (c) 2 and 3 only
 (d) 1, 2 and 3
-
-**Q12. With reference to infrastructure development in India, particularly large-scale projects like international airports, consider the following statements:**
-
-1.  The commissioning of a new international airport can significantly contribute to regional economic development by enhancing trade, tourism, and foreign direct investment.
-2.  Large infrastructure projects such as international airports generally necessitate a comprehensive Environmental Impact Assessment (EIA) to be conducted prior to their commencement.
-3.  An 'International Airport' designation implies that the facility is equipped to handle flights originating from and destined for foreign countries, thereby facilitating global connectivity.
-4.  All international airports operating in India are exclusively owned and managed by the Airports Authority of India (AAI), a statutory body under the Ministry of Civil Aviation.
-
-Which of the statements given above are correct?
-(a) 1 and 2 only
-(b) 1, 2 and 3 only
-(c) 2, 3 and 4 only
-(d) 1, 2, 3 and 4
-
-**Q13. With reference to India's foreign trade, consider the following statements:**
-
-1.  India is a major global consumer of silver, utilized across sectors such as jewellery manufacturing, industrial applications, and as a financial investment.
-2.  The imposition of higher import duties on a particular commodity is typically intended to curb its inbound shipments and support domestic production or manage the balance of trade.
-3.  A substantial reduction in the import of a commodity, assuming other trade components remain constant, would generally contribute to an improvement in the country's current account deficit.
-4.  Import curbs, such as quantitative restrictions, are classified as non-tariff barriers to trade, primarily limiting the volume of goods rather than directly increasing their price.
-
-Which of the statements given above are correct?
-(a) 1 and 2 only
-(b) 1, 2 and 3 only
-(c) 2, 3 and 4 only
-(d) 1, 2, 3 and 4
-
-**Q14. With reference to international trade agreements and India's foreign policy, consider the following statements:**
-
-1.  A Free Trade Agreement (FTA) primarily seeks to reduce or eliminate customs duties and non-tariff barriers on goods and services exchanged between participating nations.
-2.  Challenges in the implementation of bilateral trade pacts often stem from discrepancies in regulatory frameworks, divergent technical standards, or differing interpretations of treaty clauses.
-3.  Both India and the United Kingdom are founding members of the World Trade Organization (WTO), which functions as the primary global forum for trade negotiations and dispute settlement.
-4.  A bilateral trade pact between two countries inherently takes precedence over all their obligations under multilateral trade agreements like those of the WTO.
-
-Which of the statements given above are correct?
-(a) 1 and 2 only
-(b) 1, 2 and 3 only
-(c) 2, 3 and 4 only
-(d) 1, 2, 3 and 4

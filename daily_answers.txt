@@ -1,49 +1,51 @@
 1. (a)
 
-Reason:
-Statement 2 is incorrect as India still imports a significant portion of its urea requirements. Statement 3 is incorrect as Urea is not covered under the Nutrient Based Subsidy (NBS) Policy; it has a separate administered pricing mechanism. Statements 1 and 4 are correct.
+Reason: Statement 1 is incorrect because a depreciation of the Indian Rupee makes imports, including crude oil, more expensive, thereby increasing the Current Account Deficit. Statement 3 is incorrect because the RBI's primary objective in forex intervention is to curb excessive volatility, not to target a specific exchange rate for export promotion. Statement 2 is correct as lower oil prices reduce import bills, decrease input costs for industries (alleviating inflation), and can improve government finances through reduced subsidies or higher tax revenues.
 
-2. (b)
+2. (c)
 
-Reason:
-Statement 1 is incorrect as the 'Innovation Roadmap 2030' is broader, covering diverse emerging technologies and not limited to military aspects. Statement 4 is incorrect as French investment is sought in various sectors, not solely nuclear energy. Statements 2 and 3 are correct.
+Reason: Statement 1 is incorrect. The Aadhaar Act, 2016, establishes Aadhaar as proof of identity and residency, not citizenship. Statement 2 is correct. The Supreme Court's judgment in K.S. Puttaswamy v. Union of India affirmed the right to privacy as a fundamental right under Article 21, which has significant implications for how personal data, including biometric data for Aadhaar, is collected and used. Statement 3 is correct. Judicial review is a fundamental power of the Supreme Court to examine the constitutionality and legality of legislative and executive actions.
 
 3. (b)
 
-Reason:
-Statement 1 is incorrect as BRICS is an economic, political, and cultural grouping, not a military alliance. Statement 4 is incorrect as the Indore Declaration does not specify immediate expansion targets or reference G20 nations for membership. Statements 2 and 3 are correct.
+Reason: Statement 1 is correct as monsoon rainfall is crucial for Indian agriculture, and a deficit can lead to lower yields and water scarcity. Statement 2 is correct as the ISM is a complex system driven by thermal contrasts and influenced by global phenomena like ENSO. Statement 3 is incorrect because the Snow Leopard is listed as 'Vulnerable' by the IUCN, not 'Critically Endangered'. Statement 4 is correct, Ladakh's high-altitude cold desert ecosystem is a key habitat for snow leopards and is known for its unique biodiversity.
 
-4. (c)
+4. (d)
 
-Reason:
-Statement 2 is incorrect as the '60 days of crude stock' includes both strategic reserves and commercial stocks held by refineries. Statements 1, 3, and 4 are correct.
+Reason: Statement 1 is correct. India maintains buffer stocks of food grains primarily to ensure food security for its population, meet Public Distribution System (PDS) requirements, and stabilize food prices during periods of scarcity or excessive supply. Statement 2 is correct. Despite variable monsoon performance, India's agricultural sector has shown resilience, often attributed to factors like expanded irrigation coverage, adoption of high-yielding and climate-resilient crop varieties, and improved farming practices. Statement 3 is correct. The Minimum Support Price (MSP) acts as a procurement price for various crops, guaranteeing a floor price for farmers' produce, thereby incentivizing production and contributing to the government's food grain reserves.
 
 5. (b)
 
-Reason:
-Statement 1 is incorrect as Gross Value Added (GVA) primarily reflects the supply-side performance of the economy. Statement 4 is incorrect as the base year for national income statistics is revised periodically, not necessarily every five years (e.g., current is 2011-12, previous was 2004-05). Statements 2 and 3 are correct.
+Reason: Statement 1 is correct. The Strait of Hormuz is indeed a vital maritime chokepoint between the Persian Gulf and the Arabian Sea, critical for global oil shipments. Statement 2 is correct. Geopolitical developments, including sanctions or agreements (like the US-Iran deal), in the Persian Gulf directly impact global oil supply, prices, and by extension, India's energy security. Statement 3 is incorrect. India's emphasis on the protection of seafarers extends to promoting international maritime safety and security, adhering to international conventions, and ensuring freedom of navigation for all, not just its own citizens. Statement 4 is correct. Diversification of oil sources and building strategic petroleum reserves are standard components of energy security strategies to cushion against supply shocks.
 
-6. (b)
+6. (c)
 
-Reason:
-Statement 1 is incorrect as the Directorate General of Shipping is the principal maritime administration responsible for merchant shipping, including safety, training, and welfare of seafarers. Statement 3 is incorrect as such advisories protect all Indian citizens, regardless of the flag of the vessel they work on, if they are being deployed from India or operating in specified high-risk areas. Statements 2 and 4 are correct.
+Reason: Statement 1 is correct. CERT-In serves as the national agency for coordinating responses to cybersecurity incidents. Statement 2 is correct. AI is increasingly used in cybersecurity for tasks like anomaly detection, malware analysis, and automating security testing to identify vulnerabilities faster. Statement 3 is correct. Applying timely patches is a critical security measure to fix software flaws and prevent exploits by cybercriminals. Statement 4 is incorrect. While CERT-In issues advisories and guidelines for all entities and can issue directions to critical infrastructure entities under certain circumstances, its 'recommendations' are generally not legally binding on all government and private entities in the same way direct mandates or specific legal provisions are.
 
-7. (c)
+7. (d)
 
-Reason:
-Statement 2 is incorrect as 'full freedom' to armed forces operates within the established framework of civilian oversight in a democratic setup. Statement 3 is incorrect as India ensures peace through a multi-pronged approach that includes diplomacy, multilateralism, and strategic partnerships, not solely military deterrence. Statements 1 and 4 are correct.
+Reason: Statement 1 is correct. REEs are 17 metallic elements vital for advanced technologies. Statement 2 is correct. Sourcing REEs from diverse international deposits is a strategic move to secure supply chains, reduce dependence, and support domestic manufacturing capabilities. Statement 3 is correct. Despite their name, REEs are relatively abundant in the Earth's crust; their "rarity" refers to the difficulty and cost-effectiveness of their extraction and separation into pure forms. Statement 4 is correct. The extraction and processing of REEs are known to be environmentally damaging, involving substantial energy consumption, hazardous waste generation, and release of toxic and radioactive by-products.
 
 8. (b)
 
-Reason:
-Statement 1 is incorrect as doubling of growth plans is influenced by multiple market factors and company strategy, not solely by FDI norm relaxation. Statements 2, 3, and 4 are correct.
+Reason: Statement 1 is correct. Restricting over-the-counter sales of certain drugs, including cough syrups, is often a measure to prevent their misuse (e.g., as recreational drugs) and to combat the growing threat of antimicrobial resistance. Statement 2 is correct. The Drugs and Cosmetics Act, 1940, and rules framed thereunder empower the Central Government to regulate the pharmaceutical sector, including classification of drugs. Statement 3 is incorrect. Pharmacists are generally legally required to dispense prescription-only medicines only upon presentation of a valid, current prescription from a registered medical practitioner, regardless of previous purchases. Statement 4 is correct. There is a global concern regarding easy access to certain medications leading to misuse, adverse health outcomes, and development of drug resistance.
 
-9. (b)
+9. (a)
 
-Reason:
-Statement 1 is incorrect as the Bengaluru-Chennai Expressway is part of India's national highway network development, likely under Bharatmala Pariyojana, not Sagarmala Programme which focuses on port-led development. Statement 4 is incorrect as while BOT is a model, Engineering, Procurement, and Construction (EPC) and Hybrid Annuity Model (HAM) are also widely used, along with public funding. Statements 2 and 3 are correct.
+Reason: Statement 1 is correct. Airlines often introduce varied fare options, including basic fares without additional services, to cater to different segments of travelers, offer competitive prices, and increase their overall passenger traffic. Statement 2 is correct. Unbundling services allows passengers to customize their travel experience by paying only for what they need, which can result in lower fares for those who opt out of optional services like complimentary meals. Statement 3 is incorrect. While DGCA regulates aspects of airline operations and consumer protection, it does not directly regulate airfare pricing in India. Airlines have the freedom to set fares based on market dynamics, within broad guidelines.
 
-10. (c)
+10. (b)
 
-Reason:
-Statement 2 is incorrect as under international maritime law, vessels are obligated to render immediate assistance to persons in distress at sea, and specific prior authorization from the flag state is not required for immediate rescue operations. Statements 1, 3, and 4 are correct.
+Reason: Statement 1 is correct. The ED is primarily tasked with enforcing the Prevention of Money Laundering Act (PMLA) and the Foreign Exchange Management Act (FEMA). Statement 2 is correct. Loan fraud cases, especially those involving large sums and public funds, frequently involve elements of money laundering, asset concealment, and illegal financial transactions, bringing them under the scrutiny of financial investigative agencies like ED. Statement 3 is correct. The ED has wide-ranging powers under PMLA, including conducting searches, seizures, provisional attachment of properties, and initiating prosecution for money laundering offenses. Statement 4 is incorrect. The Enforcement Directorate (ED) functions under the Department of Revenue, Ministry of Finance, not the Ministry of Corporate Affairs.
+
+11. (a)
+
+Reason: Statement 1 is correct. Section 125 of CrPC is a secular provision enabling maintenance for wives, children, and parents if they are unable to maintain themselves. Statement 2 is correct. Judicial decisions on maintenance consider various factors, including the financial status of the parties, the estate of the deceased, and any other sources of income or support available. Statement 3 is correct. The Hindu Adoptions and Maintenance Act, 1956, is a specific personal law that provides for the maintenance of dependents, including wives, children, and aged parents. Statement 4 is incorrect. The quantum of maintenance is not fixed and can be varied by courts if there is a material change in the circumstances of any of the parties involved.
+
+12. (c)
+
+Reason: Statement 1 is correct. The Narikuravas are a recognized Scheduled Tribe, primarily concentrated in Tamil Nadu, known for their nomadic lifestyle and traditional occupation of hunting and selling bead ornaments. Statement 2 is correct. The Constitution includes several provisions (e.g., Article 46, Article 244, Fifth and Sixth Schedules) aimed at the protection, welfare, and development of Scheduled Tribes, including safeguarding their land rights. Statement 3 is incorrect. While the Union Parliament can enact laws concerning tribal affairs (like PESA), land is a State subject. Therefore, State legislatures also have a significant role in enacting and enforcing laws related to tribal land alienation and restoration. Statement 4 is correct. The Ministry of Tribal Affairs is indeed the nodal agency for all matters pertaining to the policy, planning, and development of Scheduled Tribes in India.
+
+13. (b)
+
+Reason: Statement 1 is correct. The armed forces are frequently deployed for aid to civil authorities, especially during disasters, search and rescue operations, or for logistical support in difficult terrains. Statement 2 is correct. The deployment of armed forces for civil aid is governed by established protocols, legal provisions, and executive orders, ensuring accountability and defined roles. Statement 3 is incorrect. The Indian Air Force's logistical capabilities are not exclusively reserved for wartime or national security emergencies. They are regularly utilized for humanitarian aid, disaster relief, and other civilian support tasks, as seen in the news itself (ferrying NEET papers).
