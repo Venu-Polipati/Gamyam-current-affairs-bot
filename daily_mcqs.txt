@@ -2,200 +2,194 @@
 MCQs
 ━━━━━━━━━━━━━━━
 
-**Q1. Consider the following statements regarding the Indian Rupee and global crude oil prices:**
+**Q1. Consider the following statements regarding Income Tax Rebates in India:**
 
-1.  A depreciation of the Indian Rupee against the US Dollar generally makes crude oil imports cheaper for India, thereby reducing the Current Account Deficit.
+1.  **The rebate under Section 87A of the Income Tax Act is available to all individuals opting for the new tax regime, regardless of their taxable income.**
+2.  **The primary objective of Section 87A rebate is to provide tax relief to middle-income taxpayers.**
+3.  **The availability of Section 87A rebate is independent of an individual's residential status in India.**
 
-2.  Lower global crude oil prices can alleviate inflationary pressures in the Indian economy and improve the government's fiscal balance.
+**Which of the statements given above is/are correct?**
 
-3.  The Reserve Bank of India primarily intervenes in the foreign exchange market to target a specific exchange rate for the Rupee to promote export competitiveness.
-
-Which of the statements given above is/are correct?
-(a) 2 only
-(b) 1 and 3 only
-(c) 2 and 3 only
-(d) 1, 2 and 3
-
-**Q2. With reference to the recent plea in the Supreme Court concerning Aadhaar misuse as proof of citizenship, consider the following statements:**
-
-1.  The Aadhaar Act, 2016, explicitly designates the Aadhaar number as a primary document for proving Indian citizenship.
-
-2.  The Supreme Court's verdict in the Puttaswamy case recognized the right to privacy as a fundamental right, directly impacting the collection and use of biometric data under Aadhaar.
-
-3.  Any concern regarding the validity of a law or its application can be addressed by the Supreme Court through its power of judicial review.
-
-Which of the statements given above is/are correct?
-(a) 1 and 2 only
-(b) 2 only
-(c) 2 and 3 only
-(d) 1, 2 and 3
-
-**Q3. Consider the following statements regarding environmental concerns in India:**
-
-1.  A significant deficit in monsoon rainfall can directly impact agricultural output and exacerbate water stress, particularly in rain-fed agricultural regions.
-
-2.  The Indian Summer Monsoon (ISM) is a complex meteorological phenomenon driven primarily by the differential heating of land and sea, influenced by factors like the El Niño Southern Oscillation (ENSO).
-
-3.  The proposed snow leopard conservation body focusing on the Ladakh region aims to protect a species listed as 'Critically Endangered' by the IUCN.
-
-4.  Ladakh, characterized by a cold desert ecosystem, is a significant habitat for snow leopards, supporting unique biodiversity adapted to high altitudes.
-
-Which of the statements given above is/are correct?
-(a) 1 and 3 only
-(b) 1, 2 and 4 only
-(c) 2, 3 and 4 only
-(d) 1, 2, 3 and 4
-
-**Q4. With reference to India's food grain management and food security, consider the following statements:**
-
-1.  Record grain reserves in India are primarily maintained to meet the requirements of the Public Distribution System (PDS) and to stabilize food prices.
-
-2.  Despite consecutive years of monsoon rainfall deficits, India's grain output levels have not dipped significantly due to improved irrigation facilities and climate-resilient crop varieties.
-
-3.  The minimum support price (MSP) mechanism plays a crucial role in ensuring remunerative prices for farmers and encouraging higher production, thereby contributing to grain reserves.
-
-Which of the statements given above is/are correct?
-(a) 1 and 2 only
-(b) 2 and 3 only
-(c) 1 and 3 only
-(d) 1, 2 and 3
-
-**Q5. Consider the following statements regarding India's energy security and international maritime routes:**
-
-1.  The Strait of Hormuz is a crucial maritime chokepoint primarily connecting the Persian Gulf to the Arabian Sea, through which a significant portion of global crude oil passes.
-
-2.  Geopolitical developments in the Persian Gulf region, including international sanctions or agreements, can directly influence India's crude oil supply stability and pricing.
-
-3.  India's emphasis on the protection of seafarers is confined only to its own citizens, without any broader implications for international maritime law or global trade.
-
-4.  Diversification of crude oil sources and strategic crude oil reserves are key components of India's long-term energy security strategy to mitigate supply disruptions.
-
-Which of the statements given above is/are correct?
-(a) 1, 2 and 3 only
-(b) 1, 2 and 4 only
-(c) 2, 3 and 4 only
-(d) 1, 2, 3 and 4
-
-**Q6. With reference to cybersecurity and CERT-In's recommendations, consider the following statements:**
-
-1.  The Indian Computer Emergency Response Team (CERT-In) is the nodal agency for responding to computer security incidents in India.
-
-2.  Artificial Intelligence (AI) can be effectively utilized for automated security testing and threat detection, enhancing the speed and accuracy of identifying vulnerabilities.
-
-3.  Timely application of software patches is crucial to mitigate cyber risks by addressing known vulnerabilities that could otherwise be exploited by malicious actors.
-
-4.  CERT-In's recommendations are legally binding on all government and private entities operating critical information infrastructure in India.
-
-Which of the statements given above is/are correct?
-(a) 1 and 2 only
-(b) 2 and 4 only
-(c) 1, 2 and 3 only
-(d) 1, 3 and 4 only
-
-**Q7. With reference to Rare Earth Elements (REEs) and India's strategic interests, consider the following statements:**
-
-1.  Rare Earth Elements are a group of 17 metallic elements crucial for manufacturing high-tech products, including electronics, renewable energy technologies, and defence applications.
-
-2.  India's efforts to source rare earth samples from international deposits are aimed at bolstering its domestic production capabilities and reducing reliance on a single source.
-
-3.  Despite their name, Rare Earth Elements are not particularly rare in the Earth's crust; their rarity lies in the economic viability of their extraction and processing.
-
-4.  The extraction and processing of Rare Earth Elements have significant environmental implications, often involving toxic chemicals and radioactive by-products.
-
-Which of the statements given above is/are correct?
-(a) 1, 2 and 3 only
-(b) 2, 3 and 4 only
-(c) 1, 3 and 4 only
-(d) 1, 2, 3 and 4
-
-**Q8. Regarding the regulation of pharmaceutical sales and public health in India, consider the following statements:**
-
-1.  The decision to mandate prescriptions for over-the-counter (OTC) cough syrup sales primarily aims to curb drug misuse and combat antimicrobial resistance.
-
-2.  Under the Drugs and Cosmetics Act, the Central Government has the authority to regulate the manufacture, sale, and distribution of drugs, including classifying them as prescription-only or OTC.
-
-3.  Pharmacists are legally authorized to dispense all types of medicines without a prescription, provided the customer has previously purchased the same medicine with a valid prescription.
-
-4.  The move to restrict OTC sales of certain drugs reflects a growing global concern over the unregulated access to medications and its potential public health consequences.
-
-Which of the statements given above is/are correct?
-(a) 1 and 2 only
-(b) 1, 2 and 4 only
-(c) 2, 3 and 4 only
-(d) 1, 2, 3 and 4
-
-**Q9. With reference to the recent changes in domestic airfare options introduced by airlines in India, consider the following statements:**
-
-1.  The introduction of a 'basic fare' option by airlines, excluding services like complimentary meals, is a strategy to offer competitive pricing and increase passenger load factors.
-
-2.  Such unbundling of services allows passengers to choose and pay only for the amenities they require, potentially leading to lower overall travel costs for budget-conscious travelers.
-
-3.  The Directorate General of Civil Aviation (DGCA) regulates the pricing of airfares and mandates certain inclusions in all fare types to ensure passenger welfare.
-
-Which of the statements given above is/are correct?
-(a) 1 and 2 only
-(b) 2 and 3 only
-(c) 1 and 3 only
-(d) 1, 2 and 3
-
-**Q10. With reference to financial investigations and the Enforcement Directorate (ED) in India, consider the following statements:**
-
-1.  The Enforcement Directorate is primarily responsible for enforcing the Prevention of Money Laundering Act (PMLA), 2002, and the Foreign Exchange Management Act (FEMA), 1999.
-
-2.  Loan fraud cases involving significant public funds often fall under the purview of financial investigative agencies due to potential elements of money laundering and illegal financial transactions.
-
-3.  The powers of the ED extend to conducting searches and seizures, attaching properties, and initiating prosecution for offenses under the PMLA.
-
-4.  The ED is an agency under the Ministry of Corporate Affairs, dedicated to ensuring compliance with corporate governance norms.
-
-Which of the statements given above is/are correct?
-(a) 1 and 4 only
-(b) 1, 2 and 3 only
-(c) 2, 3 and 4 only
-(d) 1, 2, 3 and 4
-
-**Q11. With regard to laws concerning maintenance for dependants in India, consider the following statements:**
-
-1.  Section 125 of the Criminal Procedure Code (CrPC) provides for maintenance to wives, children, and parents, irrespective of their religion, provided they are unable to maintain themselves.
-
-2.  A High Court's denial of a maintenance hike, particularly after the death of a husband, would typically consider the financial capacity of the deceased's estate and other existing support mechanisms.
-
-3.  Hindu personal laws, under the Hindu Adoptions and Maintenance Act, 1956, also contain provisions for the maintenance of wives, children, and parents.
-
-4.  The quantum of maintenance granted by courts is fixed and cannot be varied even if there is a change in circumstances of the parties involved.
-
-Which of the statements given above is/are correct?
-(a) 1, 2 and 3 only
-(b) 1 and 4 only
-(c) 2, 3 and 4 only
-(d) 1, 2, 3 and 4
-
-**Q12. With reference to the Narikuravas community and tribal welfare in India, consider the following statements:**
-
-1.  The Narikuravas are a nomadic tribal community primarily found in the state of Tamil Nadu, recognized as a Scheduled Tribe.
-
-2.  The Constitution of India provides for the protection and advancement of Scheduled Tribes, including provisions related to land rights and social justice.
-
-3.  Laws prohibiting land alienation from tribal communities and facilitating the restoration of alienated tribal land are enacted by the Union Parliament exclusively, without State legislative involvement.
-
-4.  The Ministry of Tribal Affairs is the nodal ministry for the overall policy, planning, and coordination of programs for the development of Scheduled Tribes.
-
-Which of the statements given above is/are correct?
-(a) 1, 2 and 3 only
-(b) 2 and 4 only
-(c) 1, 2 and 4 only
-(d) 1, 3 and 4 only
-
-**Q13. Consider the various roles and functions of the Indian Armed Forces beyond conventional defence:**
-
-1.  The armed forces frequently provide logistical support for civilian purposes, especially during natural disasters or in geographically challenging terrains.
-
-2.  Deployment of armed forces personnel and assets for non-combat roles, such as aid to civil authorities, is governed by specific legal frameworks and executive orders.
-
-3.  The Indian Air Force's logistical capabilities, including airlifting crucial supplies, are exclusively reserved for wartime operations and national security emergencies.
-
-Which of the statements given above is/are correct?
 (a) 1 only
-(b) 1 and 2 only
+
+(b) 2 only
+
+(c) 1 and 3 only
+
+(d) 1, 2 and 3
+
+**Q2. Consider the following statements regarding Initial Public Offerings (IPOs) in India:**
+
+1.  **A Draft Red Herring Prospectus (DRHP) filed by a company seeking an IPO is primarily an offer document to solicit bids from institutional investors before the public issue opens.**
+2.  **The Securities and Exchange Board of India (SEBI) is the regulatory authority for IPOs in India, responsible for ensuring disclosure and investor protection.**
+3.  **Secondary sales of shares by existing shareholders during an IPO lead to capital inflow for the company.**
+
+**Which of the statements given above is/are correct?**
+
+(a) 1 and 2 only
+
+(b) 2 only
+
 (c) 2 and 3 only
+
+(d) 1, 2 and 3
+
+**Q3. Consider the following statements in the context of global trade and economic groupings:**
+
+1.  **The G7 group primarily focuses on coordinating monetary policies to address global inflation and currency fluctuations.**
+2.  **"China Shock 2.0" refers to concerns among Western economies about a potential surge of low-priced Chinese exports disrupting domestic industries.**
+3.  **Imposing tariffs on imported goods is a measure often considered by countries to address perceived unfair trade practices or protect domestic industries.**
+
+**Which of the statements given above is/are correct?**
+
+(a) 1 and 2 only
+
+(b) 2 and 3 only
+
+(c) 1 and 3 only
+
+(d) 1, 2 and 3
+
+**Q4. With reference to the monetary policy decisions of the US Federal Reserve, consider the following statements:**
+
+1.  **The Federal Open Market Committee (FOMC) is the principal monetary policymaking body of the US central banking system.**
+2.  **An increase in the US federal funds rate typically leads to an appreciation of the US dollar relative to other currencies, attracting capital inflows.**
+3.  **Emerging economies, including India, are generally insulated from the effects of changes in US interest rates due to their independent monetary policies.**
+
+**Which of the statements given above is/are correct?**
+
+(a) 1 only
+
+(b) 1 and 2 only
+
+(c) 2 and 3 only
+
+(d) 1, 2 and 3
+
+**Q5. Consider the following statements regarding the role of Artificial Intelligence (AI) in education and judicial pronouncements:**
+
+1.  **The Right to Education in India, as enshrined in the Constitution, obligates the state to provide quality education, which traditionally includes human interaction and pedagogical support.**
+2.  **The judiciary, through its pronouncements, can guide policy on technology integration in public services like education, emphasizing foundational principles.**
+3.  **AI tools are currently recognized globally as a complete substitute for human teachers in fostering critical thinking and emotional development in students.**
+
+**Which of the statements given above is/are correct?**
+
+(a) 1 only
+
+(b) 2 only
+
+(c) 1 and 2 only
+
+(d) 1, 2 and 3
+
+**Q6. With reference to Free Trade Agreements (FTAs) and India's trade policy, consider the following statements:**
+
+1.  **An FTA primarily aims to eliminate or reduce tariff barriers, but often includes provisions for non-tariff barriers, services trade, and investment.**
+2.  **India's strategy in FTAs often involves shielding a significant portion of its export basket from immediate tariff reductions to protect domestic industries.**
+3.  **The World Trade Organization (WTO) framework does not permit member countries to enter into bilateral or regional trade agreements like FTAs.**
+
+**Which of the statements given above is/are correct?**
+
+(a) 1 and 2 only
+
+(b) 2 and 3 only
+
+(c) 1 only
+
+(d) 1, 2 and 3
+
+**Q7. Consider the following statements regarding India's power generation capacity and energy transition:**
+
+1.  **India's current installed power generation capacity primarily relies on thermal power sources, mainly coal.**
+2.  **The target of increasing power generation capacity is exclusively focused on renewable energy sources to meet climate commitments.**
+3.  **Enhancing power generation capacity plays a crucial role in achieving energy security and supporting economic growth.**
+
+**Which of the statements given above is/are correct?**
+
+(a) 1 only
+
+(b) 2 and 3 only
+
+(c) 1 and 3 only
+
+(d) 1, 2 and 3
+
+**Q8. With reference to Industrial Training Institutes (ITIs) in India, consider the following statements:**
+
+1.  **ITIs primarily aim to provide vocational training to equip the workforce with technical skills for industrial employment.**
+2.  **The National Skill Development Corporation (NSDC) is the sole body responsible for accreditation and ranking of all ITIs in India.**
+3.  **Skill development initiatives in India are crucial for addressing youth unemployment and improving industrial competitiveness.**
+
+**Which of the statements given above is/are correct?**
+
+(a) 1 only
+
+(b) 1 and 3 only
+
+(c) 2 and 3 only
+
+(d) 1, 2 and 3
+
+**Q9. Consider the role of India in global forums and its bilateral engagements:**
+
+1.  **India's participation as an outreach country at G7 summits highlights its growing influence and role in addressing global challenges.**
+2.  **The concept of 'Global South' primarily refers to countries in the Southern Hemisphere that share common socio-economic developmental challenges.**
+3.  **India's engagement with countries like Italy often encompasses diverse sectors such as trade, defence, and cultural exchanges, reflecting comprehensive strategic partnerships.**
+
+**Which of the statements given above is/are correct?**
+
+(a) 1 and 2 only
+
+(b) 2 and 3 only
+
+(c) 1 and 3 only
+
+(d) 1, 2 and 3
+
+**Q10. With reference to maintenance provisions under Indian law, consider the following statements:**
+
+1.  **A maintenance decree issued by a competent court is legally binding and can be enforced against the estate of the person ordered to pay, even after their demise.**
+2.  **The liability to pay maintenance ceases immediately upon the death of the person obligated to pay, regardless of any prior court order.**
+3.  **The estate of a deceased person can be held liable to satisfy a pre-existing maintenance decree, reflecting the ongoing nature of such an obligation.**
+
+**Which of the statements given above is/are correct?**
+
+(a) 1 only
+
+(b) 1 and 3 only
+
+(c) 2 and 3 only
+
+(d) 1, 2 and 3
+
+**Q11. Consider the diverse roles and capabilities of the Indian Air Force (IAF):**
+
+1.  **The IAF's primary mandate is to secure Indian airspace and conduct aerial warfare, with logistical support being a secondary, non-core function.**
+2.  **The IAF frequently engages in humanitarian assistance and disaster relief (HADR) operations, utilizing its airlift capabilities for rapid response.**
+3.  **Civil-military cooperation, exemplified by providing logistical support for national-level examinations, demonstrates the armed forces' contribution to national development.**
+
+**Which of the statements given above is/are correct?**
+
+(a) 1 and 2 only
+
+(b) 2 and 3 only
+
+(c) 1 and 3 only
+
+(d) 1, 2 and 3
+
+**Q12. With reference to India's trade relations with the European Union (EU), consider the following statements:**
+
+1.  **The European Union is a prominent economic and political bloc, representing a significant market for Indian exports and a source of foreign direct investment.**
+2.  **Negotiations for a Free Trade Agreement (FTA) between India and the EU have historically been swift and free from complex regulatory hurdles due to convergent economic interests.**
+3.  **Successful conclusion of an India-EU FTA is expected to significantly boost bilateral trade across various sectors, including goods, services, and investment.**
+
+**Which of the statements given above is/are correct?**
+
+(a) 1 only
+
+(b) 1 and 3 only
+
+(c) 2 and 3 only
+
 (d) 1, 2 and 3
