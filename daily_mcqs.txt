@@ -2,194 +2,222 @@
 MCQs
 ━━━━━━━━━━━━━━━
 
-**Q1. Consider the following statements regarding Income Tax Rebates in India:**
+**Q1. Consider the following statements regarding the Pradhan Mantri Kisan Samman Nidhi (PM-KISAN) scheme:**
 
-1.  **The rebate under Section 87A of the Income Tax Act is available to all individuals opting for the new tax regime, regardless of their taxable income.**
-2.  **The primary objective of Section 87A rebate is to provide tax relief to middle-income taxpayers.**
-3.  **The availability of Section 87A rebate is independent of an individual's residential status in India.**
+1.  The scheme aims to provide income support to all landholding farmer families across the country, subject to certain exclusion criteria.
 
-**Which of the statements given above is/are correct?**
+2.  Under the scheme, eligible farmer families receive an amount of ₹6,000 per year in three equal instalments.
 
-(a) 1 only
+3.  The recently released 23rd instalment of PM-KISAN involved a direct benefit transfer of ₹18,880 crore to over 9.44 crore farmer beneficiaries.
 
-(b) 2 only
+4.  All landless agricultural labourers are included as beneficiaries under the PM-KISAN scheme, provided they meet the income criteria.
 
-(c) 1 and 3 only
+Which of the statements given above is/are correct?
 
-(d) 1, 2 and 3
+(a) 1, 2 and 3 only
 
-**Q2. Consider the following statements regarding Initial Public Offerings (IPOs) in India:**
+(b) 1, 2 and 4 only
 
-1.  **A Draft Red Herring Prospectus (DRHP) filed by a company seeking an IPO is primarily an offer document to solicit bids from institutional investors before the public issue opens.**
-2.  **The Securities and Exchange Board of India (SEBI) is the regulatory authority for IPOs in India, responsible for ensuring disclosure and investor protection.**
-3.  **Secondary sales of shares by existing shareholders during an IPO lead to capital inflow for the company.**
+(c) 3 and 4 only
 
-**Which of the statements given above is/are correct?**
+(d) 1, 2, 3 and 4
 
-(a) 1 and 2 only
+**Q2. With reference to Indian funds in Swiss Banks, consider the following statements:**
 
-(b) 2 only
+1.  The overall funds held by Indian clients in Swiss banks, including customer deposits, trusts, and other liabilities, recorded a decline in the last financial year.
 
-(c) 2 and 3 only
+2.  Customer deposits, which are a component of the total funds, saw a significant increase in the same period, indicating a shift in the nature of holdings.
 
-(d) 1, 2 and 3
+3.  The decline in overall Indian funds in Swiss banks is primarily attributed to stricter anti-money laundering regulations in both India and Switzerland, coupled with international agreements like Automatic Exchange of Information (AEOI).
 
-**Q3. Consider the following statements in the context of global trade and economic groupings:**
+4.  The figure of ₹36,793 crore represents the total funds held by Indian clients as of the most recent reporting period in 2025.
 
-1.  **The G7 group primarily focuses on coordinating monetary policies to address global inflation and currency fluctuations.**
-2.  **"China Shock 2.0" refers to concerns among Western economies about a potential surge of low-priced Chinese exports disrupting domestic industries.**
-3.  **Imposing tariffs on imported goods is a measure often considered by countries to address perceived unfair trade practices or protect domestic industries.**
-
-**Which of the statements given above is/are correct?**
+Which of the statements given above is/are correct?
 
 (a) 1 and 2 only
 
-(b) 2 and 3 only
+(b) 1, 2 and 3 only
 
-(c) 1 and 3 only
+(c) 1, 3 and 4 only
 
-(d) 1, 2 and 3
+(d) 2, 3 and 4 only
 
-**Q4. With reference to the monetary policy decisions of the US Federal Reserve, consider the following statements:**
+**Q3. The National Education Policy (NEP) 2020 emphasizes a significant shift in the approach to education. In this context, consider the following statements:**
 
-1.  **The Federal Open Market Committee (FOMC) is the principal monetary policymaking body of the US central banking system.**
-2.  **An increase in the US federal funds rate typically leads to an appreciation of the US dollar relative to other currencies, attracting capital inflows.**
-3.  **Emerging economies, including India, are generally insulated from the effects of changes in US interest rates due to their independent monetary policies.**
+1.  The NEP 2020 aims to transform India into a global knowledge superpower by focusing on skill development and vocational training from an early age.
 
-**Which of the statements given above is/are correct?**
+2.  A core objective of the NEP is to foster an ecosystem where students are equipped to become 'job-givers' rather than solely 'job-seekers'.
 
-(a) 1 only
+3.  The policy promotes a rigid curriculum structure to ensure standardization across all educational institutions.
 
-(b) 1 and 2 only
+4.  The NEP exclusively focuses on higher education reforms, with minimal emphasis on foundational learning and early childhood care.
 
-(c) 2 and 3 only
-
-(d) 1, 2 and 3
-
-**Q5. Consider the following statements regarding the role of Artificial Intelligence (AI) in education and judicial pronouncements:**
-
-1.  **The Right to Education in India, as enshrined in the Constitution, obligates the state to provide quality education, which traditionally includes human interaction and pedagogical support.**
-2.  **The judiciary, through its pronouncements, can guide policy on technology integration in public services like education, emphasizing foundational principles.**
-3.  **AI tools are currently recognized globally as a complete substitute for human teachers in fostering critical thinking and emotional development in students.**
-
-**Which of the statements given above is/are correct?**
-
-(a) 1 only
-
-(b) 2 only
-
-(c) 1 and 2 only
-
-(d) 1, 2 and 3
-
-**Q6. With reference to Free Trade Agreements (FTAs) and India's trade policy, consider the following statements:**
-
-1.  **An FTA primarily aims to eliminate or reduce tariff barriers, but often includes provisions for non-tariff barriers, services trade, and investment.**
-2.  **India's strategy in FTAs often involves shielding a significant portion of its export basket from immediate tariff reductions to protect domestic industries.**
-3.  **The World Trade Organization (WTO) framework does not permit member countries to enter into bilateral or regional trade agreements like FTAs.**
-
-**Which of the statements given above is/are correct?**
+Which of the statements given above is/are correct?
 
 (a) 1 and 2 only
 
 (b) 2 and 3 only
 
-(c) 1 only
+(c) 1, 3 and 4 only
 
-(d) 1, 2 and 3
+(d) 1, 2 and 4 only
 
-**Q7. Consider the following statements regarding India's power generation capacity and energy transition:**
+**Q4. India’s approach to Artificial Intelligence (AI) has been characterized by the Prime Minister as 'All Inclusive' and 'human-centric'. In this context, consider the following statements:**
 
-1.  **India's current installed power generation capacity primarily relies on thermal power sources, mainly coal.**
-2.  **The target of increasing power generation capacity is exclusively focused on renewable energy sources to meet climate commitments.**
-3.  **Enhancing power generation capacity plays a crucial role in achieving energy security and supporting economic growth.**
+1.  A 'human-centric' approach to AI implies prioritizing ethical considerations, privacy, and socio-economic inclusivity in AI development and deployment.
 
-**Which of the statements given above is/are correct?**
+2.  India's National AI Strategy, envisioned to guide this approach, focuses primarily on defense applications and surveillance technologies.
 
-(a) 1 only
+3.  The 'All Inclusive' aspect of India's AI vision aims to ensure that the benefits of AI reach all sections of society, fostering digital literacy and equitable access.
 
-(b) 2 and 3 only
+4.  Concerns regarding data privacy and potential algorithmic biases are inherent to an 'All Inclusive' and 'human-centric' AI framework, requiring robust regulatory mechanisms.
 
-(c) 1 and 3 only
+Which of the statements given above are correct?
 
-(d) 1, 2 and 3
+(a) 1, 2 and 3 only
 
-**Q8. With reference to Industrial Training Institutes (ITIs) in India, consider the following statements:**
+(b) 1, 3 and 4 only
 
-1.  **ITIs primarily aim to provide vocational training to equip the workforce with technical skills for industrial employment.**
-2.  **The National Skill Development Corporation (NSDC) is the sole body responsible for accreditation and ranking of all ITIs in India.**
-3.  **Skill development initiatives in India are crucial for addressing youth unemployment and improving industrial competitiveness.**
+(c) 2 and 4 only
 
-**Which of the statements given above is/are correct?**
+(d) 1, 2, 3 and 4
 
-(a) 1 only
+**Q5. With reference to Environmental Impact Assessment (EIA) in India, consider the following statements:**
 
-(b) 1 and 3 only
+1.  Environmental Clearance for major projects, including housing and infrastructure, is mandatory under the Environment Protection Act, 1986.
 
-(c) 2 and 3 only
+2.  The revocation of environmental clearance for a project can occur if there are violations of stipulated conditions or misrepresentation of facts.
 
-(d) 1, 2 and 3
+3.  The National Green Tribunal (NGT) is the sole authority empowered to revoke environmental clearances in India.
 
-**Q9. Consider the role of India in global forums and its bilateral engagements:**
+4.  Areas designated as wetlands or ecologically sensitive zones typically undergo a more stringent EIA process due to their ecological significance.
 
-1.  **India's participation as an outreach country at G7 summits highlights its growing influence and role in addressing global challenges.**
-2.  **The concept of 'Global South' primarily refers to countries in the Southern Hemisphere that share common socio-economic developmental challenges.**
-3.  **India's engagement with countries like Italy often encompasses diverse sectors such as trade, defence, and cultural exchanges, reflecting comprehensive strategic partnerships.**
-
-**Which of the statements given above is/are correct?**
+Which of the statements given above is/are correct?
 
 (a) 1 and 2 only
 
+(b) 1, 2 and 4 only
+
+(c) 3 and 4 only
+
+(d) 1, 2, 3 and 4
+
+**Q6. Consider the implications of Social Security Agreements (SSAs) between countries, such as the India-UK pact:**
+
+1.  SSAs primarily aim to eliminate dual social security contributions for expatriate workers, thereby reducing the cost of doing business for firms.
+
+2.  Such agreements typically ensure that periods of employment in one country are recognized for social security benefit eligibility in the other signatory country.
+
+3.  The India-UK social security pact is expected to benefit a large majority of Indian professionals working in the UK by providing relief from making duplicate social security payments.
+
+4.  SSAs usually cover all forms of social benefits, including unemployment benefits, irrespective of the specific terms negotiated between the signatory countries.
+
+Which of the statements given above are correct?
+
+(a) 1 and 4 only
+
 (b) 2 and 3 only
 
-(c) 1 and 3 only
+(c) 1, 2 and 3 only
 
-(d) 1, 2 and 3
+(d) 1, 2, 3 and 4
 
-**Q10. With reference to maintenance provisions under Indian law, consider the following statements:**
+**Q7. The BRICS grouping often engages in multilateral dialogues on various critical issues. With reference to BRICS, consider the following statements:**
 
-1.  **A maintenance decree issued by a competent court is legally binding and can be enforced against the estate of the person ordered to pay, even after their demise.**
-2.  **The liability to pay maintenance ceases immediately upon the death of the person obligated to pay, regardless of any prior court order.**
-3.  **The estate of a deceased person can be held liable to satisfy a pre-existing maintenance decree, reflecting the ongoing nature of such an obligation.**
+1.  BRICS is an informal group of major emerging economies, including Brazil, Russia, India, China, and South Africa, established primarily to foster political cooperation.
 
-**Which of the statements given above is/are correct?**
+2.  The National Security Advisors (NSAs) meet within BRICS serves as a platform for multilateral security dialogue, addressing concerns such as counter-terrorism and regional stability.
 
-(a) 1 only
+3.  Decisions within BRICS are made through a consensus-based approach, and its summits result in joint declarations on various global issues.
 
-(b) 1 and 3 only
+4.  China's Foreign Minister typically participates in the BRICS National Security Advisors meet, representing China's broader security interests.
 
-(c) 2 and 3 only
+Which of the statements given above is/are correct?
 
-(d) 1, 2 and 3
+(a) 1 and 3 only
 
-**Q11. Consider the diverse roles and capabilities of the Indian Air Force (IAF):**
+(b) 2 and 3 only
 
-1.  **The IAF's primary mandate is to secure Indian airspace and conduct aerial warfare, with logistical support being a secondary, non-core function.**
-2.  **The IAF frequently engages in humanitarian assistance and disaster relief (HADR) operations, utilizing its airlift capabilities for rapid response.**
-3.  **Civil-military cooperation, exemplified by providing logistical support for national-level examinations, demonstrates the armed forces' contribution to national development.**
+(c) 1, 2 and 4 only
 
-**Which of the statements given above is/are correct?**
+(d) 1, 2, 3 and 4
+
+**Q8. With regard to the Airport Economic Regulatory Authority (AERA) of India, consider the following statements:**
+
+1.  AERA is a statutory body responsible for regulating tariff and other aeronautical charges for major airports in India.
+
+2.  It determines the user development fee (UDF) or airport user fee (AUF) that passengers may be charged by airport operators.
+
+3.  AERA’s jurisdiction extends to all airports in India, including those operated under public-private partnership models and purely government-owned airports.
+
+4.  An ad hoc tariff order issued by AERA is a temporary directive that sets charges until a final determination can be made after a detailed review process.
+
+Which of the statements given above are correct?
 
 (a) 1 and 2 only
 
-(b) 2 and 3 only
+(b) 1, 2 and 3 only
 
-(c) 1 and 3 only
+(c) 1, 2 and 4 only
 
-(d) 1, 2 and 3
+(d) 3 and 4 only
 
-**Q12. With reference to India's trade relations with the European Union (EU), consider the following statements:**
+**Q9. The concept of 'job-givers' versus 'job-seekers' in the context of education policy implies a focus on:**
 
-1.  **The European Union is a prominent economic and political bloc, representing a significant market for Indian exports and a source of foreign direct investment.**
-2.  **Negotiations for a Free Trade Agreement (FTA) between India and the EU have historically been swift and free from complex regulatory hurdles due to convergent economic interests.**
-3.  **Successful conclusion of an India-EU FTA is expected to significantly boost bilateral trade across various sectors, including goods, services, and investment.**
+1.  Promoting entrepreneurial skills and innovation among students.
 
-**Which of the statements given above is/are correct?**
+2.  Encouraging vocational training and skill development relevant to emerging industries.
 
-(a) 1 only
+3.  Shifting the mindset from securing employment to creating opportunities for others.
 
-(b) 1 and 3 only
+4.  Reducing government employment in favour of private sector expansion.
 
-(c) 2 and 3 only
+Select the correct answer using the code given below:
 
-(d) 1, 2 and 3
+(a) 1 and 2 only
+
+(b) 1, 2 and 3 only
+
+(c) 3 and 4 only
+
+(d) 1, 2, 3 and 4
+
+**Q10. Data privacy in the context of digital platforms like Telegram has been a subject of judicial scrutiny. In this regard, consider the following statements:**
+
+1.  The Right to Privacy, recognized as a fundamental right under Article 21 of the Indian Constitution, extends to digital communications and user data on online platforms.
+
+2.  Intermediary Guidelines under the Information Technology Act, 2000, mandate certain responsibilities for digital platforms regarding user data and content.
+
+3.  The term 'Frankenstein's monster' used in public discourse regarding digital platforms often refers to their unchecked growth and potential to undermine societal norms or individual rights.
+
+4.  Any user data collected by digital platforms, even if anonymized, cannot be shared with third parties under existing Indian data protection laws.
+
+Which of the statements given above are correct?
+
+(a) 1, 2 and 3 only
+
+(b) 1, 3 and 4 only
+
+(c) 2 and 4 only
+
+(d) 1, 2, 3 and 4
+
+**Q11. India’s aspirations for a global leadership role are often linked to its contributions to multilateral security dialogues. In this context, the BRICS NSA meet in Delhi is significant because:**
+
+1.  It underscores India’s commitment to multilateralism and its active participation in shaping global security architecture.
+
+2.  The presence of high-level delegations, including China's Foreign Minister, highlights the strategic importance of BRICS as a platform for geopolitical discussions.
+
+3.  Such dialogues provide an opportunity for member states to coordinate positions on transnational security threats like terrorism and cyber warfare.
+
+4.  The meet's focus on national security is a departure from BRICS's original mandate of economic cooperation.
+
+Which of the statements given above are correct?
+
+(a) 1 and 4 only
+
+(b) 2, 3 and 4 only
+
+(c) 1, 2 and 3 only
+
+(d) 1, 2, 3 and 4
