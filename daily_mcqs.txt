@@ -2,217 +2,36 @@
 MCQs
 ━━━━━━━━━━━━━━━
 
-**Q1. Consider the following statements regarding the Pradhan Mantri Kisan Samman Nidhi (PM-KISAN) scheme:**
+**Q1. Consider the following statements regarding the recent revisions to Kisan Credit Card (KCC) rules by the Reserve Bank of India (RBI):**
 
-1.  The scheme aims to provide income support to all landholding farmer families across the country, subject to certain exclusion criteria.
+1.  The RBI has recently standardized KCC norms to bring consistency specifically in the distribution of credit to commercial crops.
 
-2.  Under the scheme, eligible farmer families receive an amount of ₹6,000 per year in three equal instalments.
+2.  As part of the revisions, the collateral-free loan limit under the KCC scheme has been significantly enhanced to promote greater access to credit.
 
-3.  The recently released 23rd instalment of PM-KISAN involved a direct benefit transfer of ₹18,880 crore to over 9.44 crore farmer beneficiaries.
-
-4.  All landless agricultural labourers are included as beneficiaries under the PM-KISAN scheme, provided they meet the income criteria.
+3.  The revisions aim to streamline the process for farmers to access short-term credit for their agricultural needs.
 
 Which of the statements given above is/are correct?
 
-(a) 1, 2 and 3 only
-
-(b) 1, 2 and 4 only
-
-(c) 3 and 4 only
-
-(d) 1, 2, 3 and 4
-
-**Q2. With reference to Indian funds in Swiss Banks, consider the following statements:**
-
-1.  The overall funds held by Indian clients in Swiss banks, including customer deposits, trusts, and other liabilities, recorded a decline in the last financial year.
-
-2.  Customer deposits, which are a component of the total funds, saw a significant increase in the same period, indicating a shift in the nature of holdings.
-
-3.  The decline in overall Indian funds in Swiss banks is primarily attributed to stricter anti-money laundering regulations in both India and Switzerland, coupled with international agreements like Automatic Exchange of Information (AEOI).
-
-4.  The figure of ₹36,793 crore represents the total funds held by Indian clients as of the most recent reporting period in 2025.
-
-Which of the statements given above is/are correct?
-
-(a) 1 and 2 only
-
-(b) 1, 2 and 3 only
-
-(c) 1, 3 and 4 only
-
-(d) 2, 3 and 4 only
-
-**Q3. The National Education Policy (NEP) 2020 emphasizes a significant shift in the approach to education. In this context, consider the following statements:**
-
-1.  The NEP 2020 aims to transform India into a global knowledge superpower by focusing on skill development and vocational training from an early age.
-
-2.  A core objective of the NEP is to foster an ecosystem where students are equipped to become 'job-givers' rather than solely 'job-seekers'.
-
-3.  The policy promotes a rigid curriculum structure to ensure standardization across all educational institutions.
-
-4.  The NEP exclusively focuses on higher education reforms, with minimal emphasis on foundational learning and early childhood care.
-
-Which of the statements given above is/are correct?
-
-(a) 1 and 2 only
+(a) 1 only
 
 (b) 2 and 3 only
 
-(c) 1, 3 and 4 only
+(c) 3 only
 
-(d) 1, 2 and 4 only
+(d) 1, 2 and 3
 
-**Q4. India’s approach to Artificial Intelligence (AI) has been characterized by the Prime Minister as 'All Inclusive' and 'human-centric'. In this context, consider the following statements:**
 
-1.  A 'human-centric' approach to AI implies prioritizing ethical considerations, privacy, and socio-economic inclusivity in AI development and deployment.
+**Q2. Consider the following statements regarding India's foreign exchange reserves and currency movements:**
 
-2.  India's National AI Strategy, envisioned to guide this approach, focuses primarily on defense applications and surveillance technologies.
+1.  A significant portion of the recent decline in India's forex reserves can be attributed to a sharp fall in gold holdings.
 
-3.  The 'All Inclusive' aspect of India's AI vision aims to ensure that the benefits of AI reach all sections of society, fostering digital literacy and equitable access.
+2.  Despite a tumble in forex reserves, the Rupee recently strengthened against the US Dollar.
 
-4.  Concerns regarding data privacy and potential algorithmic biases are inherent to an 'All Inclusive' and 'human-centric' AI framework, requiring robust regulatory mechanisms.
+3.  Foreign Exchange Reserves primarily consist of foreign currency assets, gold, Special Drawing Rights (SDRs), and the Reserve Tranche Position with the IMF.
 
-Which of the statements given above are correct?
-
-(a) 1, 2 and 3 only
-
-(b) 1, 3 and 4 only
-
-(c) 2 and 4 only
-
-(d) 1, 2, 3 and 4
-
-**Q5. With reference to Environmental Impact Assessment (EIA) in India, consider the following statements:**
-
-1.  Environmental Clearance for major projects, including housing and infrastructure, is mandatory under the Environment Protection Act, 1986.
-
-2.  The revocation of environmental clearance for a project can occur if there are violations of stipulated conditions or misrepresentation of facts.
-
-3.  The National Green Tribunal (NGT) is the sole authority empowered to revoke environmental clearances in India.
-
-4.  Areas designated as wetlands or ecologically sensitive zones typically undergo a more stringent EIA process due to their ecological significance.
+4.  The Reserve Bank of India manages the forex reserves primarily to support a weaker domestic currency for export competitiveness.
 
 Which of the statements given above is/are correct?
-
-(a) 1 and 2 only
-
-(b) 1, 2 and 4 only
-
-(c) 3 and 4 only
-
-(d) 1, 2, 3 and 4
-
-**Q6. Consider the implications of Social Security Agreements (SSAs) between countries, such as the India-UK pact:**
-
-1.  SSAs primarily aim to eliminate dual social security contributions for expatriate workers, thereby reducing the cost of doing business for firms.
-
-2.  Such agreements typically ensure that periods of employment in one country are recognized for social security benefit eligibility in the other signatory country.
-
-3.  The India-UK social security pact is expected to benefit a large majority of Indian professionals working in the UK by providing relief from making duplicate social security payments.
-
-4.  SSAs usually cover all forms of social benefits, including unemployment benefits, irrespective of the specific terms negotiated between the signatory countries.
-
-Which of the statements given above are correct?
-
-(a) 1 and 4 only
-
-(b) 2 and 3 only
-
-(c) 1, 2 and 3 only
-
-(d) 1, 2, 3 and 4
-
-**Q7. The BRICS grouping often engages in multilateral dialogues on various critical issues. With reference to BRICS, consider the following statements:**
-
-1.  BRICS is an informal group of major emerging economies, including Brazil, Russia, India, China, and South Africa, established primarily to foster political cooperation.
-
-2.  The National Security Advisors (NSAs) meet within BRICS serves as a platform for multilateral security dialogue, addressing concerns such as counter-terrorism and regional stability.
-
-3.  Decisions within BRICS are made through a consensus-based approach, and its summits result in joint declarations on various global issues.
-
-4.  China's Foreign Minister typically participates in the BRICS National Security Advisors meet, representing China's broader security interests.
-
-Which of the statements given above is/are correct?
-
-(a) 1 and 3 only
-
-(b) 2 and 3 only
-
-(c) 1, 2 and 4 only
-
-(d) 1, 2, 3 and 4
-
-**Q8. With regard to the Airport Economic Regulatory Authority (AERA) of India, consider the following statements:**
-
-1.  AERA is a statutory body responsible for regulating tariff and other aeronautical charges for major airports in India.
-
-2.  It determines the user development fee (UDF) or airport user fee (AUF) that passengers may be charged by airport operators.
-
-3.  AERA’s jurisdiction extends to all airports in India, including those operated under public-private partnership models and purely government-owned airports.
-
-4.  An ad hoc tariff order issued by AERA is a temporary directive that sets charges until a final determination can be made after a detailed review process.
-
-Which of the statements given above are correct?
-
-(a) 1 and 2 only
-
-(b) 1, 2 and 3 only
-
-(c) 1, 2 and 4 only
-
-(d) 3 and 4 only
-
-**Q9. The concept of 'job-givers' versus 'job-seekers' in the context of education policy implies a focus on:**
-
-1.  Promoting entrepreneurial skills and innovation among students.
-
-2.  Encouraging vocational training and skill development relevant to emerging industries.
-
-3.  Shifting the mindset from securing employment to creating opportunities for others.
-
-4.  Reducing government employment in favour of private sector expansion.
-
-Select the correct answer using the code given below:
-
-(a) 1 and 2 only
-
-(b) 1, 2 and 3 only
-
-(c) 3 and 4 only
-
-(d) 1, 2, 3 and 4
-
-**Q10. Data privacy in the context of digital platforms like Telegram has been a subject of judicial scrutiny. In this regard, consider the following statements:**
-
-1.  The Right to Privacy, recognized as a fundamental right under Article 21 of the Indian Constitution, extends to digital communications and user data on online platforms.
-
-2.  Intermediary Guidelines under the Information Technology Act, 2000, mandate certain responsibilities for digital platforms regarding user data and content.
-
-3.  The term 'Frankenstein's monster' used in public discourse regarding digital platforms often refers to their unchecked growth and potential to undermine societal norms or individual rights.
-
-4.  Any user data collected by digital platforms, even if anonymized, cannot be shared with third parties under existing Indian data protection laws.
-
-Which of the statements given above are correct?
-
-(a) 1, 2 and 3 only
-
-(b) 1, 3 and 4 only
-
-(c) 2 and 4 only
-
-(d) 1, 2, 3 and 4
-
-**Q11. India’s aspirations for a global leadership role are often linked to its contributions to multilateral security dialogues. In this context, the BRICS NSA meet in Delhi is significant because:**
-
-1.  It underscores India’s commitment to multilateralism and its active participation in shaping global security architecture.
-
-2.  The presence of high-level delegations, including China's Foreign Minister, highlights the strategic importance of BRICS as a platform for geopolitical discussions.
-
-3.  Such dialogues provide an opportunity for member states to coordinate positions on transnational security threats like terrorism and cyber warfare.
-
-4.  The meet's focus on national security is a departure from BRICS's original mandate of economic cooperation.
-
-Which of the statements given above are correct?
 
 (a) 1 and 4 only
 
@@ -221,3 +40,161 @@ Which of the statements given above are correct?
 (c) 1, 2 and 3 only
 
 (d) 1, 2, 3 and 4
+
+
+**Q3. With reference to the capital market and recent developments regulated by SEBI, consider the following statements:**
+
+1.  SEBI has simplified the process for the transfer of shares held by deceased investors, aiming to reduce administrative hurdles for nominees.
+
+2.  A faster fundraising route has been approved by SEBI exclusively for Infrastructure Investment Trusts (InvITs), distinct from Alternative Investment Funds (AIFs).
+
+3.  The proposed Initial Public Offering (IPO) of SBI Mutual Fund is expected to be one of India's largest public issues, surpassing that of Jio Platforms.
+
+4.  SEBI's recent decisions include allowing stock exchanges to conduct buybacks of their own shares.
+
+Which of the statements given above is/are correct?
+
+(a) 1 and 4 only
+
+(b) 2 and 3 only
+
+(c) 1, 2 and 4 only
+
+(d) 1, 3 and 4 only
+
+
+**Q4. Consider the following statements regarding anti-dumping investigations initiated by India:**
+
+1.  Anti-dumping investigations are typically initiated when a foreign producer sells products in the domestic market at a price lower than its domestic price or production cost.
+
+2.  India has recently initiated an anti-dumping investigation specifically targeting the import of certain chemicals from South Korea and Malaysia.
+
+3.  The imposition of anti-dumping duties aims to protect domestic industries from unfair competition and ensure a level playing field.
+
+Which of the statements given above is/are correct?
+
+(a) 1 and 2 only
+
+(b) 2 and 3 only
+
+(c) 1 and 3 only
+
+(d) 1, 2 and 3
+
+
+**Q5. Consider the recent observations and directives by the Indian judiciary and government initiatives:**
+
+1.  The Supreme Court recently directed a probe into the nexus involving Asset Reconstruction Companies (ARCs), banks, and borrowers.
+
+2.  The Delhi High Court observed that banning online platforms like Telegram should be a measure of minimum government action.
+
+3.  The Supreme Court has declared walking a fundamental right, mandating footpaths on all roads.
+
+4.  The Central Government has committed to upholding the safeguards enshrined under Article 371 of the Constitution for the Ladakh region.
+
+5.  The next Census of India is being planned for 2024, focusing on digital data collection.
+
+Which of the statements given above is/are correct?
+
+(a) 1, 2 and 5 only
+
+(b) 3, 4 and 5 only
+
+(c) 1, 2, 3 and 4 only
+
+(d) 1, 2, 3, 4 and 5
+
+
+**Q6. With reference to government initiatives concerning India's Northeast region, consider the following statements:**
+
+1.  The Union Finance Minister recently emphasized leveraging external aid projects to enhance the global market reach of products from the Northeast.
+
+2.  The primary objective of such initiatives is to integrate the Northeast states more closely with ASEAN economies through cross-border trade only.
+
+3.  Enhancing global market access for regional products typically involves improving logistics, quality standards, and market linkages.
+
+Which of the statements given above is/are correct?
+
+(a) 1 and 2 only
+
+(b) 1 and 3 only
+
+(c) 2 and 3 only
+
+(d) 1, 2 and 3
+
+
+**Q7. Consider the following statements regarding special provisions under the Indian Constitution:**
+
+1.  Article 371 of the Constitution provides special provisions for several states, including Nagaland, which focus on protecting religious, social, and customary laws.
+
+2.  The Central Government has recently committed to upholding safeguards for the Ladakh region, explicitly under the ambit of Article 371.
+
+3.  The Centre's commitment to safeguards for the Ladakh region under Article 371 is a temporary measure, intended for a period of five years.
+
+Which of the statements given above is/are correct?
+
+(a) 1 only
+
+(b) 1 and 2 only
+
+(c) 2 and 3 only
+
+(d) 1, 2 and 3
+
+
+**Q8. With reference to the upcoming Census of India:**
+
+1.  The next Census is planned for the year 2027, and its planning involves addressing specific challenges related to counting India's population.
+
+2.  The primary objective of the upcoming Census planning is to solely focus on economic data collection, rather than demographic aspects.
+
+3.  Census data serves as a critical input for government policy formulation, planning, and resource allocation at various levels.
+
+Which of the statements given above is/are correct?
+
+(a) 1 only
+
+(b) 1 and 3 only
+
+(c) 2 and 3 only
+
+(d) 1, 2 and 3
+
+
+**Q9. Consider the recent pronouncements by the Supreme Court of India:**
+
+1.  The Supreme Court has explicitly declared the right to walk as a fundamental right, emphasizing the necessity of footpaths.
+
+2.  This declaration mandates that all major roads in urban areas must necessarily have footpaths for pedestrians.
+
+3.  The right to walk is often considered an intrinsic part of the Right to Life and Personal Liberty guaranteed under Article 21 of the Constitution.
+
+Which of the statements given above is/are correct?
+
+(a) 1 and 2 only
+
+(b) 1 and 3 only
+
+(c) 2 and 3 only
+
+(d) 1, 2 and 3
+
+
+**Q10. With reference to regulatory bodies and the judiciary in India, consider the following statements:**
+
+1.  The National Medical Commission (NMC) recently issued a directive to all medical colleges, prohibiting student leave on June 20-21.
+
+2.  The Supreme Court has highlighted the issue of 'brain drain' in the medical profession and directed the creation of a fund for young doctors.
+
+3.  The NMC is responsible for regulating medical education and practice, ensuring quality standards in healthcare professionals.
+
+Which of the statements given above is/are correct?
+
+(a) 1 only
+
+(b) 1 and 2 only
+
+(c) 1 and 3 only
+
+(d) 2 and 3 only

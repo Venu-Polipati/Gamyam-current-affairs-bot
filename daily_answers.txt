@@ -1,43 +1,49 @@
-1. (a)
+1. (c)
 
-Reason: Statement 4 is incorrect. PM-KISAN is a landholding-based scheme and landless agricultural labourers are generally excluded, unless they fall under specific criteria for small and marginal farmers with land.
+Reason:
+Statement 1 is incorrect as RBI standardised KCC norms for consistency across *crop seasons*, not specifically commercial crops. Statement 2 is incorrect because the collateral-free loan limit for KCC was *retained*, not significantly enhanced. Statement 3 is correct as standardization and streamlining are inherent goals of such revisions for farmers' benefit.
 
-2. (b)
+2. (c)
 
-Reason: Statement 4 incorrectly states the total amount as of 2025. The facts state "The total amount was ₹36,793 crore (2025)", but this is a typo in the provided news which meant the amount *for* a specific year, not *as of* 2025 (which is a future date). Assuming 2025 refers to a specific reporting period ending 2025 or implying an upcoming report, but funds falling by 8% would refer to a past period's comparison. The intention of UPSC would be that "total amount was" refers to a past or current reported figure, making "as of most recent reporting period in 2025" a modification of the date/period that doesn't fit the context of a decline reported *now*. Given that funds fell, 2025 cannot be the "most recent reporting period".
+Reason:
+Statement 1 is correct as the news explicitly states that gold holdings fell sharply, contributing to the decline in forex reserves. Statement 2 is correct as the news states that the Rupee strengthened despite the tumble in forex reserves. Statement 3 is correct, representing the standard components of foreign exchange reserves. Statement 4 is incorrect because while RBI manages forex reserves for exchange rate stability, the primary objective is not solely to support a weaker currency for export competitiveness; it aims for overall external sector resilience and stability.
 
 3. (a)
 
-Reason: Statement 3 is incorrect as NEP promotes flexibility and multidisciplinary approaches, not a rigid curriculum. Statement 4 is incorrect as NEP covers all levels from early childhood care to higher education.
+Reason:
+Statement 1 is correct as SEBI has allowed easier transfer of deceased investor shares. Statement 2 is incorrect because a faster fundraising route was cleared by SEBI for *Alternative Investment Funds (AIFs)*, not specifically for Infrastructure Investment Trusts (InvITs). Statement 3 is incorrect because Jio Platforms IPO was announced as *India's biggest public issue*, implying SBI Mutual Fund IPO would not surpass it in this context. Statement 4 is correct as SEBI allows stock exchange buybacks.
 
-4. (b)
+4. (c)
 
-Reason: Statement 2 is incorrect. India's National AI Strategy (e.g., NITI Aayog's strategy) focuses on various sectors like healthcare, agriculture, education, smart cities, and infrastructure, aiming for broad socio-economic impact, not primarily defense applications.
+Reason:
+Statement 1 is correct, defining the basis for anti-dumping investigations. Statement 2 is incorrect as India initiated the investigation on chemicals from *Chinese and Japanese* sources, not South Korea and Malaysia. Statement 3 is correct, stating the protective objective of anti-dumping duties.
 
-5. (b)
+5. (c)
 
-Reason: Statement 3 is incorrect. While NGT can hear appeals against environmental clearances and often directs regulatory bodies, the primary authority to grant or revoke environmental clearance rests with the Ministry of Environment, Forest and Climate Change (MoEF&CC) or State Environment Impact Assessment Authorities (SEIAAs), subject to legal review.
+Reason:
+Statements 1, 2, 3, and 4 are correct as per the provided news facts regarding the SC's directive on ARCs, Delhi HC's observation on Telegram, SC's declaration on walking, and the Centre's commitment on Article 371 for Ladakh, respectively. Statement 5 is incorrect because the Census is being planned for *2027*, not 2024.
 
-6. (c)
+6. (b)
 
-Reason: Statement 4 is incorrect. SSAs are specific and do not necessarily cover "all forms of social benefits." The scope of benefits covered (e.g., old-age, survivor, disability, unemployment, sickness) is determined by the specific agreement negotiated between the two countries.
+Reason:
+Statement 1 is correct as the Finance Minister indeed highlighted leveraging external aid for global market reach of Northeast products. Statement 2 is incorrect because the aim is *global market reach*, not *only* for ASEAN economies or *only* through cross-border trade. Statement 3 is correct, outlining general methods for enhancing global market access.
 
 7. (b)
 
-Reason: Statement 1 is incorrect as BRICS was primarily established to promote economic cooperation and development, although political cooperation has evolved significantly. Statement 4 is incorrect because China's *Foreign Minister* attending the NSA meet is unusual; typically, it would be the National Security Advisor or a representative from their office. The news mentioned "China's Foreign Minister attended" which is a specific fact, but in the context of an NSA meet, it is an anomaly or a strong deviation from typical protocol, implying a broader, less common delegation, making it potentially misleading or contextually incorrect if interpreted as a *typical* participant for the NSA meet. However, given the direct news fact, the question needs to test reasoning. If it's a specific attendance, it's a fact. But typically, the NSA meets involve NSAs. Let's re-evaluate. The news says "China's Foreign Minister attended". This IS a fact from the news. My initial thought process of "unusual" is applying external knowledge not directly from the "facts" provided. So, as per the *given facts*, statement 4 *seems* correct. But this specific part: "China's Foreign Minister attended" is the only piece of information about attendance. Is it true for *every* BRICS NSA meet? No. Is it true for *this specific meet*? Yes, as per the news snippet. The question asks about *BRICS*, not just this specific meet. Let's assume the question refers to the general structure or a specific event if the facts clearly indicate it. The news says "BRICS NSA Meet in Delhi", "China's Foreign Minister attended". This refers to the specific meet. If the question implies typical participation, it would be incorrect. If it refers to *this* particular meet mentioned, it's correct. Given the "incorrect statement rule" of modifying ONE factual element, if I say 'Foreign Minister *typically* attends', it's incorrect. But if it just says 'Foreign Minister attends', referring to the specific instance, then it's based on the fact. Let's try to make it incorrect based on the typical attendee for an *NSA meet*. The news item states "China's Foreign Minister attended". This makes statement 4 *factually correct* as per the news provided, if it refers to the specific meet. However, a 'National Security Advisor' (NSA) meet is typically attended by NSAs. The attendance of a Foreign Minister in an NSA meet is noteworthy precisely because it deviates from the typical attendance. UPSC might use this subtle distinction. If I make a statement that 'China's Foreign Minister *typically* participates', it would be incorrect based on protocol. If it just says 'China's Foreign Minister participates', it implies it's a feature. The news said he *attended*. Given the context, it's better to assume the question probes typical BRICS structure. Thus, for an NSA meet, an NSA would be the expected participant, not the FM as a standard. Therefore, statement 4 is likely incorrect in the general context of typical BRICS NSA participation, despite the news stating he attended a specific one. This is a classic UPSC trap between specific event vs general characteristic. Hence, 4 is incorrect.
+Reason:
+Statement 1 is correct; Article 371 (specifically 371A for Nagaland) provides such special protections. Statement 2 is correct as the news explicitly states the Centre's commitment to safeguards for the Ladakh region under Article 371. Statement 3 is incorrect as the news mentions a commitment to safeguards but does not specify it as a temporary measure or for a five-year period.
 
-8. (c)
+8. (b)
 
-Reason: Statement 3 is incorrect. AERA's jurisdiction is limited to "major airports" (currently those with annual passenger traffic above 3.5 million or specific Greenfield airports designated by the government), not *all* airports in India.
+Reason:
+Statement 1 is correct as the Census 2027 is being planned, and its planning involves addressing counting challenges. Statement 2 is incorrect because the planning involves *demographic data collection*, not solely economic data. Statement 3 is correct, reflecting the general utility and importance of Census data.
 
 9. (b)
 
-Reason: Statement 4 is incorrect. The concept of 'job-givers' implies fostering entrepreneurship and job creation within various sectors, not necessarily reducing government employment. The focus is on capability and mindset, not a specific policy on employment size.
+Reason:
+Statement 1 is correct, directly reflecting the Supreme Court's pronouncement. Statement 2 is incorrect because the Supreme Court mandated footpaths on *all roads*, not just "all major roads in urban areas." Statement 3 is correct, as the right to walk is universally recognized as part of the broader right to life.
 
-10. (a)
+10. (c)
 
-Reason: Statement 4 is incorrect. While anonymized data offers more protection, sharing of such data with third parties is a complex area with legal frameworks still evolving (e.g., the proposed Digital Personal Data Protection Bill). It's not a blanket prohibition that "cannot be shared" if proper anonymization and consent/legal basis are established, though stringent regulations apply. The statement is too absolute.
-
-11. (c)
-
-Reason: Statement 4 is incorrect. While BRICS started with an economic focus, its mandate has expanded significantly over time to include political, security, and cultural cooperation. Therefore, a focus on national security is not a "departure from its original mandate" but an evolution of its scope.
+Reason:
+Statement 1 is correct, as NMC issued a directive to medical colleges regarding student leave on specific dates. Statement 2 is incorrect because the Supreme Court highlighted 'brain drain' in the *legal profession* and directed fund creation for *young lawyers*, not the medical profession or young doctors. Statement 3 is correct, as NMC is the regulatory body for medical education and practice.
