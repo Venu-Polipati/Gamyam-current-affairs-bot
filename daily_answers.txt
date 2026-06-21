@@ -1,49 +1,51 @@
-1. (c)
+1. (b)
 
-Reason:
-Statement 1 is incorrect as RBI standardised KCC norms for consistency across *crop seasons*, not specifically commercial crops. Statement 2 is incorrect because the collateral-free loan limit for KCC was *retained*, not significantly enhanced. Statement 3 is correct as standardization and streamlining are inherent goals of such revisions for farmers' benefit.
+Reason: Statement 1 is incorrect as the news highlights expansion across India generally, not solely metro-industrial corridors. Statement 2 is correct as 7 new bullet corridors are planned. Statement 3 is incorrect because major infrastructure projects require central environmental clearances and oversight, not solely state boards.
 
-2. (c)
+2. (b)
 
-Reason:
-Statement 1 is correct as the news explicitly states that gold holdings fell sharply, contributing to the decline in forex reserves. Statement 2 is correct as the news states that the Rupee strengthened despite the tumble in forex reserves. Statement 3 is correct, representing the standard components of foreign exchange reserves. Statement 4 is incorrect because while RBI manages forex reserves for exchange rate stability, the primary objective is not solely to support a weaker currency for export competitiveness; it aims for overall external sector resilience and stability.
+Reason: Statement 1 is incorrect because the news states enhanced security is implemented nationwide, implying all centres, not just urban ones. Statement 2 is correct as IAF sorties were deployed for the re-examination, indicating logistical support. Statement 3 is incorrect as enhanced security measures go beyond just preventing direct cheating, encompassing overall integrity and fairness of the examination process.
 
-3. (a)
+3. (b)
 
-Reason:
-Statement 1 is correct as SEBI has allowed easier transfer of deceased investor shares. Statement 2 is incorrect because a faster fundraising route was cleared by SEBI for *Alternative Investment Funds (AIFs)*, not specifically for Infrastructure Investment Trusts (InvITs). Statement 3 is incorrect because Jio Platforms IPO was announced as *India's biggest public issue*, implying SBI Mutual Fund IPO would not surpass it in this context. Statement 4 is correct as SEBI allows stock exchange buybacks.
+Reason: Statement 1 is incorrect as the news only mentions the scheme focuses on employment generation broadly, not specifically for rural youth through skill development. Statement 2 is correct as employee letters were disbursed at a Chennai event under the scheme, focusing on employment generation. Statement 3 is incorrect as the specific ministry under which the scheme operates is not mentioned in the facts, and assuming it is the Ministry of Rural Development is not supported by the provided information.
 
-4. (c)
+4. (a)
 
-Reason:
-Statement 1 is correct, defining the basis for anti-dumping investigations. Statement 2 is incorrect as India initiated the investigation on chemicals from *Chinese and Japanese* sources, not South Korea and Malaysia. Statement 3 is correct, stating the protective objective of anti-dumping duties.
+Reason: Statement 1 is correct as RBI standardized norms for KCCs and introduced crop season guidelines. Statement 2 is incorrect because the collateral-free loan limit was retained by RBI, not reduced. Statement 3 is incorrect as KCCs provide comprehensive credit support, including post-harvest, consumption, and working capital for allied activities, not just crop cultivation.
 
-5. (c)
+5. (b)
 
-Reason:
-Statements 1, 2, 3, and 4 are correct as per the provided news facts regarding the SC's directive on ARCs, Delhi HC's observation on Telegram, SC's declaration on walking, and the Centre's commitment on Article 371 for Ladakh, respectively. Statement 5 is incorrect because the Census is being planned for *2027*, not 2024.
+Reason: Statement 1 is correct as a stronger rupee means less local currency is needed to buy foreign goods, making imports cheaper. Statement 2 is incorrect because while the rupee ended higher for the second day, a two-day movement does not necessarily indicate a sustained trend of appreciation; market dynamics are complex and subject to various factors. Statement 3 is correct as RBI frequently intervenes through buying/selling foreign currency to stabilize the rupee and manage volatility.
 
-6. (b)
+6. (a)
 
-Reason:
-Statement 1 is correct as the Finance Minister indeed highlighted leveraging external aid for global market reach of Northeast products. Statement 2 is incorrect because the aim is *global market reach*, not *only* for ASEAN economies or *only* through cross-border trade. Statement 3 is correct, outlining general methods for enhancing global market access.
+Reason: Statement 1 is correct because OMCs absorbing price shocks is mentioned in the news. Statement 2 is correct as India is rethinking LPG imports due to the Middle East conflict. Statement 3 is incorrect as India is rethinking LPG imports due to conflict, implying it is not self-sufficient and is affected by global events.
 
-7. (b)
+7. (c)
 
-Reason:
-Statement 1 is correct; Article 371 (specifically 371A for Nagaland) provides such special protections. Statement 2 is correct as the news explicitly states the Centre's commitment to safeguards for the Ladakh region under Article 371. Statement 3 is incorrect as the news mentions a commitment to safeguards but does not specify it as a temporary measure or for a five-year period.
+Reason: Statement 1 is correct as SEBI has made share transfer easier, specifically affecting shares of deceased investors. Statement 2 is incorrect as SEBI's mandate includes investor protection for individual investors, and facilitating share transfers for deceased investors is a part of that. Statement 3 is correct as easing share transfers for deceased investors reduces complexity and improves efficiency in the capital market, aligning with efforts to enhance ease of doing business.
 
-8. (b)
+8. (c)
 
-Reason:
-Statement 1 is correct as the Census 2027 is being planned, and its planning involves addressing counting challenges. Statement 2 is incorrect because the planning involves *demographic data collection*, not solely economic data. Statement 3 is correct, reflecting the general utility and importance of Census data.
+Reason: Statement 1 is correct as NSE highlighted India's 2026 economy outlook as a concern. Statement 2 is correct as monsoon impact and El Niño concerns were highlighted by NSE, demonstrating their significance. Statement 3 is incorrect because a robust manufacturing sector, while important, cannot fully offset the wide-ranging adverse impacts of major agricultural setbacks caused by deficient monsoons or El Niño on a large agrarian economy like India.
 
 9. (b)
 
-Reason:
-Statement 1 is correct, directly reflecting the Supreme Court's pronouncement. Statement 2 is incorrect because the Supreme Court mandated footpaths on *all roads*, not just "all major roads in urban areas." Statement 3 is correct, as the right to walk is universally recognized as part of the broader right to life.
+Reason: Statement 1 is correct as Ayushman Bharat aims to provide health insurance coverage, primarily for secondary and tertiary care, to vulnerable populations. Statement 2 is correct as false claims under Ayushman Bharat were identified in J&K, leading to a cardiologist's suspension, indicating challenges in implementation. Statement 3 is incorrect as while the scheme is jointly funded, the central share for states and UTs with legislature is 60:40 and for northeastern states and Himalayan states it is 90:10, and 100% for UTs without legislature, so the central share is not significantly higher in *all* states and union territories.
 
-10. (c)
+10. (b)
 
-Reason:
-Statement 1 is correct, as NMC issued a directive to medical colleges regarding student leave on specific dates. Statement 2 is incorrect because the Supreme Court highlighted 'brain drain' in the *legal profession* and directed fund creation for *young lawyers*, not the medical profession or young doctors. Statement 3 is correct, as NMC is the regulatory body for medical education and practice.
+Reason: Statement 1 is correct. FSSAI is the statutory body for regulating food safety and standards in India. Statement 2 is correct as FSSAI is targeting food labels and scrutinizing 'Natural' and 'healthy' claims. Statement 3 is incorrect. FSSAI has significant statutory powers to enforce regulations, including penal actions, and does not rely solely on voluntary compliance.
+
+11. (d)
+
+Reason: Statement 1 is correct. El Niño conditions typically lead to drier weather in India, impacting agricultural yields and fodder supply. Statement 2 is correct. Reduced fodder supply increases input costs for dairy farmers, which is then passed on to consumers as higher milk prices. Statement 3 is correct. Price forecasts, like the potential rise in milk prices, provide lead time for policymakers to formulate and implement measures such as subsidies, import adjustments, or buffer stock releases to stabilize markets.
+
+12. (b)
+
+Reason: Statement 1 is correct. The Strait of Hormuz is indeed a major chokepoint for oil and LNG. Statement 2 is correct. The safe passage of Indian-flagged ships highlights India's maritime interests and commitment to maintaining open sea lanes. Statement 3 is incorrect. The Strait of Hormuz connects the Persian Gulf to the Arabian Sea and the Gulf of Oman; it is not related to the Suez Canal, which connects the Mediterranean Sea to the Red Sea.
+
+13. (a)
+
+Reason: Statement 1 is correct as the BRICS Security Conclave, hosted by India, focused on cross-border terrorism and discussed the Middle East conflict. Statement 2 is incorrect because the news explicitly mentions China's Foreign Minister attended the conclave, indicating participation is not limited solely to National Security Advisors. Statement 3 is incorrect as the fact that the conclave discussed cross-border terrorism and the Middle East conflict clearly demonstrates that BRICS engages in security and geopolitical discussions beyond just economic matters.
