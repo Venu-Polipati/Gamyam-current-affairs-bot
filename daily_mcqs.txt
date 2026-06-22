@@ -2,107 +2,31 @@
 MCQs
 ━━━━━━━━━━━━━━━
 
-**Q1. Consider the following statements regarding high-speed rail development in India:**
+**Q1. Consider the following statements regarding urban settlements in India:**
 
-1.  The expansion of the high-speed rail network is primarily focused on connecting metro cities with existing industrial corridors.
-2.  The central government has recently outlined plans for establishing seven new dedicated high-speed rail corridors across the country.
-3.  Environmental impact assessments for these projects typically fall under the purview of state pollution control boards, requiring no central oversight.
+1.  The classification of an area as an 'urban settlement' in India primarily relies on criteria established by the Ministry of Rural Development.
 
-Which of the statements given above is/are correct?
+2.  The 74th Constitutional Amendment Act provides for the establishment of three types of municipalities, including Nagar Panchayats for transitional areas.
 
-(a) 1 and 2 only
-
-(b) 2 only
-
-(c) 1 and 3 only
-
-(d) 1, 2 and 3
-
-**Q2. With reference to measures ensuring the integrity of high-stakes examinations like NEET-UG, consider the following statements:**
-
-1.  The use of artificial intelligence-monitored CCTV feeds for enhanced security is a nationwide implementation limited to urban examination centers.
-2.  For logistical support in remote areas, the Indian Air Force (IAF) has been deployed for the transportation of examination materials and personnel.
-3.  The primary objective of these enhanced security measures is solely to prevent direct instances of cheating within the examination hall.
-
-Which of the statements given above is/are correct?
-
-(a) 1 only
-
-(b) 2 only
-
-(c) 1 and 3 only
-
-(d) 2 and 3 only
-
-**Q3. Regarding the Pradhan Mantri Viksit Bharat Rojgar Yojana, consider the following statements:**
-
-1.  The scheme specifically aims at providing direct employment opportunities to rural youth through skill development initiatives.
-2.  Recent events, such as one held in Chennai, involved the disbursement of employment letters under the scheme, emphasizing its focus on employment generation.
-3.  The scheme falls under the purview of the Ministry of Rural Development, overseeing its pan-India implementation.
+3.  A 'Functional urban settlement' category is proposed to specifically address governance and planning challenges in peri-urban areas.
 
 Which of the statements given above is/are correct?
 
 (a) 1 and 2 only
 
-(b) 2 only
+(b) 2 and 3 only
 
-(c) 1 and 3 only
-
-(d) 1, 2 and 3
-
-**Q4. With respect to the Kisan Credit Card (KCC) scheme, consider the following statements:**
-
-1.  The Reserve Bank of India (RBI) has recently standardized specific norms for KCCs, including revised crop season guidelines.
-2.  The collateral-free loan limit for KCCs has been reduced by the RBI in its latest directive to manage credit risk.
-3.  KCCs provide short-term credit only for crop cultivation, excluding post-harvest expenses or working capital for allied activities.
-
-Which of the statements given above is/are correct?
-
-(a) 1 only
-
-(b) 1 and 2 only
-
-(c) 2 and 3 only
+(c) 3 only
 
 (d) 1, 2 and 3
 
-**Q5. In the context of India's external sector and currency performance, consider the following statements:**
+**Q2. With reference to India's export performance and trade policies, consider the following statements:**
 
-1.  A strengthening of the Indian Rupee typically makes imports cheaper, which can help in moderating imported inflation.
-2.  The recent upward movement of the Rupee for the second consecutive day indicates a sustained trend of appreciation in its value.
-3.  The Reserve Bank of India (RBI) often intervenes in the foreign exchange market to manage excessive volatility in the Rupee's value.
+1.  A sustained increase in India's exports generally contributes to a reduction in the country's Current Account Deficit, assuming other factors remain constant.
 
-Which of the statements given above is/are correct?
+2.  The World Trade Organization (WTO) framework primarily focuses on promoting free trade by eliminating tariff barriers but does not address non-tariff barriers.
 
-(a) 1 and 2 only
-
-(b) 1 and 3 only
-
-(c) 2 and 3 only
-
-(d) 1, 2 and 3
-
-**Q6. Regarding India's energy security and the impact of global events, consider the following statements:**
-
-1.  India's oil marketing companies (OMCs) typically absorb a significant portion of international crude oil price shocks, insulating domestic consumers.
-2.  The recent geopolitical conflicts, particularly in the Middle East, have prompted India to re-evaluate its strategy for Liquefied Petroleum Gas (LPG) imports.
-3.  India has achieved self-sufficiency in LPG production, making it immune to global price fluctuations and supply chain disruptions.
-
-Which of the statements given above is/are correct?
-
-(a) 1 and 2 only
-
-(b) 2 only
-
-(c) 1 and 3 only
-
-(d) 1, 2 and 3
-
-**Q7. In the context of capital market regulations and investor protection in India, consider the following statements:**
-
-1.  The Securities and Exchange Board of India (SEBI) has recently simplified the procedures for the transfer of shares, specifically for those held by deceased investors.
-2.  SEBI's regulatory mandate primarily extends to listed companies and their compliance with corporate governance norms, not individual investor transactions.
-3.  These regulatory changes by SEBI aim to reduce the time and complexity involved in asset transmission, enhancing ease of doing business for financial intermediaries.
+3.  Export promotion schemes such as Remission of Duties and Taxes on Exported Products (RoDTEP) aim to reimburse taxes and duties incurred on exported products, thereby enhancing their competitiveness.
 
 Which of the statements given above is/are correct?
 
@@ -114,59 +38,13 @@ Which of the statements given above is/are correct?
 
 (d) 2 and 3 only
 
-**Q8. Regarding factors influencing India's economic outlook, consider the following statements:**
+**Q3. Regarding India's digital sector and its regulatory environment, consider the following statements:**
 
-1.  The National Stock Exchange (NSE) recently highlighted India's economic outlook, specifically raising concerns for the year 2026.
-2.  The impact of monsoon performance and the prevalence of El Niño conditions are significant factors for India's agricultural output and broader economy.
-3.  A robust manufacturing sector can fully offset any adverse impacts stemming from a deficient monsoon or El Niño events on the Indian economy.
+1.  The Competition Commission of India (CCI) is empowered to investigate anti-competitive practices within the digital sector to ensure fair market competition.
 
-Which of the statements given above is/are correct?
+2.  Policy and technological obstacles in India's digital sector are primarily due to insufficient foreign direct investment (FDI) in digital infrastructure.
 
-(a) 1 only
-
-(b) 2 only
-
-(c) 1 and 2 only
-
-(d) 1, 2 and 3
-
-**Q9. With reference to the Ayushman Bharat scheme and its implementation, consider the following statements:**
-
-1.  The scheme aims to provide health insurance coverage to the economically vulnerable sections of the population for secondary and tertiary care.
-2.  Instances of fraudulent claims under the scheme, such as those identified in Jammu & Kashmir leading to the suspension of a cardiologist, highlight implementation challenges.
-3.  The scheme is jointly funded by the Central and State Governments, with the central share being significantly higher in all states and union territories.
-
-Which of the statements given above is/are correct?
-
-(a) 1 only
-
-(b) 1 and 2 only
-
-(c) 2 and 3 only
-
-(d) 1, 2 and 3
-
-**Q10. In the context of consumer protection and food safety standards in India, consider the following statements:**
-
-1.  The Food Safety and Standards Authority of India (FSSAI) is responsible for setting standards for food products and regulating their manufacturing, storage, distribution, and sale.
-2.  FSSAI has initiated scrutiny of food labels, specifically targeting misleading claims such as 'natural' and 'healthy' to ensure consumer trust.
-3.  The enforcement of FSSAI regulations primarily relies on voluntary compliance by food business operators, with limited statutory powers for penal action.
-
-Which of the statements given above is/are correct?
-
-(a) 1 only
-
-(b) 1 and 2 only
-
-(c) 2 and 3 only
-
-(d) 1, 2 and 3
-
-**Q11. Regarding the potential impact of climatic phenomena on economic sectors in India, consider the following statements:**
-
-1.  El Niño conditions are generally associated with below-average rainfall in India, which can lead to reduced fodder supply for livestock.
-2.  A decrease in fodder supply, exacerbated by climatic events like El Niño, directly impacts the cost of milk production and can lead to higher dairy prices.
-3.  Forecasting such impacts, like the potential rise in milk prices by July, enables proactive policy interventions to mitigate adverse effects on consumers and producers.
+3.  The Digital India programme aims to transform India into a digitally empowered society and knowledge economy.
 
 Which of the statements given above is/are correct?
 
@@ -178,11 +56,69 @@ Which of the statements given above is/are correct?
 
 (d) 1, 2 and 3
 
-**Q12. In the context of maritime geopolitics and India's strategic interests, consider the following statements about the Strait of Hormuz:**
+**Q4. With reference to the Asian Development Bank (ADB) and its operations in India, consider the following statements:**
 
-1.  The Strait of Hormuz is a critical chokepoint for global oil and liquefied natural gas (LNG) shipments, connecting the Persian Gulf to the open sea.
-2.  India's engagement in ensuring the safe passage of its flagged vessels through the Strait underscores its commitment to freedom of navigation and energy security.
-3.  The Strait of Hormuz marks the narrowest point of the Suez Canal, making it strategically vital for trade between Asia and Europe.
+1.  The Asian Development Bank (ADB) primarily focuses its financial assistance on public sector projects in developing member countries.
+
+2.  ADB's financing typically includes a mix of loans, grants, and technical assistance for infrastructure and social development projects.
+
+3.  A key objective of multilateral development banks like ADB is to reduce poverty and improve living conditions in Asia and the Pacific region.
+
+Which of the statements given above is/are correct?
+
+(a) 1 only
+
+(b) 2 only
+
+(c) 2 and 3 only
+
+(d) 1, 2 and 3
+
+**Q5. Regarding India's oil procurement strategy and energy security, consider the following statements:**
+
+1.  India's strategy to ramp up oil procurement from diverse sources enhances its energy security and reduces vulnerability to geopolitical risks.
+
+2.  The Strait of Hormuz is a crucial maritime chokepoint primarily connecting the Persian Gulf to the Arabian Sea and the open ocean.
+
+3.  A 'hedge strategy' in commodity procurement primarily involves locking in prices for future deliveries to mitigate price volatility.
+
+4.  India's increased oil purchases from the UAE are primarily driven by the lower pricing offered by the UAE compared to other major oil exporters.
+
+Which of the statements given above is/are correct?
+
+(a) 1, 2 and 3 only
+
+(b) 2, 3 and 4 only
+
+(c) 1 and 4 only
+
+(d) 1, 2, 3 and 4
+
+**Q6. With reference to consumer protection in India, consider the following statements:**
+
+1.  The Central Consumer Protection Authority (CCPA) is empowered under the Consumer Protection Act, 2019, to regulate matters relating to violation of consumer rights and unfair trade practices.
+
+2.  Misleading advertisements related to Food and Beverages (F&B) are exclusively governed by the Food Safety and Standards Authority of India (FSSAI).
+
+3.  The Consumer Protection Act, 2019, provides for a three-tier quasi-judicial machinery for redressal of consumer grievances.
+
+Which of the statements given above is/are correct?
+
+(a) 1 and 2 only
+
+(b) 2 and 3 only
+
+(c) 1 and 3 only
+
+(d) 1, 2 and 3
+
+**Q7. Consider the following statements regarding the Free Trade Agreement (FTA) negotiations between India and the European Union:**
+
+1.  A Free Trade Agreement (FTA) between India and the European Union aims to eliminate tariffs and non-tariff barriers on a substantial portion of trade between the two regions.
+
+2.  The target for completing the India-EU FTA is set for the year 2025, according to recent ministerial statements.
+
+3.  The opening of the entire European market to Indian exports is expected to primarily benefit India's agricultural sector due to comparative advantages.
 
 Which of the statements given above is/are correct?
 
@@ -194,11 +130,13 @@ Which of the statements given above is/are correct?
 
 (d) 1, 2 and 3
 
-**Q13. With reference to the BRICS grouping and its security agenda, consider the following statements:**
+**Q8. With reference to bilateral trade negotiations between India and the United States, consider the following statements:**
 
-1.  The BRICS Security Conclave, recently hosted by India, emphasized discussions on global challenges including cross-border terrorism and the Middle East conflict.
-2.  Participation in the Conclave is limited to the National Security Advisors of the member states, with no representation from foreign ministers.
-3.  BRICS, as an economic bloc, refrains from engaging in discussions pertaining to internal security matters or geopolitical issues to maintain its economic focus.
+1.  Bilateral trade negotiations between India and the US are often influenced by geopolitical considerations beyond mere economic gains.
+
+2.  A trade deal typically involves mutual concessions on tariffs, market access, and addressing non-tariff barriers to enhance trade volume.
+
+3.  The India-US Trade Deal, currently in its final lap, primarily focuses on increasing India's imports of agricultural products from the US.
 
 Which of the statements given above is/are correct?
 
