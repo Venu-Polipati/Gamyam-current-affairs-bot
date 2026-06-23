@@ -2,13 +2,177 @@
 MCQs
 ━━━━━━━━━━━━━━━
 
-**Q1. Consider the following statements regarding urban settlements in India:**
+**Q1. Consider the following statements regarding the Reserve Bank of India's operations in the forex market:**
 
-1.  The classification of an area as an 'urban settlement' in India primarily relies on criteria established by the Ministry of Rural Development.
+1.  The primary objective of the RBI selling US dollars in the spot market is to prevent excessive depreciation of the Indian Rupee.
 
-2.  The 74th Constitutional Amendment Act provides for the establishment of three types of municipalities, including Nagar Panchayats for transitional areas.
+2.  Such interventions by the RBI are reflected in the capital account of India's Balance of Payments.
 
-3.  A 'Functional urban settlement' category is proposed to specifically address governance and planning challenges in peri-urban areas.
+3.  A sustained depreciation of the Rupee can potentially make India's imports cheaper, thereby benefiting domestic consumers.
+
+4.  The decision to intervene in the forex market is part of the RBI's overall monetary policy framework.
+
+Which of the statements given above is/are correct?
+
+(a) 1 and 2 only
+
+(b) 1 and 4 only
+
+(c) 2 and 3 only
+
+(d) 1, 3 and 4
+
+**Q2. Consider the following statements regarding the Pension Fund Regulatory and Development Authority (PFRDA):**
+
+1.  PFRDA is responsible for promoting and regulating the National Pension System (NPS) and other pension schemes in India.
+
+2.  The recently launched AI-powered grievance platform by PFRDA aims to provide services exclusively in English, targeting urban pensioners.
+
+3.  The implementation of AI in public grievance redressal platforms primarily enhances the speed and efficiency of complaint resolution.
+
+Which of the statements given above is/are correct?
+
+(a) 1 only
+
+(b) 2 only
+
+(c) 1 and 2 only
+
+(d) 1 and 3 only
+
+**Q3. With reference to anti-dumping duties, consider the following statements:**
+
+1.  Anti-dumping duty is imposed to protect domestic industries from cheap imports that are priced below their normal value in the country of origin.
+
+2.  Such duties are generally imposed for a fixed period and are subject to review by the World Trade Organization (WTO).
+
+3.  India recently imposed anti-dumping duties on rubber chemical imports exclusively from China, excluding other major trading partners.
+
+Which of the statements given above is/are correct?
+
+(a) 1 only
+
+(b) 2 and 3 only
+
+(c) 1 and 2 only
+
+(d) 1, 2 and 3
+
+**Q4. Consider the following statements regarding India-US defence cooperation:**
+
+1.  The recent US notification for the sale of support services covers platforms such as Apache helicopters and M777A2 howitzers already in India's defence inventory.
+
+2.  India's defence acquisitions from the US are primarily aimed at replacing its entire inventory of Russian-origin equipment within the next five years.
+
+3.  This cooperation aligns with India's broader strategy of diversifying its defence procurement sources and strengthening strategic partnerships.
+
+Which of the statements given above is/are correct?
+
+(a) 1 only
+
+(b) 2 and 3 only
+
+(c) 1 and 3 only
+
+(d) 1, 2 and 3
+
+**Q5. With reference to Article 21 of the Indian Constitution, consider the following statements:**
+
+1.  The right to personal liberty guaranteed under Article 21 is absolute and cannot be subjected to any restrictions by the state.
+
+2.  Judicial pronouncements have established that public safety can be a legitimate ground for imposing reasonable restrictions on personal liberty.
+
+3.  The 'due process of law' principle, rather than 'procedure established by law', is primarily followed by Indian courts in matters pertaining to life and personal liberty.
+
+Which of the statements given above is/are correct?
+
+(a) 1 and 2 only
+
+(b) 1 and 3 only
+
+(c) 2 and 3 only
+
+(d) 1, 2 and 3
+
+**Q6. Consider the following statements about ship recycling in India:**
+
+1.  India currently holds the largest global share in the ship recycling industry, contributing over one-third of the world's total.
+
+2.  Ship recycling activities are highly regulated globally by conventions like the Hong Kong International Convention for the Safe and Environmentally Sound Recycling of Ships.
+
+3.  India's leadership in ship recycling has necessitated significant investment in upgrading facilities to comply with international environmental and safety norms.
+
+Which of the statements given above is/are correct?
+
+(a) 1 only
+
+(b) 2 and 3 only
+
+(c) 1 and 2 only
+
+(d) 1, 2 and 3
+
+**Q7. With reference to India's energy security strategy, consider the following statements:**
+
+1.  India's record purchases of crude oil from Russia are primarily driven by the long-standing bilateral trade agreement specifically for energy supplies.
+
+2.  Maintaining a diversified portfolio of crude oil suppliers is a key tenet of India's energy security policy to mitigate geopolitical risks.
+
+3.  The Strait of Hormuz is a crucial chokepoint for India's energy imports, with significant implications for its supply chain resilience.
+
+Which of the statements given above is/are correct?
+
+(a) 1 and 2 only
+
+(b) 1 and 3 only
+
+(c) 2 and 3 only
+
+(d) 1, 2 and 3
+
+**Q8. Consider the recent regulatory amendments concerning the receipt of foreign funds in India:**
+
+1.  The recent regulatory changes concerning foreign funds primarily seek to ease the compliance burden for all entities receiving foreign contributions, irrespective of their activities.
+
+2.  These regulatory changes are typically enacted under the provisions of the Foreign Contribution (Regulation) Act (FCRA).
+
+3.  The receipt of foreign funds by political parties is generally prohibited under Indian law, with specific exceptions.
+
+Which of the statements given above is/are correct?
+
+(a) 1 only
+
+(b) 2 and 3 only
+
+(c) 1 and 3 only
+
+(d) 1, 2 and 3
+
+**Q9. With reference to drug regulation in India, consider the following statements:**
+
+1.  The Central Drugs Standard Control Organization (CDSCO) is the principal regulatory body responsible for ensuring the quality and efficacy of drugs in India.
+
+2.  Substandard drugs refer to those that do not meet the specified quality standards, while spurious drugs are entirely counterfeit or falsely labelled.
+
+3.  The recent findings of substandard and spurious drugs indicate a significant increase in such incidents compared to the previous year, highlighting a systemic failure in drug manufacturing.
+
+Which of the statements given above is/are correct?
+
+(a) 1 only
+
+(b) 2 and 3 only
+
+(c) 1 and 3 only
+
+(d) 1 and 2 only
+
+**Q10. Consider the significance of India's engagement with countries like Indonesia, Australia, and New Zealand:**
+
+1.  Such engagements are integral to India's 'Act East Policy', aiming to strengthen economic and strategic ties with Southeast Asian and Pacific nations.
+
+2.  Australia and New Zealand are key partners in the Quadrilateral Security Dialogue (Quad), a grouping focused on maritime security in the Indo-Pacific.
+
+3.  Indonesia, as a prominent member of ASEAN, plays a crucial role in India's vision for a free, open, and inclusive Indo-Pacific.
 
 Which of the statements given above is/are correct?
 
@@ -16,17 +180,71 @@ Which of the statements given above is/are correct?
 
 (b) 2 and 3 only
 
-(c) 3 only
+(c) 1 and 3 only
 
 (d) 1, 2 and 3
 
-**Q2. With reference to India's export performance and trade policies, consider the following statements:**
+**Q11. Regarding challenges in the Indian health insurance sector, consider the following statements:**
 
-1.  A sustained increase in India's exports generally contributes to a reduction in the country's Current Account Deficit, assuming other factors remain constant.
+1.  Non-transparency in policy terms and conditions is a significant factor contributing to consumer dissatisfaction in health insurance.
 
-2.  The World Trade Organization (WTO) framework primarily focuses on promoting free trade by eliminating tariff barriers but does not address non-tariff barriers.
+2.  Post-claim investigations are always indicative of fraudulent claims and are proactively initiated by insurers to deny legitimate payouts.
 
-3.  Export promotion schemes such as Remission of Duties and Taxes on Exported Products (RoDTEP) aim to reimburse taxes and duties incurred on exported products, thereby enhancing their competitiveness.
+3.  The Insurance Regulatory and Development Authority of India (IRDAI) is the statutory body responsible for regulating and promoting the insurance sector in India.
+
+Which of the statements given above is/are correct?
+
+(a) 1 only
+
+(b) 1 and 3 only
+
+(c) 2 and 3 only
+
+(d) 1, 2 and 3
+
+**Q12. With reference to the Pay Commissions in India, consider the following statements:**
+
+1.  Pay Commissions are constituted by the Central Government to review the salary structure and service conditions of its employees.
+
+2.  The recommendations of a Pay Commission are binding on both the Central and State governments for all their employees.
+
+3.  The report of the 8th Pay Commission is anticipated to be submitted before the Union Budget of 2027.
+
+Which of the statements given above is/are correct?
+
+(a) 1 only
+
+(b) 2 and 3 only
+
+(c) 1 and 3 only
+
+(d) 1, 2 and 3
+
+**Q13. Regarding India's approach to bilateral trade agreements, consider the following statements:**
+
+1.  India's ongoing trade negotiations with the United States are primarily focused on securing market access for Indian goods and services while safeguarding domestic industry interests.
+
+2.  Bilateral trade deals generally involve preferential tariffs and non-tariff barrier reductions between the signatory countries.
+
+3.  The World Trade Organization (WTO) framework explicitly prohibits member countries from entering into bilateral or regional trade agreements.
+
+Which of the statements given above is/are correct?
+
+(a) 1 and 2 only
+
+(b) 1 and 3 only
+
+(c) 2 and 3 only
+
+(d) 1, 2 and 3
+
+**Q14. Consider the strategic significance of the Strait of Hormuz:**
+
+1.  The Strait of Hormuz is a narrow waterway located between the Persian Gulf and the Arabian Sea.
+
+2.  It is one of the world's most vital chokepoints for oil and gas shipments, crucial for global energy security.
+
+3.  For India, the Strait of Hormuz is particularly important as a significant proportion of its crude oil and natural gas imports transit through this route.
 
 Which of the statements given above is/are correct?
 
@@ -38,112 +256,20 @@ Which of the statements given above is/are correct?
 
 (d) 2 and 3 only
 
-**Q3. Regarding India's digital sector and its regulatory environment, consider the following statements:**
+**Q15. With reference to the application of technology in India's criminal justice system, consider the following statements:**
 
-1.  The Competition Commission of India (CCI) is empowered to investigate anti-competitive practices within the digital sector to ensure fair market competition.
+1.  The integration of digital tools and platforms primarily aims to enhance the efficiency and transparency of police investigations and judicial proceedings.
 
-2.  Policy and technological obstacles in India's digital sector are primarily due to insufficient foreign direct investment (FDI) in digital infrastructure.
+2.  Such initiatives, falling under digital governance, inherently address all concerns related to data privacy and cybersecurity without requiring additional safeguards.
 
-3.  The Digital India programme aims to transform India into a digitally empowered society and knowledge economy.
+3.  The use of technology in criminal justice includes aspects like digitized police records, forensic data analysis, and virtual court proceedings.
 
 Which of the statements given above is/are correct?
 
-(a) 1 only
+(a) 1 and 3 only
 
 (b) 2 and 3 only
 
-(c) 1 and 3 only
-
-(d) 1, 2 and 3
-
-**Q4. With reference to the Asian Development Bank (ADB) and its operations in India, consider the following statements:**
-
-1.  The Asian Development Bank (ADB) primarily focuses its financial assistance on public sector projects in developing member countries.
-
-2.  ADB's financing typically includes a mix of loans, grants, and technical assistance for infrastructure and social development projects.
-
-3.  A key objective of multilateral development banks like ADB is to reduce poverty and improve living conditions in Asia and the Pacific region.
-
-Which of the statements given above is/are correct?
-
-(a) 1 only
-
-(b) 2 only
-
-(c) 2 and 3 only
-
-(d) 1, 2 and 3
-
-**Q5. Regarding India's oil procurement strategy and energy security, consider the following statements:**
-
-1.  India's strategy to ramp up oil procurement from diverse sources enhances its energy security and reduces vulnerability to geopolitical risks.
-
-2.  The Strait of Hormuz is a crucial maritime chokepoint primarily connecting the Persian Gulf to the Arabian Sea and the open ocean.
-
-3.  A 'hedge strategy' in commodity procurement primarily involves locking in prices for future deliveries to mitigate price volatility.
-
-4.  India's increased oil purchases from the UAE are primarily driven by the lower pricing offered by the UAE compared to other major oil exporters.
-
-Which of the statements given above is/are correct?
-
-(a) 1, 2 and 3 only
-
-(b) 2, 3 and 4 only
-
-(c) 1 and 4 only
-
-(d) 1, 2, 3 and 4
-
-**Q6. With reference to consumer protection in India, consider the following statements:**
-
-1.  The Central Consumer Protection Authority (CCPA) is empowered under the Consumer Protection Act, 2019, to regulate matters relating to violation of consumer rights and unfair trade practices.
-
-2.  Misleading advertisements related to Food and Beverages (F&B) are exclusively governed by the Food Safety and Standards Authority of India (FSSAI).
-
-3.  The Consumer Protection Act, 2019, provides for a three-tier quasi-judicial machinery for redressal of consumer grievances.
-
-Which of the statements given above is/are correct?
-
-(a) 1 and 2 only
-
-(b) 2 and 3 only
-
-(c) 1 and 3 only
-
-(d) 1, 2 and 3
-
-**Q7. Consider the following statements regarding the Free Trade Agreement (FTA) negotiations between India and the European Union:**
-
-1.  A Free Trade Agreement (FTA) between India and the European Union aims to eliminate tariffs and non-tariff barriers on a substantial portion of trade between the two regions.
-
-2.  The target for completing the India-EU FTA is set for the year 2025, according to recent ministerial statements.
-
-3.  The opening of the entire European market to Indian exports is expected to primarily benefit India's agricultural sector due to comparative advantages.
-
-Which of the statements given above is/are correct?
-
-(a) 1 only
-
-(b) 1 and 2 only
-
-(c) 2 and 3 only
-
-(d) 1, 2 and 3
-
-**Q8. With reference to bilateral trade negotiations between India and the United States, consider the following statements:**
-
-1.  Bilateral trade negotiations between India and the US are often influenced by geopolitical considerations beyond mere economic gains.
-
-2.  A trade deal typically involves mutual concessions on tariffs, market access, and addressing non-tariff barriers to enhance trade volume.
-
-3.  The India-US Trade Deal, currently in its final lap, primarily focuses on increasing India's imports of agricultural products from the US.
-
-Which of the statements given above is/are correct?
-
-(a) 1 only
-
-(b) 1 and 2 only
-
-(c) 2 and 3 only
+(c) 1 and 2 only
 
 (d) 1, 2 and 3
