@@ -2,274 +2,202 @@
 MCQs
 ━━━━━━━━━━━━━━━
 
-**Q1. Consider the following statements regarding the Reserve Bank of India's operations in the forex market:**
+**Q1. Consider the following statements regarding the Right to Information (RTI) Act in India:**
 
-1.  The primary objective of the RBI selling US dollars in the spot market is to prevent excessive depreciation of the Indian Rupee.
+1.  The Right to Information Act allows citizens to seek information from any public authority, including private bodies substantially financed by the government.
 
-2.  Such interventions by the RBI are reflected in the capital account of India's Balance of Payments.
+2.  Amendments to the RTI Act, as recently proposed by some state governments, primarily aim to broaden the scope of information accessible to the public.
 
-3.  A sustained depreciation of the Rupee can potentially make India's imports cheaper, thereby benefiting domestic consumers.
+3.  The Act is crucial for promoting transparency and accountability in governance, enabling citizens to participate effectively in democratic processes.
 
-4.  The decision to intervene in the forex market is part of the RBI's overall monetary policy framework.
-
-Which of the statements given above is/are correct?
-
-(a) 1 and 2 only
-
-(b) 1 and 4 only
-
-(c) 2 and 3 only
-
-(d) 1, 3 and 4
-
-**Q2. Consider the following statements regarding the Pension Fund Regulatory and Development Authority (PFRDA):**
-
-1.  PFRDA is responsible for promoting and regulating the National Pension System (NPS) and other pension schemes in India.
-
-2.  The recently launched AI-powered grievance platform by PFRDA aims to provide services exclusively in English, targeting urban pensioners.
-
-3.  The implementation of AI in public grievance redressal platforms primarily enhances the speed and efficiency of complaint resolution.
-
-Which of the statements given above is/are correct?
-
-(a) 1 only
-
-(b) 2 only
-
-(c) 1 and 2 only
-
-(d) 1 and 3 only
-
-**Q3. With reference to anti-dumping duties, consider the following statements:**
-
-1.  Anti-dumping duty is imposed to protect domestic industries from cheap imports that are priced below their normal value in the country of origin.
-
-2.  Such duties are generally imposed for a fixed period and are subject to review by the World Trade Organization (WTO).
-
-3.  India recently imposed anti-dumping duties on rubber chemical imports exclusively from China, excluding other major trading partners.
-
-Which of the statements given above is/are correct?
-
-(a) 1 only
-
-(b) 2 and 3 only
-
-(c) 1 and 2 only
-
-(d) 1, 2 and 3
-
-**Q4. Consider the following statements regarding India-US defence cooperation:**
-
-1.  The recent US notification for the sale of support services covers platforms such as Apache helicopters and M777A2 howitzers already in India's defence inventory.
-
-2.  India's defence acquisitions from the US are primarily aimed at replacing its entire inventory of Russian-origin equipment within the next five years.
-
-3.  This cooperation aligns with India's broader strategy of diversifying its defence procurement sources and strengthening strategic partnerships.
-
-Which of the statements given above is/are correct?
-
-(a) 1 only
-
-(b) 2 and 3 only
-
-(c) 1 and 3 only
-
-(d) 1, 2 and 3
-
-**Q5. With reference to Article 21 of the Indian Constitution, consider the following statements:**
-
-1.  The right to personal liberty guaranteed under Article 21 is absolute and cannot be subjected to any restrictions by the state.
-
-2.  Judicial pronouncements have established that public safety can be a legitimate ground for imposing reasonable restrictions on personal liberty.
-
-3.  The 'due process of law' principle, rather than 'procedure established by law', is primarily followed by Indian courts in matters pertaining to life and personal liberty.
+4.  Changes in the rules for appointing Information Commissioners, if introduced by state governments, typically require prior presidential assent.
 
 Which of the statements given above is/are correct?
 
 (a) 1 and 2 only
 
-(b) 1 and 3 only
+(b) 3 only
 
-(c) 2 and 3 only
+(c) 1, 3 and 4 only
 
-(d) 1, 2 and 3
+(d) 1, 2, 3 and 4
 
-**Q6. Consider the following statements about ship recycling in India:**
+**Q2. With reference to the recent statement by the RBI Governor on a rate hike being 'premature' amidst geopolitical uncertainty, consider the following:**
 
-1.  India currently holds the largest global share in the ship recycling industry, contributing over one-third of the world's total.
+1.  A central bank typically raises policy rates to curb inflation, signaling tighter monetary conditions.
 
-2.  Ship recycling activities are highly regulated globally by conventions like the Hong Kong International Convention for the Safe and Environmentally Sound Recycling of Ships.
+2.  Geopolitical uncertainties primarily impact domestic inflation through a rise in export demand and capital outflows.
 
-3.  India's leadership in ship recycling has necessitated significant investment in upgrading facilities to comply with international environmental and safety norms.
+3.  The Monetary Policy Committee (MPC) is mandated to maintain consumer price index (CPI) inflation within a specified target range.
 
-Which of the statements given above is/are correct?
+4.  A 'premature' rate hike, in the context of geopolitical uncertainty, implies a potential risk of stifling economic growth before stability is achieved.
 
-(a) 1 only
+Which of the statements given above are correct?
 
-(b) 2 and 3 only
+(a) 1, 2 and 3 only
 
-(c) 1 and 2 only
+(b) 2 and 4 only
 
-(d) 1, 2 and 3
+(c) 1, 3 and 4 only
 
-**Q7. With reference to India's energy security strategy, consider the following statements:**
+(d) 1, 2, 3 and 4
 
-1.  India's record purchases of crude oil from Russia are primarily driven by the long-standing bilateral trade agreement specifically for energy supplies.
+**Q3. Consider the following statements regarding infrastructure projects, especially in challenging terrains like hill states:**
 
-2.  Maintaining a diversified portfolio of crude oil suppliers is a key tenet of India's energy security policy to mitigate geopolitical risks.
+1.  Infrastructure projects in hill states often face unique challenges such as difficult terrain, environmental concerns, and logistical complexities, leading to higher execution costs and longer timelines.
 
-3.  The Strait of Hormuz is a crucial chokepoint for India's energy imports, with significant implications for its supply chain resilience.
+2.  Incentive clauses, such as bonuses for early completion, are typically included in contracts to encourage faster project delivery and cost efficiency.
 
-Which of the statements given above is/are correct?
+3.  The removal of early completion incentive clauses from National Highway projects in hill states would likely lead to a reduction in project timelines and overall cost savings for the government.
 
-(a) 1 and 2 only
-
-(b) 1 and 3 only
-
-(c) 2 and 3 only
-
-(d) 1, 2 and 3
-
-**Q8. Consider the recent regulatory amendments concerning the receipt of foreign funds in India:**
-
-1.  The recent regulatory changes concerning foreign funds primarily seek to ease the compliance burden for all entities receiving foreign contributions, irrespective of their activities.
-
-2.  These regulatory changes are typically enacted under the provisions of the Foreign Contribution (Regulation) Act (FCRA).
-
-3.  The receipt of foreign funds by political parties is generally prohibited under Indian law, with specific exceptions.
-
-Which of the statements given above is/are correct?
-
-(a) 1 only
-
-(b) 2 and 3 only
-
-(c) 1 and 3 only
-
-(d) 1, 2 and 3
-
-**Q9. With reference to drug regulation in India, consider the following statements:**
-
-1.  The Central Drugs Standard Control Organization (CDSCO) is the principal regulatory body responsible for ensuring the quality and efficacy of drugs in India.
-
-2.  Substandard drugs refer to those that do not meet the specified quality standards, while spurious drugs are entirely counterfeit or falsely labelled.
-
-3.  The recent findings of substandard and spurious drugs indicate a significant increase in such incidents compared to the previous year, highlighting a systemic failure in drug manufacturing.
-
-Which of the statements given above is/are correct?
-
-(a) 1 only
-
-(b) 2 and 3 only
-
-(c) 1 and 3 only
-
-(d) 1 and 2 only
-
-**Q10. Consider the significance of India's engagement with countries like Indonesia, Australia, and New Zealand:**
-
-1.  Such engagements are integral to India's 'Act East Policy', aiming to strengthen economic and strategic ties with Southeast Asian and Pacific nations.
-
-2.  Australia and New Zealand are key partners in the Quadrilateral Security Dialogue (Quad), a grouping focused on maritime security in the Indo-Pacific.
-
-3.  Indonesia, as a prominent member of ASEAN, plays a crucial role in India's vision for a free, open, and inclusive Indo-Pacific.
+4.  The Ministry of Road Transport and Highways is the primary nodal agency responsible for the development and maintenance of National Highways across India.
 
 Which of the statements given above is/are correct?
 
 (a) 1 and 2 only
 
-(b) 2 and 3 only
+(b) 1, 2 and 4 only
 
-(c) 1 and 3 only
+(c) 3 and 4 only
 
-(d) 1, 2 and 3
+(d) 1, 2, 3 and 4
 
-**Q11. Regarding challenges in the Indian health insurance sector, consider the following statements:**
+**Q4. With reference to cybercrime and law enforcement in India, consider the following statements:**
 
-1.  Non-transparency in policy terms and conditions is a significant factor contributing to consumer dissatisfaction in health insurance.
+1.  An e-zero FIR allows a complaint to be registered online at any police station, irrespective of the jurisdiction where the incident occurred, for certain categories of crimes.
 
-2.  Post-claim investigations are always indicative of fraudulent claims and are proactively initiated by insurers to deny legitimate payouts.
+2.  The directive to fast-track e-zero FIRs for cybercrime cases primarily aims to reduce the burden on physical police stations by centralizing all investigations at a national cybercrime hub.
 
-3.  The Insurance Regulatory and Development Authority of India (IRDAI) is the statutory body responsible for regulating and promoting the insurance sector in India.
+3.  Under India's federal structure, 'Police' and 'Public Order' are subjects primarily falling under the Union List, allowing the central government to issue direct operational guidelines to state police forces.
 
-Which of the statements given above is/are correct?
+4.  Cybercrime investigations often require specialized technical skills and inter-agency coordination due to the transnational nature of digital offences.
 
-(a) 1 only
+Which of the statements given above are correct?
 
-(b) 1 and 3 only
+(a) 1 and 4 only
 
-(c) 2 and 3 only
+(b) 2, 3 and 4 only
 
-(d) 1, 2 and 3
+(c) 1, 2 and 3 only
 
-**Q12. With reference to the Pay Commissions in India, consider the following statements:**
+(d) 1, 3 and 4 only
 
-1.  Pay Commissions are constituted by the Central Government to review the salary structure and service conditions of its employees.
+**Q5. Consider the following statements with respect to India's engagement with international trade agreements:**
 
-2.  The recommendations of a Pay Commission are binding on both the Central and State governments for all their employees.
+1.  Free Trade Agreements (FTAs) typically aim to reduce or eliminate tariff and non-tariff barriers between signatory countries to boost bilateral trade and investment.
 
-3.  The report of the 8th Pay Commission is anticipated to be submitted before the Union Budget of 2027.
+2.  The "Kisan Mazdoor Morcha" protesting an India-US trade deal indicates concerns that such agreements may disproportionately benefit industrial sectors over agricultural interests.
 
-Which of the statements given above is/are correct?
+3.  Negotiations for an FTA between India and the United States often involve complex discussions on intellectual property rights, labor standards, and market access for agricultural products.
 
-(a) 1 only
+4.  India's trade policy primarily focuses on multilateral agreements through the World Trade Organization (WTO) rather than pursuing bilateral or regional trade deals.
 
-(b) 2 and 3 only
-
-(c) 1 and 3 only
-
-(d) 1, 2 and 3
-
-**Q13. Regarding India's approach to bilateral trade agreements, consider the following statements:**
-
-1.  India's ongoing trade negotiations with the United States are primarily focused on securing market access for Indian goods and services while safeguarding domestic industry interests.
-
-2.  Bilateral trade deals generally involve preferential tariffs and non-tariff barrier reductions between the signatory countries.
-
-3.  The World Trade Organization (WTO) framework explicitly prohibits member countries from entering into bilateral or regional trade agreements.
-
-Which of the statements given above is/are correct?
-
-(a) 1 and 2 only
-
-(b) 1 and 3 only
-
-(c) 2 and 3 only
-
-(d) 1, 2 and 3
-
-**Q14. Consider the strategic significance of the Strait of Hormuz:**
-
-1.  The Strait of Hormuz is a narrow waterway located between the Persian Gulf and the Arabian Sea.
-
-2.  It is one of the world's most vital chokepoints for oil and gas shipments, crucial for global energy security.
-
-3.  For India, the Strait of Hormuz is particularly important as a significant proportion of its crude oil and natural gas imports transit through this route.
-
-Which of the statements given above is/are correct?
-
-(a) 1 only
-
-(b) 1 and 2 only
-
-(c) 1 and 3 only
-
-(d) 2 and 3 only
-
-**Q15. With reference to the application of technology in India's criminal justice system, consider the following statements:**
-
-1.  The integration of digital tools and platforms primarily aims to enhance the efficiency and transparency of police investigations and judicial proceedings.
-
-2.  Such initiatives, falling under digital governance, inherently address all concerns related to data privacy and cybersecurity without requiring additional safeguards.
-
-3.  The use of technology in criminal justice includes aspects like digitized police records, forensic data analysis, and virtual court proceedings.
-
-Which of the statements given above is/are correct?
+Which of the statements given above are correct?
 
 (a) 1 and 3 only
 
+(b) 2 and 4 only
+
+(c) 1, 2 and 3 only
+
+(d) 1, 2, 3 and 4
+
+**Q6. Regarding the application of Artificial Intelligence (AI) in the aviation sector, consider the following statements:**
+
+1.  AI algorithms can analyze vast datasets to optimize flight paths, predict maintenance needs, and enhance air traffic management, leading to improved safety and efficiency.
+
+2.  Airlines utilizing AI for fuel saving initiatives, such as optimizing take-off procedures, contribute towards reducing operational costs and carbon emissions.
+
+3.  The implementation of AI in critical aviation functions, like autonomous take-offs and landings, currently faces no significant regulatory or ethical hurdles due to mature technology.
+
+4.  The International Civil Aviation Organization (ICAO) plays a crucial role in developing global standards and recommended practices for the safe and efficient integration of new technologies like AI in aviation.
+
+Which of the statements given above are correct?
+
+(a) 1, 2 and 3 only
+
+(b) 1, 2 and 4 only
+
+(c) 3 and 4 only
+
+(d) 1, 2, 3 and 4
+
+**Q7. With reference to Non-Resident Indian (NRI) investments in India, consider the following statements:**
+
+1.  NRIs can invest in Indian financial markets, including equities and debt, under various schemes regulated by the Reserve Bank of India and SEBI.
+
+2.  Offering higher leverage or guaranteed returns to NRIs is a strategy employed by India to attract foreign currency remittances and bolster its foreign exchange reserves.
+
+3.  Investments by NRIs are considered part of Foreign Direct Investment (FDI) in India, directly contributing to equity capital formation in domestic companies.
+
+4.  Any returns guaranteed to NRIs on their investments are typically fixed for a long tenure, regardless of market fluctuations or India's economic performance.
+
+Which of the statements given above is/are correct?
+
+(a) 1 and 2 only
+
 (b) 2 and 3 only
 
-(c) 1 and 2 only
+(c) 1, 3 and 4 only
 
-(d) 1, 2 and 3
+(d) 1, 2, 3 and 4
+
+**Q8. Consider the following statements about UNESCO's Intangible Cultural Heritage list:**
+
+1.  The UNESCO Intangible Cultural Heritage list aims to safeguard traditions, expressions, knowledge, and skills that communities recognize as part of their cultural heritage.
+
+2.  The inclusion of Sufiyana music from a particular region of India would primarily recognize its unique vocal traditions and the cultural practices associated with its performance.
+
+3.  A bid for inclusion on the Intangible Cultural Heritage list requires a detailed inventory of the element, community involvement, and national recognition.
+
+4.  Once an element is inscribed on the list, UNESCO provides direct financial assistance for the promotion and preservation of that cultural form.
+
+Which of the statements given above are correct?
+
+(a) 1, 2 and 3 only
+
+(b) 1 and 4 only
+
+(c) 2, 3 and 4 only
+
+(d) 1, 2, 3 and 4
+
+**Q9. With regard to the Directorate General of Civil Aviation (DGCA) in India, consider the following statements:**
+
+1.  The DGCA is the statutory body responsible for regulating civil aviation in India, covering safety oversight, airworthiness standards, and licensing of aviation personnel.
+
+2.  In cases of international airspace violations, the DGCA is empowered to take action against domestic airlines and their personnel, adhering to both national and international aviation protocols.
+
+3.  The DGCA's primary role is to promote commercial viability of airlines and airports, with safety being a secondary concern managed by other ministries.
+
+4.  Air traffic controllers in India operate under the direct administrative control and supervision of the DGCA, making them solely accountable to this body for operational duties.
+
+Which of the statements given above are correct?
+
+(a) 1 and 2 only
+
+(b) 1, 3 and 4 only
+
+(c) 2 and 3 only
+
+(d) 1, 2 and 4 only
+
+**Q10. Consider the following statements regarding the valuation and listing status of companies in India:**
+
+1.  The Hurun India 500 report ranks India's most valuable companies based on their market capitalization for publicly traded entities and their latest valuation for unlisted entities.
+
+2.  The National Stock Exchange (NSE), being identified as a most valuable unlisted company, implies that its shares are not traded on any public stock exchange in India.
+
+3.  Unlisted companies, by definition, are exempt from all regulatory compliances and disclosure requirements mandated for public limited companies in India.
+
+4.  A company's valuation, whether listed or unlisted, is influenced by factors such as its revenue, profitability, growth potential, and prevailing economic conditions.
+
+Which of the statements given above are correct?
+
+(a) 1 and 3 only
+
+(b) 2 and 4 only
+
+(c) 1, 2 and 4 only
+
+(d) 1, 2, 3 and 4
