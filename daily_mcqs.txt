@@ -2,220 +2,194 @@
 MCQs
 ━━━━━━━━━━━━━━━
 
-**Q1. With reference to inter-state river water disputes in India, consider the following statements:**
+**Q1. Consider the following statements regarding the National Food Security Act (NFSA) in India:**
 
-1.  The Tungabhadra Project is a joint venture between Karnataka and Andhra Pradesh, historically managed by a board.
+1. The primary objective of the Act is to provide food and nutritional security by ensuring access to adequate quantities of quality food at affordable prices.
 
-2.  Inter-state river water disputes fall under the exclusive original jurisdiction of the Supreme Court of India.
+2. Recent amendments to the Act specify a uniform entitlement of 7 kg foodgrains per household, irrespective of the number of beneficiaries.
 
-3.  The Parliament can, by law, provide for the adjudication of any dispute or complaint with respect to the use, distribution, or control of waters of any inter-state river or river valley.
+3. Under the provisions of the Act, pregnant women and lactating mothers are entitled to a maternity benefit of not less than Rs. 6,000.
 
-Which of the statements given above is/are correct?
+4. The identification of eligible households under NFSA is primarily the responsibility of the Central Government.
 
-(a) 1 and 2 only
-
-(b) 1 and 3 only
-
+Which of the statements given above are correct?
+(a) 1 and 3 only
+(b) 1, 2 and 4 only
 (c) 2 and 3 only
-
-(d) 1, 2 and 3
-
-**Q2. With reference to the Health Ministry's initiative for drug traceability, consider the following statements:**
-
-1.  The expanded QR code traceability system aims to enhance transparency in the pharmaceutical supply chain and combat drug counterfeiting.
-
-2.  Under the current mandate, QR code traceability will cover all Schedule H drugs and over-the-counter medications to ensure universal consumer safety.
-
-3.  The Central Drugs Standard Control Organisation (CDSCO) is the primary regulatory body responsible for implementing and overseeing drug standards and quality in India.
-
-Which of the statements given above is/are correct?
-
-(a) 1 only
-
-(b) 1 and 3 only
-
-(c) 2 and 3 only
-
-(d) 1, 2 and 3
-
-**Q3. Regarding the Employees' Provident Fund Organisation (EPFO) 3.0 reforms, consider the following statements:**
-
-1.  The Employees' Provident Fund Organisation (EPFO) operates under the administrative control of the Ministry of Finance.
-
-2.  EPFO 3.0 reforms are primarily designed to improve liquidity and accessibility for subscribers through integration with modern digital payment methods like UPI.
-
-3.  A Universal Account Number (UAN) is mandatory for all EPFO subscribers to access and manage their provident fund accounts online.
-
-Which of the statements given above is/are correct?
-
-(a) 1 and 2 only
-
-(b) 1 and 3 only
-
-(c) 2 and 3 only
-
-(d) 1, 2 and 3
-
-**Q4. With reference to India's macroeconomic indicators and global crude oil prices, consider the following statements:**
-
-1.  A sustained reduction in crude oil prices for India's energy basket generally contributes to an improvement in the country's Current Account Deficit (CAD).
-
-2.  A stronger Indian Rupee, relative to major global currencies, typically makes India's exports more competitive in international markets.
-
-3.  The Reserve Bank of India (RBI) largely maintains a fixed exchange rate regime for the Indian Rupee to ensure stability against volatile global currencies.
-
-Which of the statements given above is/are correct?
-
-(a) 1 only
-
-(b) 1 and 2 only
-
-(c) 2 and 3 only
-
-(d) 1, 2 and 3
-
-**Q5. Regarding Foreign Direct Investment (FDI) in India, consider the following statements:**
-
-1.  Foreign Direct Investment (FDI) is generally considered a more stable and long-term capital inflow compared to Foreign Portfolio Investment (FPI).
-
-2.  Investments by global technology giants like Amazon and Google predominantly channel into sectors such as digital infrastructure and services in India.
-
-3.  The Department for Promotion of Industry and Internal Trade (DPIIT) is the nodal government agency responsible for formulating and implementing FDI policy in India.
-
-4.  All sectors in India are now open for 100% FDI under the automatic route, signifying complete liberalization of investment norms.
-
-Which of the statements given above is/are correct?
-
-(a) 1, 2 and 4 only
-
-(b) 1, 2 and 3 only
-
-(c) 2, 3 and 4 only
-
 (d) 1, 3 and 4 only
 
-**Q6. With reference to the legal framework concerning armed forces personnel in 'disturbed areas' of India, consider the following statements:**
+**Q2. With reference to India's foreign exchange reserves, consider the following statements:**
 
-1.  The filing of a First Information Report (FIR) against armed forces personnel for actions taken in a 'disturbed area' necessarily requires prior sanction from the Union government.
+1. An increase in foreign exchange reserves generally indicates a strengthening domestic currency and helps cushion external shocks.
 
-2.  The Armed Forces (Special Powers) Act (AFSPA) empowers armed forces to use force, including lethal force, and to arrest without warrant in areas declared as 'disturbed'.
+2. India's foreign exchange reserves primarily consist of Foreign Currency Assets (FCAs), gold, Special Drawing Rights (SDRs), and the Reserve Tranche Position (RTP) with the International Monetary Fund (IMF).
 
-3.  The principle of Rule of Law ensures that all individuals, including those in military service, are subject to the ordinary law of the land, except for specific exemptions.
+3. A significant portion of India's recent rise in forex reserves has been attributed to an increase in gold holdings.
+
+4. The Reserve Bank of India (RBI) manages the country's foreign exchange reserves with objectives including maintaining confidence in the currency and limiting external vulnerability.
+
+Which of the statements given above are correct?
+(a) 1, 2 and 3 only
+(b) 2, 3 and 4 only
+(c) 1, 2, 3 and 4
+(d) 1, 3 and 4 only
+
+**Q3. Consider the following statements regarding India's crude oil imports and international sanctions:**
+
+1. Despite the existence of a US sanctions waiver, Indian refiners have shown hesitancy in importing Iranian crude oil.
+
+2. The primary reason for refiners' hesitation, even with a waiver, is often the challenge of securing insurance and banking channels for transactions.
+
+3. India's efforts to diversify its crude oil import sources are primarily driven by a need to reduce its overall crude oil consumption.
+
+4. The 'strategic autonomy' principle in India's foreign policy is best demonstrated by its complete independence from global oil market fluctuations.
 
 Which of the statements given above is/are correct?
-
 (a) 1 and 2 only
+(b) 1, 2 and 3 only
+(c) 3 and 4 only
+(d) 1, 2, 3 and 4
 
-(b) 1 and 3 only
+**Q4. With reference to consumer protection and homebuyers' rights in India, consider the following statements:**
 
-(c) 2 and 3 only
+1. The Supreme Court's recent ruling provides relief for homebuyers specifically addressing delays in project completion after possession has been granted.
 
-(d) 1, 2 and 3
+2. The Real Estate (Regulation and Development) Act (RERA) primarily aims to protect homebuyers' interests and ensure transparency and accountability in the real estate sector.
 
-**Q7. Consider the following statements regarding India's efforts in the semiconductor sector:**
+3. Under RERA, real estate projects are mandated to register with the respective state's RERA authority if the area of land proposed to be developed exceeds 500 square meters or the number of apartments exceeds eight.
 
-1.  The semiconductor industry is characterized by high capital expenditure and advanced technological complexity, making it crucial for a nation's strategic autonomy in electronics.
+4. Consumer protection laws in India allow homebuyers to seek remedies against developers for unfair trade practices or deficiency in services.
 
-2.  Recent policy initiatives and MoUs for semiconductor research primarily focus on establishing India as a global hub for chip assembly and testing rather than design and fabrication capabilities.
+Which of the statements given above are correct?
+(a) 1, 2 and 4 only
+(b) 2 and 4 only
+(c) 1, 3 and 4 only
+(d) 1, 2, 3 and 4
 
-3.  India's Semiconductor Mission is implemented under the administrative purview of the Ministry of Science & Technology to drive indigenous growth in the sector.
+**Q5. Consider the growth of Artificial Intelligence (AI) services in India and its implications for the economy:**
 
-Which of the statements given above is/are correct?
+1. India's AI services sector recently generated over $12 billion in revenue, as per a report by Nasscom.
 
-(a) 1 only
+2. The rapid adoption of AI technologies is expected to primarily boost the manufacturing sector, with limited impact on the services sector.
 
-(b) 1 and 2 only
+3. The growth of AI services in India is predominantly driven by domestic demand, with minimal contribution from exports.
 
-(c) 2 and 3 only
-
-(d) 1, 2 and 3
-
-**Q8. With reference to earthquake warning systems in India, consider the following statements:**
-
-1.  The Himalayan region is highly susceptible to seismic activity due to its location at the collision zone of major tectonic plates.
-
-2.  The National Centre for Seismology (NCS), under the Ministry of Earth Sciences, is the nodal agency for monitoring seismic activity and maintaining earthquake databases in India.
-
-3.  Early warning systems for earthquakes typically provide several hours of lead time, allowing for comprehensive evacuation and disaster preparedness measures.
+4. Ethical considerations and data privacy are increasingly becoming critical challenges in the widespread deployment of AI systems.
 
 Which of the statements given above is/are correct?
+(a) 1 and 4 only
+(b) 1, 2 and 3 only
+(c) 2, 3 and 4 only
+(d) 1, 2, 3 and 4
 
-(a) 1 only
+**Q6. With reference to India's indigenous bullet train manufacturing initiative, consider the following statements:**
 
-(b) 1 and 2 only
+1. The initiative emphasizes local manufacturing and technological advancement, aligning with the Atmanirbhar Bharat vision.
 
+2. The development of high-speed rail technology domestically is expected to significantly reduce India's dependence on foreign expertise for critical rail infrastructure projects.
+
+3. While the initiative focuses on manufacturing, the operational aspects and maintenance of the bullet train network will continue to rely solely on imported solutions.
+
+4. The 'Atmanirbhar Bharat' mission aims to make India a self-reliant nation by promoting domestic production across various strategic sectors.
+
+Which of the statements given above are correct?
+(a) 1, 2 and 3 only
+(b) 1, 2 and 4 only
+(c) 2, 3 and 4 only
+(d) 1, 2, 3 and 4
+
+**Q7. Regarding the government's plan to simplify import rules for medicines in India, consider the following statements:**
+
+1. The primary objective of simplifying import rules is to reduce medicine wastage by streamlining logistical and administrative procedures.
+
+2. The Central Drugs Standard Control Organization (CDSCO) is the main regulatory body responsible for the approval of new drugs and clinical trials in India.
+
+3. Simplifying import rules for medicines is expected to lead to a significant increase in the prices of imported drugs due to relaxed quality controls.
+
+4. Such reforms are often aimed at improving the 'ease of doing business' index for the pharmaceutical sector.
+
+Which of the statements given above are correct?
+(a) 1, 2 and 4 only
+(b) 1, 3 and 4 only
+(c) 2 and 4 only
+(d) 1, 2, 3 and 4
+
+**Q8. With reference to India's humanitarian assistance and disaster relief (HADR) efforts, consider the following statements:**
+
+1. 'Operation Amistad' was recently launched by India to provide aid to earthquake-hit Venezuela, including relief material and a medical assistance team.
+
+2. India's HADR operations align with its 'SAGAR' (Security and Growth for All in the Region) vision, extending its humanitarian reach beyond its immediate maritime neighbourhood.
+
+3. Such operations primarily aim at promoting India's defence exports and establishing military bases in recipient countries.
+
+4. Providing humanitarian assistance in response to natural disasters is considered a key component of India's soft power diplomacy.
+
+Which of the statements given above are correct?
+(a) 1, 2 and 3 only
+(b) 1, 2 and 4 only
+(c) 3 and 4 only
+(d) 1, 2, 3 and 4
+
+**Q9. With reference to the Free Trade Agreement (FTA) discussions between India and the United Kingdom, consider the following statements:**
+
+1. The ongoing discussions between India and the UK aim to achieve transformational growth in bilateral trade relations.
+
+2. Free Trade Agreements generally aim to reduce tariffs and non-tariff barriers, thereby facilitating increased trade in goods and services between signatory countries.
+
+3. A primary objective for India in such FTAs is to gain preferential market access for its labour-intensive sectors and services.
+
+4. The India-UK FTA is expected to lead to a complete removal of all trade barriers, including sensitive sectors like agriculture and intellectual property rights.
+
+Which of the statements given above are correct?
+(a) 1, 2 and 3 only
+(b) 1, 3 and 4 only
+(c) 2 and 4 only
+(d) 1, 2, 3 and 4
+
+**Q10. Consider the factors influencing India's economic growth and associated forecasts:**
+
+1. India's economy is forecasted to grow up to 6.8% for FY27, with resilient domestic demand being a key contributing factor.
+
+2. 'Domestic demand' in the context of economic growth typically encompasses consumption expenditure, government expenditure, and private investment within the country.
+
+3. An increase in private final consumption expenditure (PFCE) is generally considered a significant driver of robust domestic demand.
+
+4. Such economic forecasts, often provided by entities like EY, are binding on government policy decisions and central bank actions.
+
+Which of the statements given above are correct?
+(a) 1, 2 and 3 only
+(b) 1, 3 and 4 only
+(c) 2 and 4 only
+(d) 1, 2, 3 and 4
+
+**Q11. With regard to drug regulation and public health in India, consider the following statements:**
+
+1. The recent revocation of a pharma firm's license linked to deaths necessitates a report being sought by the World Health Organization (WHO).
+
+2. In India, the State Drug Control Organizations are primarily responsible for issuing manufacturing licenses for drugs and ensuring quality control within their respective states.
+
+3. The Drugs and Cosmetics Act, 1940, and the Drugs and Cosmetics Rules, 1945, are the principal legislations governing the manufacture, sale, and distribution of drugs in India.
+
+4. The WHO's role in global public health primarily involves issuing binding legal directives to member states regarding drug quality and safety standards.
+
+Which of the statements given above are correct?
+(a) 1, 2 and 3 only
+(b) 1, 3 and 4 only
+(c) 2, 3 and 4 only
+(d) 1, 2, 3 and 4
+
+**Q12. Consider the assessment of Corporate India's resilience amidst global geopolitical events:**
+
+1. A recent Crisil assessment noted Corporate India's resilience in the face of the Middle East crisis.
+
+2. Corporate resilience to external shocks is often measured by factors such as strong balance sheets, diversified supply chains, and robust domestic demand.
+
+3. Crisil is an international credit rating agency, primarily focusing on sovereign debt ratings for developing economies.
+
+4. Geopolitical conflicts, such as the Middle East crisis, typically impact global supply chains and energy prices, potentially leading to inflationary pressures.
+
+Which of the statements given above are correct?
+(a) 1, 2 and 4 only
+(b) 1, 3 and 4 only
 (c) 2 and 3 only
-
-(d) 1, 2 and 3
-
-**Q9. Regarding DRDO's Netra AEW&C system, consider the following statements:**
-
-1.  Airborne Early Warning and Control (AEW&C) systems are integral for enhancing a nation's aerial surveillance and battle management capabilities.
-
-2.  Netra AEW&C is an indigenously developed system by DRDO, designed to provide comprehensive situational awareness over an area of interest.
-
-3.  Operational clearance by the Indian Air Force (IAF) signifies the platform's readiness for deployment in various combat and strategic scenarios.
-
-Which of the statements given above is/are correct?
-
-(a) 1 only
-
-(b) 1 and 2 only
-
-(c) 2 and 3 only
-
-(d) 1, 2 and 3
-
-**Q10. With reference to India's engagement in international technology and energy diplomacy, consider the following statements:**
-
-1.  The assurance of US AI access to India reflects a growing alignment in technology cooperation, often discussed within broader strategic frameworks like the Quad.
-
-2.  India's continued engagement with Iran on energy matters, despite external pressures, underscores its pursuit of strategic autonomy in its foreign policy.
-
-3.  US waivers on sanctions for countries dealing with Iran are exclusively granted for trade in essential humanitarian goods and medical supplies.
-
-Which of the statements given above is/are correct?
-
-(a) 1 only
-
-(b) 2 only
-
-(c) 1 and 2 only
-
-(d) 1, 2 and 3
-
-**Q11. With regard to the Border Roads Organisation (BRO), consider the following statements:**
-
-1.  The BRO is primarily responsible for the development and maintenance of road networks in India's border areas and other strategically important regions.
-
-2.  The BRO operates exclusively under the Ministry of Defence and primarily deploys personnel from the Indian Army's Corps of Engineers for its projects.
-
-3.  Enhanced road connectivity in sensitive regions like Jammu & Kashmir is vital for both civilian welfare and the operational effectiveness of security forces.
-
-Which of the statements given above is/are correct?
-
-(a) 1 and 2 only
-
-(b) 1 and 3 only
-
-(c) 2 and 3 only
-
-(d) 1, 2 and 3
-
-**Q12. In the context of cybercrime in India, consider the following statements regarding 'Digital Arrest' scams:**
-
-1.  'Digital arrest' scams typically involve fraudsters impersonating law enforcement agencies to coerce victims into making payments by threatening legal action or account freezing.
-
-2.  The Indian Cybercrime Coordination Centre (I4C) under the Ministry of Home Affairs is a national platform for coordinating efforts against various forms of cybercrime.
-
-3.  Under the Information Technology Act, 2000, unauthorized access to computer systems or data is exclusively categorized as a civil offense, not a criminal one.
-
-Which of the statements given above is/are correct?
-
-(a) 1 and 2 only
-
-(b) 1 and 3 only
-
-(c) 2 and 3 only
-
-(d) 1, 2 and 3
+(d) 1, 2, 3 and 4
