@@ -2,194 +2,218 @@
 MCQs
 ━━━━━━━━━━━━━━━
 
-**Q1. Consider the following statements regarding the National Food Security Act (NFSA) in India:**
+**Q1. Consider the following statements regarding the Strait of Hormuz:**
 
-1. The primary objective of the Act is to provide food and nutritional security by ensuring access to adequate quantities of quality food at affordable prices.
+1.  It is a critical maritime choke point connecting the Persian Gulf with the Arabian Sea.
 
-2. Recent amendments to the Act specify a uniform entitlement of 7 kg foodgrains per household, irrespective of the number of beneficiaries.
+2.  A significant portion of global crude oil and liquefied natural gas (LNG) transits through this strait.
 
-3. Under the provisions of the Act, pregnant women and lactating mothers are entitled to a maternity benefit of not less than Rs. 6,000.
-
-4. The identification of eligible households under NFSA is primarily the responsibility of the Central Government.
-
-Which of the statements given above are correct?
-(a) 1 and 3 only
-(b) 1, 2 and 4 only
-(c) 2 and 3 only
-(d) 1, 3 and 4 only
-
-**Q2. With reference to India's foreign exchange reserves, consider the following statements:**
-
-1. An increase in foreign exchange reserves generally indicates a strengthening domestic currency and helps cushion external shocks.
-
-2. India's foreign exchange reserves primarily consist of Foreign Currency Assets (FCAs), gold, Special Drawing Rights (SDRs), and the Reserve Tranche Position (RTP) with the International Monetary Fund (IMF).
-
-3. A significant portion of India's recent rise in forex reserves has been attributed to an increase in gold holdings.
-
-4. The Reserve Bank of India (RBI) manages the country's foreign exchange reserves with objectives including maintaining confidence in the currency and limiting external vulnerability.
-
-Which of the statements given above are correct?
-(a) 1, 2 and 3 only
-(b) 2, 3 and 4 only
-(c) 1, 2, 3 and 4
-(d) 1, 3 and 4 only
-
-**Q3. Consider the following statements regarding India's crude oil imports and international sanctions:**
-
-1. Despite the existence of a US sanctions waiver, Indian refiners have shown hesitancy in importing Iranian crude oil.
-
-2. The primary reason for refiners' hesitation, even with a waiver, is often the challenge of securing insurance and banking channels for transactions.
-
-3. India's efforts to diversify its crude oil import sources are primarily driven by a need to reduce its overall crude oil consumption.
-
-4. The 'strategic autonomy' principle in India's foreign policy is best demonstrated by its complete independence from global oil market fluctuations.
+3.  Under international maritime law, the Strait of Hormuz is classified as an inland waterway, requiring prior permission for passage from littoral states.
 
 Which of the statements given above is/are correct?
+
 (a) 1 and 2 only
-(b) 1, 2 and 3 only
-(c) 3 and 4 only
-(d) 1, 2, 3 and 4
 
-**Q4. With reference to consumer protection and homebuyers' rights in India, consider the following statements:**
+(b) 2 and 3 only
 
-1. The Supreme Court's recent ruling provides relief for homebuyers specifically addressing delays in project completion after possession has been granted.
+(c) 1 and 3 only
 
-2. The Real Estate (Regulation and Development) Act (RERA) primarily aims to protect homebuyers' interests and ensure transparency and accountability in the real estate sector.
+(d) 1, 2 and 3
 
-3. Under RERA, real estate projects are mandated to register with the respective state's RERA authority if the area of land proposed to be developed exceeds 500 square meters or the number of apartments exceeds eight.
+**Q2. With reference to the development of semiconductor manufacturing hubs in India, such as Jewar, consider the following statements:**
 
-4. Consumer protection laws in India allow homebuyers to seek remedies against developers for unfair trade practices or deficiency in services.
+1.  The establishment of such hubs aligns with national initiatives aimed at promoting self-reliance in strategic sectors.
 
-Which of the statements given above are correct?
-(a) 1, 2 and 4 only
-(b) 2 and 4 only
-(c) 1, 3 and 4 only
-(d) 1, 2, 3 and 4
+2.  Semiconductor fabrication units typically require substantial capital investment and significant quantities of ultra-pure water.
 
-**Q5. Consider the growth of Artificial Intelligence (AI) services in India and its implications for the economy:**
-
-1. India's AI services sector recently generated over $12 billion in revenue, as per a report by Nasscom.
-
-2. The rapid adoption of AI technologies is expected to primarily boost the manufacturing sector, with limited impact on the services sector.
-
-3. The growth of AI services in India is predominantly driven by domestic demand, with minimal contribution from exports.
-
-4. Ethical considerations and data privacy are increasingly becoming critical challenges in the widespread deployment of AI systems.
+3.  The designation of a region as a "Silicon Valley" reflects its concentration of high-tech industries, primarily in software development rather than hardware manufacturing.
 
 Which of the statements given above is/are correct?
-(a) 1 and 4 only
-(b) 1, 2 and 3 only
-(c) 2, 3 and 4 only
-(d) 1, 2, 3 and 4
 
-**Q6. With reference to India's indigenous bullet train manufacturing initiative, consider the following statements:**
+(a) 1 only
 
-1. The initiative emphasizes local manufacturing and technological advancement, aligning with the Atmanirbhar Bharat vision.
+(b) 1 and 2 only
 
-2. The development of high-speed rail technology domestically is expected to significantly reduce India's dependence on foreign expertise for critical rail infrastructure projects.
-
-3. While the initiative focuses on manufacturing, the operational aspects and maintenance of the bullet train network will continue to rely solely on imported solutions.
-
-4. The 'Atmanirbhar Bharat' mission aims to make India a self-reliant nation by promoting domestic production across various strategic sectors.
-
-Which of the statements given above are correct?
-(a) 1, 2 and 3 only
-(b) 1, 2 and 4 only
-(c) 2, 3 and 4 only
-(d) 1, 2, 3 and 4
-
-**Q7. Regarding the government's plan to simplify import rules for medicines in India, consider the following statements:**
-
-1. The primary objective of simplifying import rules is to reduce medicine wastage by streamlining logistical and administrative procedures.
-
-2. The Central Drugs Standard Control Organization (CDSCO) is the main regulatory body responsible for the approval of new drugs and clinical trials in India.
-
-3. Simplifying import rules for medicines is expected to lead to a significant increase in the prices of imported drugs due to relaxed quality controls.
-
-4. Such reforms are often aimed at improving the 'ease of doing business' index for the pharmaceutical sector.
-
-Which of the statements given above are correct?
-(a) 1, 2 and 4 only
-(b) 1, 3 and 4 only
-(c) 2 and 4 only
-(d) 1, 2, 3 and 4
-
-**Q8. With reference to India's humanitarian assistance and disaster relief (HADR) efforts, consider the following statements:**
-
-1. 'Operation Amistad' was recently launched by India to provide aid to earthquake-hit Venezuela, including relief material and a medical assistance team.
-
-2. India's HADR operations align with its 'SAGAR' (Security and Growth for All in the Region) vision, extending its humanitarian reach beyond its immediate maritime neighbourhood.
-
-3. Such operations primarily aim at promoting India's defence exports and establishing military bases in recipient countries.
-
-4. Providing humanitarian assistance in response to natural disasters is considered a key component of India's soft power diplomacy.
-
-Which of the statements given above are correct?
-(a) 1, 2 and 3 only
-(b) 1, 2 and 4 only
-(c) 3 and 4 only
-(d) 1, 2, 3 and 4
-
-**Q9. With reference to the Free Trade Agreement (FTA) discussions between India and the United Kingdom, consider the following statements:**
-
-1. The ongoing discussions between India and the UK aim to achieve transformational growth in bilateral trade relations.
-
-2. Free Trade Agreements generally aim to reduce tariffs and non-tariff barriers, thereby facilitating increased trade in goods and services between signatory countries.
-
-3. A primary objective for India in such FTAs is to gain preferential market access for its labour-intensive sectors and services.
-
-4. The India-UK FTA is expected to lead to a complete removal of all trade barriers, including sensitive sectors like agriculture and intellectual property rights.
-
-Which of the statements given above are correct?
-(a) 1, 2 and 3 only
-(b) 1, 3 and 4 only
-(c) 2 and 4 only
-(d) 1, 2, 3 and 4
-
-**Q10. Consider the factors influencing India's economic growth and associated forecasts:**
-
-1. India's economy is forecasted to grow up to 6.8% for FY27, with resilient domestic demand being a key contributing factor.
-
-2. 'Domestic demand' in the context of economic growth typically encompasses consumption expenditure, government expenditure, and private investment within the country.
-
-3. An increase in private final consumption expenditure (PFCE) is generally considered a significant driver of robust domestic demand.
-
-4. Such economic forecasts, often provided by entities like EY, are binding on government policy decisions and central bank actions.
-
-Which of the statements given above are correct?
-(a) 1, 2 and 3 only
-(b) 1, 3 and 4 only
-(c) 2 and 4 only
-(d) 1, 2, 3 and 4
-
-**Q11. With regard to drug regulation and public health in India, consider the following statements:**
-
-1. The recent revocation of a pharma firm's license linked to deaths necessitates a report being sought by the World Health Organization (WHO).
-
-2. In India, the State Drug Control Organizations are primarily responsible for issuing manufacturing licenses for drugs and ensuring quality control within their respective states.
-
-3. The Drugs and Cosmetics Act, 1940, and the Drugs and Cosmetics Rules, 1945, are the principal legislations governing the manufacture, sale, and distribution of drugs in India.
-
-4. The WHO's role in global public health primarily involves issuing binding legal directives to member states regarding drug quality and safety standards.
-
-Which of the statements given above are correct?
-(a) 1, 2 and 3 only
-(b) 1, 3 and 4 only
-(c) 2, 3 and 4 only
-(d) 1, 2, 3 and 4
-
-**Q12. Consider the assessment of Corporate India's resilience amidst global geopolitical events:**
-
-1. A recent Crisil assessment noted Corporate India's resilience in the face of the Middle East crisis.
-
-2. Corporate resilience to external shocks is often measured by factors such as strong balance sheets, diversified supply chains, and robust domestic demand.
-
-3. Crisil is an international credit rating agency, primarily focusing on sovereign debt ratings for developing economies.
-
-4. Geopolitical conflicts, such as the Middle East crisis, typically impact global supply chains and energy prices, potentially leading to inflationary pressures.
-
-Which of the statements given above are correct?
-(a) 1, 2 and 4 only
-(b) 1, 3 and 4 only
 (c) 2 and 3 only
-(d) 1, 2, 3 and 4
+
+(d) 1, 2 and 3
+
+**Q3. Consider the following statements regarding India's economic growth outlook and global crude oil prices:**
+
+1.  A sustained decline in global crude oil prices generally helps in reducing India's import bill and can mitigate inflationary pressures.
+
+2.  Lower crude oil prices typically lead to an increase in India's Current Account Deficit (CAD) due to reduced domestic oil production incentives.
+
+3.  Global financial institutions often consider geopolitical stability and domestic policy reforms as key factors in their economic growth forecasts for India.
+
+Which of the statements given above is/are correct?
+
+(a) 1 only
+
+(b) 1 and 3 only
+
+(c) 2 and 3 only
+
+(d) 1, 2 and 3
+
+**Q4. With reference to Micro, Small, and Medium Enterprises (MSMEs) in India, consider the following statements:**
+
+1.  Limited access to formal credit often forces MSMEs to rely on informal financial channels, potentially leading to higher borrowing costs.
+
+2.  Government initiatives like the Pradhan Mantri Mudra Yojana aim to improve formal credit penetration among micro and small enterprises.
+
+3.  Reports on MSME loan access are exclusively published by government agencies to maintain data integrity and consistency.
+
+Which of the statements given above is/are correct?
+
+(a) 1 only
+
+(b) 1 and 2 only
+
+(c) 2 and 3 only
+
+(d) 1, 2 and 3
+
+**Q5. Regarding economic indicators in India, consider the transition from the Wholesale Price Index (WPI) to the Producer Price Index (PPI):**
+
+1.  The Wholesale Price Index (WPI) measures the average change in prices of goods at the wholesale level before distribution to retailers.
+
+2.  The Producer Price Index (PPI) is designed to capture price changes from the consumer's perspective, including indirect taxes and trade margins.
+
+3.  A shift to PPI as a primary inflation indicator can provide a more accurate assessment of cost pressures faced by producers in the economy.
+
+Which of the statements given above is/are correct?
+
+(a) 1 only
+
+(b) 1 and 3 only
+
+(c) 2 and 3 only
+
+(d) 1, 2 and 3
+
+**Q6. With reference to the Goods and Services Tax (GST) in India, consider the following statements:**
+
+1.  The Central Board of Indirect Taxes and Customs (CBIC) is responsible for administering the GST regime, along with customs and central excise duties.
+
+2.  Clarity on GST jurisdiction primarily impacts inter-state supply of goods and services, with minimal implications for intra-state transactions.
+
+3.  The GST framework aims to eliminate the cascading effect of taxes and simplify India's indirect tax structure.
+
+Which of the statements given above is/are correct?
+
+(a) 1 only
+
+(b) 1 and 3 only
+
+(c) 2 and 3 only
+
+(d) 1, 2 and 3
+
+**Q7. Regarding the scope of judicial review concerning public examination answer keys, consider the following statements:**
+
+1.  Judicial review in India allows courts to scrutinize the legality and constitutional validity of executive actions.
+
+2.  The power of High Courts to review answer keys in public examinations is primarily derived from Article 32 of the Constitution.
+
+3.  Courts typically exercise caution and intervene in expert domains or academic matters only in instances of manifest arbitrariness or patent illegality.
+
+Which of the statements given above is/are correct?
+
+(a) 1 only
+
+(b) 1 and 3 only
+
+(c) 2 and 3 only
+
+(d) 1, 2 and 3
+
+**Q8. With respect to the Right to Information (RTI) Act, 2005, for Indian citizens abroad:**
+
+1.  The RTI Act grants citizens the right to access information under the control of public authorities.
+
+2.  Only citizens residing within the territorial boundaries of India are eligible to seek information under the RTI Act.
+
+3.  The government's clarification ensures that Indian passport holders abroad are treated as citizens for the purpose of accessing information under the RTI Act.
+
+Which of the statements given above is/are correct?
+
+(a) 1 only
+
+(b) 1 and 2 only
+
+(c) 1 and 3 only
+
+(d) 1, 2 and 3
+
+**Q9. Consider the following statements regarding India-Seychelles bilateral relations and India's strategic interests in the Indian Ocean Region:**
+
+1.  Seychelles, as a Small Island Developing State (SIDS), holds geostrategic importance for maritime security and trade routes in the Indian Ocean.
+
+2.  India's 'SAGAR' (Security and Growth for All in the Region) doctrine primarily focuses on establishing exclusive economic zones in the Pacific Ocean.
+
+3.  India actively engages in defense cooperation, capacity building, and infrastructure development with friendly nations in the Indian Ocean Region.
+
+Which of the statements given above is/are correct?
+
+(a) 1 and 2 only
+
+(b) 1 and 3 only
+
+(c) 2 and 3 only
+
+(d) 1, 2 and 3
+
+**Q10. With reference to international cooperation on Artificial Intelligence (AI) and the 'AI Opportunity' declaration:**
+
+1.  International declarations on AI often seek to promote responsible development, ethical considerations, and global collaboration in AI governance.
+
+2.  The 'AI Opportunity' declaration primarily emphasizes restricting the cross-border flow of AI technologies to ensure national digital sovereignty.
+
+3.  India's participation in such global initiatives demonstrates its commitment to shaping international norms and standards for emerging technologies.
+
+Which of the statements given above is/are correct?
+
+(a) 1 only
+
+(b) 1 and 3 only
+
+(c) 2 and 3 only
+
+(d) 1, 2 and 3
+
+**Q11. Consider the following statements regarding India's indigenous satellite navigation capabilities:**
+
+1.  GAGAN (GPS Aided Geo Augmented Navigation) is a Satellite-Based Augmentation System (SBAS) developed jointly by ISRO and the Airports Authority of India (AAI).
+
+2.  GAGAN provides augmented navigation services primarily for military aircraft operations across the Indian subcontinent.
+
+3.  The successful implementation of satellite-guided landing systems enhances aviation safety and operational efficiency, particularly in challenging weather conditions.
+
+Which of the statements given above is/are correct?
+
+(a) 1 only
+
+(b) 1 and 2 only
+
+(c) 1 and 3 only
+
+(d) 1, 2 and 3
+
+**Q12. With reference to India's Gaganyaan mission for human spaceflight:**
+
+1.  The Gaganyaan mission aims to demonstrate India's capability to launch a human crew into Low Earth Orbit (LEO) and safely return them to Earth.
+
+2.  The primary objective of the initial uncrewed Gaganyaan missions is to deploy Earth observation satellites into sun-synchronous orbit.
+
+3.  ISRO has been developing critical technologies such as crew module systems, environmental control and life support systems, and re-entry/recovery systems for this mission.
+
+Which of the statements given above is/are correct?
+
+(a) 1 only
+
+(b) 1 and 2 only
+
+(c) 1 and 3 only
+
+(d) 1, 2 and 3
