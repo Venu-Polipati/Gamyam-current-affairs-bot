@@ -2,218 +2,188 @@
 MCQs
 ━━━━━━━━━━━━━━━
 
-**Q1. Consider the following statements regarding the Strait of Hormuz:**
+**Q1. With reference to India's approach to development, consider the following statements:**
 
-1.  It is a critical maritime choke point connecting the Persian Gulf with the Arabian Sea.
+1.  The concept of 'holistic development' in India primarily emphasizes the complete adoption of modern technological advancements over traditional knowledge systems.
 
-2.  A significant portion of global crude oil and liquefied natural gas (LNG) transits through this strait.
+2.  Integrating traditional knowledge with contemporary technology primarily aims to preserve cultural heritage by strictly avoiding global scientific breakthroughs.
 
-3.  Under international maritime law, the Strait of Hormuz is classified as an inland waterway, requiring prior permission for passage from littoral states.
+3.  Such an integrated approach aligning technology adoption with traditional knowledge can promote sustainable development goals through context-specific solutions.
+
+4.  The primary goal of this integrated strategy is to achieve technological self-reliance by prioritizing indigenous systems over all forms of global scientific collaboration.
 
 Which of the statements given above is/are correct?
 
 (a) 1 and 2 only
+(b) 3 only
+(c) 1, 2 and 4 only
+(d) 2, 3 and 4 only
 
+**Q2. Regarding India's energy security policy, consider the following statements:**
+
+1.  India's framework for energy security primarily delegates the management of strategic crude oil reserves to private sector entities.
+
+2.  Energy self-reliance, as a strategic goal, aims for complete cessation of all energy imports in the long run.
+
+3.  State-run oil firms are considered crucial instruments in achieving the nation's energy security objectives.
+
+4.  The reliance on Public Sector Undertakings (PSUs) for energy security is a recent policy shift initiated solely to counter global oil price volatility.
+
+Which of the statements given above is/are correct?
+
+(a) 1 and 2 only
+(b) 3 only
+(c) 1, 3 and 4 only
+(d) 2, 3 and 4 only
+
+**Q3. Consider the following statements regarding government initiatives for child health:**
+
+1.  The government's plan for intensive home care for children is exclusively targeted at babies identified with congenital disabilities.
+
+2.  A primary objective of intensive home care initiatives for at-risk babies is to improve children's health and reduce infant mortality.
+
+3.  Such initiatives primarily represent a shift from institutional care to community-based health interventions for all pediatric conditions.
+
+Which of the statements given above is/are correct?
+
+(a) 1 and 2 only
+(b) 2 only
+(c) 1 and 3 only
+(d) 1, 2 and 3
+
+**Q4. With reference to anaemia prevention efforts in India, consider the following statements:**
+
+1.  The National Health Mission primarily focuses on communicable disease eradication, with maternal and child health being a secondary concern.
+
+2.  Expanding anaemia prevention efforts to include low birth weight babies directly addresses a key determinant of early childhood mortality and morbidity.
+
+3.  Anaemia prevention initiatives under health interventions are exclusively administered through government hospitals, without involving community health workers.
+
+Which of the statements given above is/are correct?
+
+(a) 1 and 2 only
+(b) 2 only
+(c) 1 and 3 only
+(d) 1, 2 and 3
+
+**Q5. Consider the following statements about India's debt market:**
+
+1.  A well-developed debt market is crucial for corporate long-term financing and infrastructure development.
+
+2.  A recent report suggests that India's debt market has already achieved its full growth potential, implying no further need for reforms.
+
+3.  Funding challenges in the debt market primarily stem from a surplus of institutional investors seeking only government securities.
+
+Which of the statements given above is/are correct?
+
+(a) 1 only
+(b) 1 and 2 only
+(c) 2 and 3 only
+(d) 1, 2 and 3
+
+**Q6. With reference to the Indian IT sector and global economic trends, consider the following statements:**
+
+1.  The impact of Generative AI (GenAI) on the IT sector is anticipated to be uniformly positive across all service lines, leading to immediate job creation.
+
+2.  Geopolitics can introduce volatility in outsourcing decisions and global technology spending, thereby affecting the Indian IT sector.
+
+3.  India's IT sector is entirely insulated from global economic slowdowns due to its strong domestic demand.
+
+Which of the statements given above is/are correct?
+
+(a) 1 and 2 only
+(b) 2 only
+(c) 1 and 3 only
+(d) 1, 2 and 3
+
+**Q7. Regarding the Special Economic Zone (SEZ) policy overhaul in India, consider the following statements:**
+
+1.  The primary objective of an SEZ policy overhaul is to restrict foreign direct investment in designated economic zones.
+
+2.  Consultation with stakeholders is a standard practice in policy formulation to ensure broad acceptance and effectiveness.
+
+3.  Special Economic Zones (SEZs) were initially conceived to promote export-oriented growth and attract foreign investment.
+
+Which of the statements given above is/are correct?
+
+(a) 1 and 2 only
 (b) 2 and 3 only
-
 (c) 1 and 3 only
-
 (d) 1, 2 and 3
 
-**Q2. With reference to the development of semiconductor manufacturing hubs in India, such as Jewar, consider the following statements:**
+**Q8. With reference to dispute resolution in infrastructure projects in India, consider the following statements:**
 
-1.  The establishment of such hubs aligns with national initiatives aimed at promoting self-reliance in strategic sectors.
+1.  Stricter monitoring of National Highways Authority of India (NHAI) arbitration aims to expedite dispute resolution, which is critical for timely completion of infrastructure projects.
 
-2.  Semiconductor fabrication units typically require substantial capital investment and significant quantities of ultra-pure water.
+2.  Arbitration is a judicial process involving courts to resolve disputes between parties.
 
-3.  The designation of a region as a "Silicon Valley" reflects its concentration of high-tech industries, primarily in software development rather than hardware manufacturing.
+3.  The National Highways Authority of India (NHAI) is responsible for the development, maintenance, and management of only State Highways.
 
 Which of the statements given above is/are correct?
 
 (a) 1 only
-
 (b) 1 and 2 only
-
 (c) 2 and 3 only
-
 (d) 1, 2 and 3
 
-**Q3. Consider the following statements regarding India's economic growth outlook and global crude oil prices:**
+**Q9. Consider the recent observation by the Supreme Court that "law is a shield for the innocent, not a sword for the vindictive":**
 
-1.  A sustained decline in global crude oil prices generally helps in reducing India's import bill and can mitigate inflationary pressures.
+1.  This observation emphasizes the principle that legal procedures should not be misused for personal vendetta.
 
-2.  Lower crude oil prices typically lead to an increase in India's Current Account Deficit (CAD) due to reduced domestic oil production incentives.
+2.  It implies that the law primarily serves as a punitive tool against all individuals, regardless of intent.
 
-3.  Global financial institutions often consider geopolitical stability and domestic policy reforms as key factors in their economic growth forecasts for India.
+3.  The concept of 'law as a shield' is applicable only in civil litigation, not in criminal proceedings.
 
 Which of the statements given above is/are correct?
 
 (a) 1 only
-
-(b) 1 and 3 only
-
-(c) 2 and 3 only
-
-(d) 1, 2 and 3
-
-**Q4. With reference to Micro, Small, and Medium Enterprises (MSMEs) in India, consider the following statements:**
-
-1.  Limited access to formal credit often forces MSMEs to rely on informal financial channels, potentially leading to higher borrowing costs.
-
-2.  Government initiatives like the Pradhan Mantri Mudra Yojana aim to improve formal credit penetration among micro and small enterprises.
-
-3.  Reports on MSME loan access are exclusively published by government agencies to maintain data integrity and consistency.
-
-Which of the statements given above is/are correct?
-
-(a) 1 only
-
 (b) 1 and 2 only
-
 (c) 2 and 3 only
-
 (d) 1, 2 and 3
 
-**Q5. Regarding economic indicators in India, consider the transition from the Wholesale Price Index (WPI) to the Producer Price Index (PPI):**
+**Q10. With respect to India-Seychelles bilateral relations, consider the following statements:**
 
-1.  The Wholesale Price Index (WPI) measures the average change in prices of goods at the wholesale level before distribution to retailers.
+1.  An extradition pact between two nations primarily facilitates the mutual exchange of goods and services.
 
-2.  The Producer Price Index (PPI) is designed to capture price changes from the consumer's perspective, including indirect taxes and trade margins.
+2.  The signing of multiple agreements between India and Seychelles signifies a broadening scope of bilateral cooperation.
 
-3.  A shift to PPI as a primary inflation indicator can provide a more accurate assessment of cost pressures faced by producers in the economy.
-
-Which of the statements given above is/are correct?
-
-(a) 1 only
-
-(b) 1 and 3 only
-
-(c) 2 and 3 only
-
-(d) 1, 2 and 3
-
-**Q6. With reference to the Goods and Services Tax (GST) in India, consider the following statements:**
-
-1.  The Central Board of Indirect Taxes and Customs (CBIC) is responsible for administering the GST regime, along with customs and central excise duties.
-
-2.  Clarity on GST jurisdiction primarily impacts inter-state supply of goods and services, with minimal implications for intra-state transactions.
-
-3.  The GST framework aims to eliminate the cascading effect of taxes and simplify India's indirect tax structure.
-
-Which of the statements given above is/are correct?
-
-(a) 1 only
-
-(b) 1 and 3 only
-
-(c) 2 and 3 only
-
-(d) 1, 2 and 3
-
-**Q7. Regarding the scope of judicial review concerning public examination answer keys, consider the following statements:**
-
-1.  Judicial review in India allows courts to scrutinize the legality and constitutional validity of executive actions.
-
-2.  The power of High Courts to review answer keys in public examinations is primarily derived from Article 32 of the Constitution.
-
-3.  Courts typically exercise caution and intervene in expert domains or academic matters only in instances of manifest arbitrariness or patent illegality.
-
-Which of the statements given above is/are correct?
-
-(a) 1 only
-
-(b) 1 and 3 only
-
-(c) 2 and 3 only
-
-(d) 1, 2 and 3
-
-**Q8. With respect to the Right to Information (RTI) Act, 2005, for Indian citizens abroad:**
-
-1.  The RTI Act grants citizens the right to access information under the control of public authorities.
-
-2.  Only citizens residing within the territorial boundaries of India are eligible to seek information under the RTI Act.
-
-3.  The government's clarification ensures that Indian passport holders abroad are treated as citizens for the purpose of accessing information under the RTI Act.
-
-Which of the statements given above is/are correct?
-
-(a) 1 only
-
-(b) 1 and 2 only
-
-(c) 1 and 3 only
-
-(d) 1, 2 and 3
-
-**Q9. Consider the following statements regarding India-Seychelles bilateral relations and India's strategic interests in the Indian Ocean Region:**
-
-1.  Seychelles, as a Small Island Developing State (SIDS), holds geostrategic importance for maritime security and trade routes in the Indian Ocean.
-
-2.  India's 'SAGAR' (Security and Growth for All in the Region) doctrine primarily focuses on establishing exclusive economic zones in the Pacific Ocean.
-
-3.  India actively engages in defense cooperation, capacity building, and infrastructure development with friendly nations in the Indian Ocean Region.
+3.  Seychelles' strategic location in the Indo-Pacific region makes its cooperation important for India's maritime security interests.
 
 Which of the statements given above is/are correct?
 
 (a) 1 and 2 only
-
-(b) 1 and 3 only
-
-(c) 2 and 3 only
-
-(d) 1, 2 and 3
-
-**Q10. With reference to international cooperation on Artificial Intelligence (AI) and the 'AI Opportunity' declaration:**
-
-1.  International declarations on AI often seek to promote responsible development, ethical considerations, and global collaboration in AI governance.
-
-2.  The 'AI Opportunity' declaration primarily emphasizes restricting the cross-border flow of AI technologies to ensure national digital sovereignty.
-
-3.  India's participation in such global initiatives demonstrates its commitment to shaping international norms and standards for emerging technologies.
-
-Which of the statements given above is/are correct?
-
-(a) 1 only
-
-(b) 1 and 3 only
-
-(c) 2 and 3 only
-
-(d) 1, 2 and 3
-
-**Q11. Consider the following statements regarding India's indigenous satellite navigation capabilities:**
-
-1.  GAGAN (GPS Aided Geo Augmented Navigation) is a Satellite-Based Augmentation System (SBAS) developed jointly by ISRO and the Airports Authority of India (AAI).
-
-2.  GAGAN provides augmented navigation services primarily for military aircraft operations across the Indian subcontinent.
-
-3.  The successful implementation of satellite-guided landing systems enhances aviation safety and operational efficiency, particularly in challenging weather conditions.
-
-Which of the statements given above is/are correct?
-
-(a) 1 only
-
-(b) 1 and 2 only
-
+(b) 2 and 3 only
 (c) 1 and 3 only
-
 (d) 1, 2 and 3
 
-**Q12. With reference to India's Gaganyaan mission for human spaceflight:**
+**Q11. Regarding high-level business delegations from India to other countries, consider the following statements:**
 
-1.  The Gaganyaan mission aims to demonstrate India's capability to launch a human crew into Low Earth Orbit (LEO) and safely return them to Earth.
+1.  The visit of a business delegation led by a minister typically aims to explore opportunities for strengthening trade partnerships.
 
-2.  The primary objective of the initial uncrewed Gaganyaan missions is to deploy Earth observation satellites into sun-synchronous orbit.
+2.  Startup collaboration between countries primarily focuses on establishing a common currency for bilateral transactions.
 
-3.  ISRO has been developing critical technologies such as crew module systems, environmental control and life support systems, and re-entry/recovery systems for this mission.
+3.  If a destination country is a member of a major economic bloc, it can enhance its potential as a gateway for Indian businesses to the wider regional market.
 
 Which of the statements given above is/are correct?
 
-(a) 1 only
-
-(b) 1 and 2 only
-
-(c) 1 and 3 only
-
+(a) 1 and 2 only
+(b) 1 and 3 only
+(c) 2 and 3 only
 (d) 1, 2 and 3
+
+**Q12. With reference to the QS Report on human capital, consider the following statements:**
+
+1.  The QS Report assesses nations based on various human capital parameters, including economic capacity and workforce readiness.
+
+2.  India's high ranking in economic capacity suggests a robust domestic market and potential for sustained growth.
+
+3.  A lower ranking in workforce readiness typically implies challenges in aligning educational outcomes with industry demands.
+
+4.  The QS Report exclusively focuses on developed economies, thus excluding emerging markets like India from its evaluation.
+
+Which of the statements given above is/are correct?
+
+(a) 1 and 4 only
+(b) 2, 3 and 4 only
+(c) 1, 2 and 3 only
+(d) 1, 2, 3 and 4
