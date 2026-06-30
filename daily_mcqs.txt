@@ -2,188 +2,200 @@
 MCQs
 ━━━━━━━━━━━━━━━
 
-**Q1. With reference to India's approach to development, consider the following statements:**
+**Q1. Consider the following statements regarding the 'Green Steel' scheme:**
 
-1.  The concept of 'holistic development' in India primarily emphasizes the complete adoption of modern technological advancements over traditional knowledge systems.
+1. The Green Steel scheme aims to promote the adoption of green technologies within the steel industry.
 
-2.  Integrating traditional knowledge with contemporary technology primarily aims to preserve cultural heritage by strictly avoiding global scientific breakthroughs.
+2. The initial outlay for the Green Steel scheme has been set at ₹30,000 crore to facilitate rapid technology transition.
 
-3.  Such an integrated approach aligning technology adoption with traditional knowledge can promote sustainable development goals through context-specific solutions.
-
-4.  The primary goal of this integrated strategy is to achieve technological self-reliance by prioritizing indigenous systems over all forms of global scientific collaboration.
-
-Which of the statements given above is/are correct?
-
-(a) 1 and 2 only
-(b) 3 only
-(c) 1, 2 and 4 only
-(d) 2, 3 and 4 only
-
-**Q2. Regarding India's energy security policy, consider the following statements:**
-
-1.  India's framework for energy security primarily delegates the management of strategic crude oil reserves to private sector entities.
-
-2.  Energy self-reliance, as a strategic goal, aims for complete cessation of all energy imports in the long run.
-
-3.  State-run oil firms are considered crucial instruments in achieving the nation's energy security objectives.
-
-4.  The reliance on Public Sector Undertakings (PSUs) for energy security is a recent policy shift initiated solely to counter global oil price volatility.
-
-Which of the statements given above is/are correct?
-
-(a) 1 and 2 only
-(b) 3 only
-(c) 1, 3 and 4 only
-(d) 2, 3 and 4 only
-
-**Q3. Consider the following statements regarding government initiatives for child health:**
-
-1.  The government's plan for intensive home care for children is exclusively targeted at babies identified with congenital disabilities.
-
-2.  A primary objective of intensive home care initiatives for at-risk babies is to improve children's health and reduce infant mortality.
-
-3.  Such initiatives primarily represent a shift from institutional care to community-based health interventions for all pediatric conditions.
-
-Which of the statements given above is/are correct?
-
-(a) 1 and 2 only
-(b) 2 only
-(c) 1 and 3 only
-(d) 1, 2 and 3
-
-**Q4. With reference to anaemia prevention efforts in India, consider the following statements:**
-
-1.  The National Health Mission primarily focuses on communicable disease eradication, with maternal and child health being a secondary concern.
-
-2.  Expanding anaemia prevention efforts to include low birth weight babies directly addresses a key determinant of early childhood mortality and morbidity.
-
-3.  Anaemia prevention initiatives under health interventions are exclusively administered through government hospitals, without involving community health workers.
-
-Which of the statements given above is/are correct?
-
-(a) 1 and 2 only
-(b) 2 only
-(c) 1 and 3 only
-(d) 1, 2 and 3
-
-**Q5. Consider the following statements about India's debt market:**
-
-1.  A well-developed debt market is crucial for corporate long-term financing and infrastructure development.
-
-2.  A recent report suggests that India's debt market has already achieved its full growth potential, implying no further need for reforms.
-
-3.  Funding challenges in the debt market primarily stem from a surplus of institutional investors seeking only government securities.
+3. The scheme primarily focuses on encouraging steel exports by providing subsidies for sustainable production.
 
 Which of the statements given above is/are correct?
 
 (a) 1 only
+
 (b) 1 and 2 only
+
 (c) 2 and 3 only
+
 (d) 1, 2 and 3
 
-**Q6. With reference to the Indian IT sector and global economic trends, consider the following statements:**
+**Q2. Consider the following statements regarding India's engagement in international counter-terrorism efforts:**
 
-1.  The impact of Generative AI (GenAI) on the IT sector is anticipated to be uniformly positive across all service lines, leading to immediate job creation.
+1. The Financial Action Task Force (FATF) is an intergovernmental organization that sets international standards to prevent money laundering and terrorist financing.
 
-2.  Geopolitics can introduce volatility in outsourcing decisions and global technology spending, thereby affecting the Indian IT sector.
+2. India's initiative to push the FATF regarding Pakistan is primarily aimed at resolving bilateral trade disputes.
 
-3.  India's IT sector is entirely insulated from global economic slowdowns due to its strong domestic demand.
+3. The FATF maintains a 'Grey List' and 'Black List' to categorize countries with strategic deficiencies in their anti-money laundering and counter-terrorist financing regimes.
 
 Which of the statements given above is/are correct?
 
 (a) 1 and 2 only
-(b) 2 only
-(c) 1 and 3 only
-(d) 1, 2 and 3
 
-**Q7. Regarding the Special Economic Zone (SEZ) policy overhaul in India, consider the following statements:**
-
-1.  The primary objective of an SEZ policy overhaul is to restrict foreign direct investment in designated economic zones.
-
-2.  Consultation with stakeholders is a standard practice in policy formulation to ensure broad acceptance and effectiveness.
-
-3.  Special Economic Zones (SEZs) were initially conceived to promote export-oriented growth and attract foreign investment.
-
-Which of the statements given above is/are correct?
-
-(a) 1 and 2 only
-(b) 2 and 3 only
-(c) 1 and 3 only
-(d) 1, 2 and 3
-
-**Q8. With reference to dispute resolution in infrastructure projects in India, consider the following statements:**
-
-1.  Stricter monitoring of National Highways Authority of India (NHAI) arbitration aims to expedite dispute resolution, which is critical for timely completion of infrastructure projects.
-
-2.  Arbitration is a judicial process involving courts to resolve disputes between parties.
-
-3.  The National Highways Authority of India (NHAI) is responsible for the development, maintenance, and management of only State Highways.
-
-Which of the statements given above is/are correct?
-
-(a) 1 only
-(b) 1 and 2 only
-(c) 2 and 3 only
-(d) 1, 2 and 3
-
-**Q9. Consider the recent observation by the Supreme Court that "law is a shield for the innocent, not a sword for the vindictive":**
-
-1.  This observation emphasizes the principle that legal procedures should not be misused for personal vendetta.
-
-2.  It implies that the law primarily serves as a punitive tool against all individuals, regardless of intent.
-
-3.  The concept of 'law as a shield' is applicable only in civil litigation, not in criminal proceedings.
-
-Which of the statements given above is/are correct?
-
-(a) 1 only
-(b) 1 and 2 only
-(c) 2 and 3 only
-(d) 1, 2 and 3
-
-**Q10. With respect to India-Seychelles bilateral relations, consider the following statements:**
-
-1.  An extradition pact between two nations primarily facilitates the mutual exchange of goods and services.
-
-2.  The signing of multiple agreements between India and Seychelles signifies a broadening scope of bilateral cooperation.
-
-3.  Seychelles' strategic location in the Indo-Pacific region makes its cooperation important for India's maritime security interests.
-
-Which of the statements given above is/are correct?
-
-(a) 1 and 2 only
-(b) 2 and 3 only
-(c) 1 and 3 only
-(d) 1, 2 and 3
-
-**Q11. Regarding high-level business delegations from India to other countries, consider the following statements:**
-
-1.  The visit of a business delegation led by a minister typically aims to explore opportunities for strengthening trade partnerships.
-
-2.  Startup collaboration between countries primarily focuses on establishing a common currency for bilateral transactions.
-
-3.  If a destination country is a member of a major economic bloc, it can enhance its potential as a gateway for Indian businesses to the wider regional market.
-
-Which of the statements given above is/are correct?
-
-(a) 1 and 2 only
 (b) 1 and 3 only
+
 (c) 2 and 3 only
+
 (d) 1, 2 and 3
 
-**Q12. With reference to the QS Report on human capital, consider the following statements:**
+**Q3. With reference to diplomatic engagements between India and Pakistan, consider the following statements:**
 
-1.  The QS Report assesses nations based on various human capital parameters, including economic capacity and workforce readiness.
+1. Track II talks, by their nature, involve official government representatives engaging in formal negotiations to resolve disputes.
 
-2.  India's high ranking in economic capacity suggests a robust domestic market and potential for sustained growth.
+2. An official statement from India's Ministry of External Affairs confirmed the recent engagement in Track II talks between India and Pakistan.
 
-3.  A lower ranking in workforce readiness typically implies challenges in aligning educational outcomes with industry demands.
-
-4.  The QS Report exclusively focuses on developed economies, thus excluding emerging markets like India from its evaluation.
+3. Such unofficial diplomatic channels are often utilized to explore potential solutions and build understanding without the rigidity of formal diplomatic processes.
 
 Which of the statements given above is/are correct?
 
-(a) 1 and 4 only
-(b) 2, 3 and 4 only
-(c) 1, 2 and 3 only
+(a) 1 and 2 only
+
+(b) 2 and 3 only
+
+(c) 1 and 3 only
+
+(d) 1, 2 and 3
+
+**Q4. With reference to India's economic indicators and government decisions, consider the following statements:**
+
+1. The Index of Industrial Production (IIP) measures the growth rates of various industrial sectors over a given period.
+
+2. Manufacturing and electricity sectors were the primary contributors to India's industrial growth reported in May.
+
+3. The government recently decided to impose new curbs on petrol and diesel retail for commercial users to manage fuel consumption.
+
+4. The National Investment Fund, which recently received a significant boost, is primarily utilized for financing private sector infrastructure projects.
+
+Which of the statements given above is/are correct?
+
+(a) 1 and 2 only
+
+(b) 1, 2 and 3 only
+
+(c) 3 and 4 only
+
 (d) 1, 2, 3 and 4
+
+**Q5. With reference to the judicial system and national policies in India, consider the following statements:**
+
+1. A High Court order can directly impact the implementation of national policies such as the ethanol allocation policy.
+
+2. The Supreme Court's involvement in matters originating from a High Court order typically indicates an appeal or a request for clarification.
+
+3. In India, a High Court's jurisdiction is limited to state-specific issues and cannot extend to national-level policy matters.
+
+Which of the statements given above is/are correct?
+
+(a) 1 only
+
+(b) 1 and 2 only
+
+(c) 2 and 3 only
+
+(d) 1, 2 and 3
+
+**Q6. With reference to the CBSE's three-language policy, consider the following statements:**
+
+1. The recent relaxation in the CBSE's three-language policy applies to students of Classes 10 and 11.
+
+2. The modified policy now permits the inclusion of two foreign languages alongside one Indian language in the curriculum for specified classes.
+
+3. The three-language formula in India aims to promote multilingualism and national integration.
+
+Which of the statements given above is/are correct?
+
+(a) 1 and 2 only
+
+(b) 2 and 3 only
+
+(c) 1 and 3 only
+
+(d) 1, 2 and 3
+
+**Q7. Regarding India's monsoon patterns and related meteorological data, consider the following statements:**
+
+1. India's June rainfall deficit of 42% indicates a significant deviation from average monsoon patterns.
+
+2. The recorded data for June categorizes it as the second driest in India over the last century.
+
+3. A prolonged rain deficit during the monsoon season can have adverse impacts on agricultural output and water security.
+
+Which of the statements given above is/are correct?
+
+(a) 1 only
+
+(b) 1 and 2 only
+
+(c) 1 and 3 only
+
+(d) 1, 2 and 3
+
+**Q8. With reference to military developments in India, consider the following statements:**
+
+1. The proposal to raise 'Baaz Battalions' is aimed at boosting India's naval surveillance capabilities.
+
+2. Such specialized battalions are often deployed in sensitive border areas to enhance real-time intelligence gathering.
+
+Which of the statements given above is/are correct?
+
+(a) 1 only
+
+(b) 2 only
+
+(c) Both 1 and 2
+
+(d) Neither 1 nor 2
+
+**Q9. Consider the following statements regarding India's diplomatic representation:**
+
+1. An official delegation to a state funeral typically includes high-ranking government officials to convey condolences.
+
+2. Union Minister Margherita was part of the official delegation sent by India to the Iran state funeral.
+
+3. Bihar Governor Hasnain's inclusion in the delegation highlights India's practice of sending only elected representatives for diplomatic visits.
+
+Which of the statements given above is/are correct?
+
+(a) 1 only
+
+(b) 1 and 2 only
+
+(c) 2 and 3 only
+
+(d) 1, 2 and 3
+
+**Q10. With reference to the National Investment Fund (NIF) in India, consider the following statements:**
+
+1. The National Investment Fund (NIF) was initially created to manage proceeds from disinvestment of Central Public Sector Enterprises (CPSEs).
+
+2. A recent boost of ₹30,000 crore to the National Investment Fund is specifically allocated for recapitalizing public sector banks.
+
+3. Funds from the NIF are primarily utilized to meet critical government expenditures and social sector schemes.
+
+Which of the statements given above is/are correct?
+
+(a) 1 and 2 only
+
+(b) 1 and 3 only
+
+(c) 2 and 3 only
+
+(d) 1, 2 and 3
+
+**Q11. With reference to high-profile appointments in India's financial sector, consider the following statements:**
+
+1. The Reserve Bank of India (RBI) exercises significant regulatory authority over the appointment of chairpersons in private sector banks.
+
+2. The appointment of former Chief Election Commissioner, Rajiv Kumar, as Chairman of HDFC Bank is a unique instance of a public servant directly taking up a leadership role in a public sector bank.
+
+3. Such high-profile appointments in the banking sector generally require prior approval from the Ministry of Finance to ensure corporate governance standards.
+
+Which of the statements given above is/are correct?
+
+(a) 1 only
+
+(b) 1 and 2 only
+
+(c) 2 and 3 only
+
+(d) 1, 2 and 3
