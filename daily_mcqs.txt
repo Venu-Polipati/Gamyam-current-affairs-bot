@@ -2,200 +2,198 @@
 MCQs
 ━━━━━━━━━━━━━━━
 
-**Q1. Consider the following statements regarding the 'Green Steel' scheme:**
+**Q1. Consider the following statements regarding the role of gold in national economies and global finance:**
 
-1. The Green Steel scheme aims to promote the adoption of green technologies within the steel industry.
+1.  Central banks globally hold gold primarily to hedge against geopolitical risks and diversify reserve assets.
 
-2. The initial outlay for the Green Steel scheme has been set at ₹30,000 crore to facilitate rapid technology transition.
+2.  In times of economic instability, gold typically acts as a safe-haven asset due to its intrinsic value and perceived stability.
 
-3. The scheme primarily focuses on encouraging steel exports by providing subsidies for sustainable production.
-
-Which of the statements given above is/are correct?
-
-(a) 1 only
-
-(b) 1 and 2 only
-
-(c) 2 and 3 only
-
-(d) 1, 2 and 3
-
-**Q2. Consider the following statements regarding India's engagement in international counter-terrorism efforts:**
-
-1. The Financial Action Task Force (FATF) is an intergovernmental organization that sets international standards to prevent money laundering and terrorist financing.
-
-2. India's initiative to push the FATF regarding Pakistan is primarily aimed at resolving bilateral trade disputes.
-
-3. The FATF maintains a 'Grey List' and 'Black List' to categorize countries with strategic deficiencies in their anti-money laundering and counter-terrorist financing regimes.
+3.  The Bretton Woods system, established after World War II, linked the value of major currencies directly to gold.
 
 Which of the statements given above is/are correct?
-
 (a) 1 and 2 only
-
-(b) 1 and 3 only
-
-(c) 2 and 3 only
-
-(d) 1, 2 and 3
-
-**Q3. With reference to diplomatic engagements between India and Pakistan, consider the following statements:**
-
-1. Track II talks, by their nature, involve official government representatives engaging in formal negotiations to resolve disputes.
-
-2. An official statement from India's Ministry of External Affairs confirmed the recent engagement in Track II talks between India and Pakistan.
-
-3. Such unofficial diplomatic channels are often utilized to explore potential solutions and build understanding without the rigidity of formal diplomatic processes.
-
-Which of the statements given above is/are correct?
-
-(a) 1 and 2 only
-
 (b) 2 and 3 only
-
 (c) 1 and 3 only
-
 (d) 1, 2 and 3
 
-**Q4. With reference to India's economic indicators and government decisions, consider the following statements:**
+**Q2. Regarding the independence and functioning of the Election Commission of India (ECI), consider the following statements:**
 
-1. The Index of Industrial Production (IIP) measures the growth rates of various industrial sectors over a given period.
+1.  The Chief Election Commissioner and Election Commissioners enjoy security of tenure and cannot be removed except in a manner similar to a judge of the Supreme Court.
 
-2. Manufacturing and electricity sectors were the primary contributors to India's industrial growth reported in May.
+2.  Allegations of biased conduct against the ECI can be subject to judicial review by the Supreme Court.
 
-3. The government recently decided to impose new curbs on petrol and diesel retail for commercial users to manage fuel consumption.
-
-4. The National Investment Fund, which recently received a significant boost, is primarily utilized for financing private sector infrastructure projects.
+3.  The expenses of the Election Commission of India are charged upon the Consolidated Fund of India, making it independent of parliamentary approval for day-to-day expenditure.
 
 Which of the statements given above is/are correct?
-
-(a) 1 and 2 only
-
-(b) 1, 2 and 3 only
-
-(c) 3 and 4 only
-
-(d) 1, 2, 3 and 4
-
-**Q5. With reference to the judicial system and national policies in India, consider the following statements:**
-
-1. A High Court order can directly impact the implementation of national policies such as the ethanol allocation policy.
-
-2. The Supreme Court's involvement in matters originating from a High Court order typically indicates an appeal or a request for clarification.
-
-3. In India, a High Court's jurisdiction is limited to state-specific issues and cannot extend to national-level policy matters.
-
-Which of the statements given above is/are correct?
-
 (a) 1 only
-
-(b) 1 and 2 only
-
-(c) 2 and 3 only
-
-(d) 1, 2 and 3
-
-**Q6. With reference to the CBSE's three-language policy, consider the following statements:**
-
-1. The recent relaxation in the CBSE's three-language policy applies to students of Classes 10 and 11.
-
-2. The modified policy now permits the inclusion of two foreign languages alongside one Indian language in the curriculum for specified classes.
-
-3. The three-language formula in India aims to promote multilingualism and national integration.
-
-Which of the statements given above is/are correct?
-
-(a) 1 and 2 only
-
 (b) 2 and 3 only
+(c) 1, 2 and 3
+(d) 1 and 2 only
 
-(c) 1 and 3 only
+**Q3. With reference to the concept of 'Windfall Tax' sometimes seen in the news, consider the following statements:**
 
-(d) 1, 2 and 3
+1.  A windfall tax is typically imposed by governments on industries that have benefited from unforeseen and extraordinary profits due to external events.
 
-**Q7. Regarding India's monsoon patterns and related meteorological data, consider the following statements:**
+2.  In India, the Centre has only imposed windfall tax on crude oil producers, without extending it to refined petroleum products.
 
-1. India's June rainfall deficit of 42% indicates a significant deviation from average monsoon patterns.
-
-2. The recorded data for June categorizes it as the second driest in India over the last century.
-
-3. A prolonged rain deficit during the monsoon season can have adverse impacts on agricultural output and water security.
+3.  The primary objective of a windfall tax is to disincentivize domestic production of specific commodities.
 
 Which of the statements given above is/are correct?
-
 (a) 1 only
-
 (b) 1 and 2 only
-
-(c) 1 and 3 only
-
+(c) 2 and 3 only
 (d) 1, 2 and 3
 
-**Q8. With reference to military developments in India, consider the following statements:**
+**Q4. Considering the strategic importance of global maritime chokepoints, with specific reference to the Strait of Hormuz:**
 
-1. The proposal to raise 'Baaz Battalions' is aimed at boosting India's naval surveillance capabilities.
+1.  The Strait of Hormuz connects the Persian Gulf with the Arabian Sea and the Gulf of Oman, making it a critical transit point for crude oil.
 
-2. Such specialized battalions are often deployed in sensitive border areas to enhance real-time intelligence gathering.
+2.  India's energy security is significantly dependent on the free and uninterrupted navigation through the Strait of Hormuz.
+
+3.  International law designates the Strait of Hormuz as internal waters of Iran, granting it exclusive control over transit.
 
 Which of the statements given above is/are correct?
+(a) 1 and 2 only
+(b) 2 and 3 only
+(c) 1 and 3 only
+(d) 1, 2 and 3
 
+**Q5. With regard to foreign contributions and residency in India, consider the following statements:**
+
+1.  The Foreign Contribution (Regulation) Act (FCRA) regulates the acceptance and utilization of foreign contributions by individuals, associations, and companies in India.
+
+2.  An Overseas Citizen of India (OCI) cardholder is granted the right to acquire agricultural land in India.
+
+3.  The e-OCI card system simplifies the process for foreign nationals of Indian origin to obtain a long-term residency status in India.
+
+Which of the statements given above is/are correct?
+(a) 1 and 2 only
+(b) 2 and 3 only
+(c) 1 and 3 only
+(d) 1, 2 and 3
+
+**Q6. Regarding the Goods and Services Tax (GST) regime in India and its economic implications, consider the following statements:**
+
+1.  A Goods and Services Tax Council is a constitutional body that makes recommendations to the Union and State Governments on issues related to GST.
+
+2.  A reduction in GST rates on certain goods can lead to a consumption boost by making those goods more affordable for consumers.
+
+3.  GST is a progressive tax, where the tax burden increases with the income of the taxpayer.
+
+Which of the statements given above is/are correct?
+(a) 1 and 2 only
+(b) 2 and 3 only
+(c) 1 and 3 only
+(d) 1, 2 and 3
+
+**Q7. With reference to 'Inclusive Climate Action' and sustainable development:**
+
+1.  Inclusive Climate Action primarily emphasizes technological solutions to climate change, ensuring accessibility to all nations regardless of their economic status.
+
+2.  An integrated approach to climate action necessitates considering its social, economic, and environmental dimensions simultaneously to achieve sustainable development goals.
+
+3.  The concept of 'climate justice' underpins inclusive climate action, highlighting the disproportionate impact of climate change on vulnerable populations.
+
+Which of the statements given above is/are correct?
+(a) 1 and 2 only
+(b) 2 and 3 only
+(c) 1 and 3 only
+(d) 1, 2 and 3
+
+**Q8. In the context of banking sector stability and risk management by the Reserve Bank of India (RBI):**
+
+1.  RBI conducts stress tests periodically to assess the resilience of commercial banks to potential adverse economic scenarios.
+
+2.  The risks associated with "private credit" in banking generally refer to loans given to private individuals for consumption purposes.
+
+3.  Gold loans are considered completely risk-free for banks due to the physical collateral backing them.
+
+Which of the statements given above is/are correct?
 (a) 1 only
+(b) 1 and 2 only
+(c) 2 and 3 only
+(d) 1, 2 and 3
 
+**Q9. With reference to statutory bodies and their role in governance:**
+
+1.  A National Road Safety Board, if established by a government resolution, functions as a statutory body.
+
+2.  The primary objective of such a board is generally to advise the government on policy and standards related to road safety.
+
+3.  Parliamentary approval is always mandatory for the establishment of any national board by the Union Government.
+
+Which of the statements given above is/are correct?
+(a) 1 only
 (b) 2 only
+(c) 1 and 3 only
+(d) 2 and 3 only
 
-(c) Both 1 and 2
+**Q10. In the context of India's strategic initiatives in technology and national security:**
 
-(d) Neither 1 nor 2
+1.  A national strategy on Artificial Intelligence primarily aims to foster innovation and responsible deployment of AI across various sectors while addressing ethical concerns.
 
-**Q9. Consider the following statements regarding India's diplomatic representation:**
+2.  Cybersecurity measures in India are primarily governed by the Information Technology Act, 2000, which defines cybercrimes and prescribes penalties.
 
-1. An official delegation to a state funeral typically includes high-ranking government officials to convey condolences.
-
-2. Union Minister Margherita was part of the official delegation sent by India to the Iran state funeral.
-
-3. Bihar Governor Hasnain's inclusion in the delegation highlights India's practice of sending only elected representatives for diplomatic visits.
+3.  The discussions on AI strategy and cybersecurity often consider their implications for managing external economic dependencies, such as those related to imports from specific countries.
 
 Which of the statements given above is/are correct?
-
-(a) 1 only
-
-(b) 1 and 2 only
-
-(c) 2 and 3 only
-
-(d) 1, 2 and 3
-
-**Q10. With reference to the National Investment Fund (NIF) in India, consider the following statements:**
-
-1. The National Investment Fund (NIF) was initially created to manage proceeds from disinvestment of Central Public Sector Enterprises (CPSEs).
-
-2. A recent boost of ₹30,000 crore to the National Investment Fund is specifically allocated for recapitalizing public sector banks.
-
-3. Funds from the NIF are primarily utilized to meet critical government expenditures and social sector schemes.
-
-Which of the statements given above is/are correct?
-
 (a) 1 and 2 only
-
-(b) 1 and 3 only
-
-(c) 2 and 3 only
-
+(b) 2 and 3 only
+(c) 1 and 3 only
 (d) 1, 2 and 3
 
-**Q11. With reference to high-profile appointments in India's financial sector, consider the following statements:**
+**Q11. Regarding agricultural pricing policies in India and their economic impact:**
 
-1. The Reserve Bank of India (RBI) exercises significant regulatory authority over the appointment of chairpersons in private sector banks.
+1.  The Minimum Support Price (MSP) mechanism is designed to provide a floor price for certain agricultural crops, safeguarding farmers against excessive price falls.
 
-2. The appointment of former Chief Election Commissioner, Rajiv Kumar, as Chairman of HDFC Bank is a unique instance of a public servant directly taking up a leadership role in a public sector bank.
+2.  A reorientation of agriculture pricing policies, as suggested by a Finance Ministry report, would primarily aim at reducing food inflation and ensuring farmer income stability.
 
-3. Such high-profile appointments in the banking sector generally require prior approval from the Ministry of Finance to ensure corporate governance standards.
+3.  Rain deficit in critical agricultural regions can lead to a surge in food commodity prices, impacting the overall inflation outlook.
 
 Which of the statements given above is/are correct?
+(a) 1 and 2 only
+(b) 2 and 3 only
+(c) 1 and 3 only
+(d) 1, 2 and 3
 
+**Q12. Concerning commodity inflation and its drivers:**
+
+1.  War-driven commodity inflation primarily stems from supply chain disruptions and increased demand for raw materials for military production.
+
+2.  Global commodity prices, once impacted by significant events like geopolitical conflicts, typically revert to pre-event levels within a short span due to market efficiency.
+
+3.  Central banks often use monetary policy tools, such as interest rate hikes, to combat war-driven commodity inflation.
+
+Which of the statements given above is/are correct?
 (a) 1 only
-
 (b) 1 and 2 only
+(c) 1 and 3 only
+(d) 2 and 3 only
 
+**Q13. In the context of disaster management and flood situations in India:**
+
+1.  The National Disaster Management Authority (NDMA) is the apex body responsible for laying down policies, plans, and guidelines for disaster management in India.
+
+2.  State Disaster Response Funds (SDRF) are constituted under the Disaster Management Act, 2005, primarily for providing immediate relief to victims of notified disasters.
+
+3.  Union Ministers assessing flood situations at the ground level indicates the implementation of specific national disaster response protocols.
+
+Which of the statements given above is/are correct?
+(a) 1 and 2 only
+(b) 2 and 3 only
+(c) 1 and 3 only
+(d) 1, 2 and 3
+
+**Q14. Regarding consolidation in India's banking sector:**
+
+1.  Mergers and acquisitions in the banking sector can enhance financial stability by creating larger, more resilient entities.
+
+2.  The Reserve Bank of India (RBI) plays a crucial regulatory role in approving such consolidations to prevent adverse impacts on competition and consumer interests.
+
+3.  The exit of foreign banks from retail operations in India is primarily driven by their inability to comply with local regulatory requirements.
+
+Which of the statements given above is/are correct?
+(a) 1 only
+(b) 1 and 2 only
 (c) 2 and 3 only
-
 (d) 1, 2 and 3

@@ -1,47 +1,55 @@
-1. (a)
+1. (d)
 
-Reason: Statement 1 and 3 are correct provisions of NFSA. Statement 2 is incorrect as the 7 kg foodgrains is per person, not a uniform entitlement per household irrespective of members. Statement 4 is incorrect; identification of beneficiaries is primarily the responsibility of State Governments.
+Reason: Statement 1 and 2 correctly describe gold's role as a safe-haven and diversification asset for central banks, especially amid geopolitical risks. Statement 3 is a historical fact about the Bretton Woods system.
 
 2. (c)
 
-Reason: All statements are correct. An increase in forex reserves helps strengthen the currency and provides a buffer against external shocks. The components listed are standard for India's forex reserves. The news explicitly mentions a jump in gold holdings. RBI manages reserves for currency stability and to limit vulnerability.
+Reason: Statement 1 is correct regarding the security of tenure for ECI members. Statement 2 is correct as the conduct of constitutional bodies can be subject to judicial review. Statement 3 is correct, as ECI expenses are charged on the Consolidated Fund of India to ensure financial independence.
 
 3. (a)
 
-Reason: Statement 1 is directly from the news. Statement 2 is correct as securing insurance and banking channels for transactions involving sanctioned entities remains challenging even with waivers. Statement 3 is incorrect; diversification aims for energy security and price stability, not primarily to reduce overall consumption. Statement 4 is incorrect; strategic autonomy refers to independent foreign policy decisions, not immunity from global market fluctuations.
+Reason: Statement 1 correctly defines a windfall tax as imposed on extraordinary profits from external events. Statement 2 is incorrect because the news explicitly mentions petrol export duty was raised, indicating the tax is also applied to refined petroleum products, not just crude oil producers. Statement 3 is incorrect as the primary objective of a windfall tax is revenue generation, not to disincentivize production.
 
-4. (d)
+4. (a)
 
-Reason: All statements are correct. Statement 1 is based on the news regarding the Supreme Court's ruling. Statement 2 accurately describes the primary objective of RERA. Statement 3 correctly states the registration thresholds for real estate projects under RERA. Statement 4 is correct, as consumer protection laws allow for remedies against deficiency in services.
+Reason: Statement 1 is geographically accurate about the Strait of Hormuz. Statement 2 is correct, as the Strait is crucial for India's oil imports, impacting its energy security. Statement 3 is incorrect; the Strait of Hormuz is an international strait, and international law (UNCLOS) provides for transit passage rights, not exclusive control by any single state as internal waters.
 
-5. (a)
+5. (c)
 
-Reason: Statement 1 is directly from the news. Statement 4 is correct, as ethical considerations and data privacy are major global challenges for AI deployment. Statement 2 is incorrect; AI impacts a wide range of sectors, including services, not primarily manufacturing with limited impact on services. Statement 3 is incorrect; India's IT and services sector, including AI services, has a significant export component.
+Reason: Statement 1 correctly describes the purpose of the FCRA in regulating foreign contributions. Statement 2 is incorrect because Overseas Citizen of India (OCI) cardholders are not permitted to acquire agricultural land in India. Statement 3 accurately reflects the objective of the OCI scheme and the e-OCI card system.
 
-6. (b)
+6. (a)
 
-Reason: Statements 1, 2, and 4 are correct. The initiative's focus on local manufacturing and technological advancement aligns with Atmanirbhar Bharat, leading to reduced dependence on foreign expertise. Atmanirbhar Bharat aims for self-reliance across sectors. Statement 3 is incorrect; indigenous manufacturing aims to develop capabilities across the entire lifecycle, including operational aspects and maintenance, to reduce reliance on imported solutions.
+Reason: Statement 1 is correct; the GST Council is a constitutional body under Article 279A. Statement 2 is correct, as rate reductions can make goods more affordable, leading to increased consumption. Statement 3 is incorrect; GST is an indirect tax and is generally considered proportional or regressive, not progressive like direct income tax.
 
-7. (a)
+7. (b)
 
-Reason: Statement 1 is directly from the news. Statement 2 is correct regarding CDSCO's role. Statement 4 is correct as such reforms typically aim to improve ease of doing business. Statement 3 is incorrect; simplifying rules typically aims to reduce costs and wastage, not increase prices due to relaxed quality controls, which are a separate regulatory aspect.
+Reason: Statement 1 is too narrow; inclusive climate action is broader than just technological solutions and encompasses social equity, economic development, and governance. Statement 2 is correct as an integrated approach considers all dimensions for sustainable development. Statement 3 correctly identifies climate justice as a core principle of inclusive climate action.
 
-8. (b)
+8. (a)
 
-Reason: Statements 1, 2, and 4 are correct. 'Operation Amistad' for Venezuela is a direct news item. India's HADR operations, including those beyond its immediate neighbourhood, align with a broader humanitarian outreach, consistent with the spirit of SAGAR. Humanitarian aid is a key component of soft power. Statement 3 is incorrect; HADR operations are primarily humanitarian and not aimed at promoting defence exports or establishing military bases.
+Reason: Statement 1 correctly defines the purpose of RBI's stress tests. Statement 2 is generally incorrect; "private credit" in the context of banking risk management typically refers to credit extended to the non-financial private sector, including corporations and businesses, not exclusively consumption loans to private individuals. Statement 3 is incorrect because the news explicitly mentioned "gold loan concerns" flagged by the RBI, indicating they are not risk-free.
 
-9. (a)
+9. (b)
 
-Reason: Statements 1, 2, and 3 are correct. The news highlights the focus on transformational growth. FTAs aim to reduce trade barriers and India often seeks market access for its strong service and labour-intensive sectors. Statement 4 is incorrect; FTAs aim to *reduce* barriers, not completely remove *all* barriers, especially in sensitive sectors like agriculture and intellectual property.
+Reason: Statement 1 is incorrect; a body established by a government resolution is an executive body, not a statutory body, which requires an Act of Parliament. Statement 2 is a correct description of the general function of such a board. Statement 3 is incorrect; not all national boards require parliamentary approval; many are established through executive orders.
 
-10. (a)
+10. (d)
 
-Reason: Statements 1, 2, and 3 are correct. Statement 1 is directly from the news regarding the growth forecast and domestic demand. Statement 2 accurately defines the components of domestic demand. Statement 3 is correct as PFCE is a major driver of domestic demand. Statement 4 is incorrect; economic forecasts are advisory and provide insights but are not legally binding on government or central bank policies.
+Reason: Statement 1 correctly describes the broad objectives of a national AI strategy. Statement 2 is correct, as the IT Act, 2000, is the primary legal framework for cybersecurity in India. Statement 3 correctly identifies that strategic discussions on AI and cybersecurity often involve considerations of external economic dependencies and trade.
 
-11. (a)
+11. (d)
 
-Reason: Statements 1, 2, and 3 are correct. The news mentions WHO seeking a report, and State Drug Control Organizations are crucial for licensing and quality control. The Drugs and Cosmetics Act and Rules are the primary legislation. Statement 4 is incorrect; WHO primarily provides guidelines, standards, and recommendations, but generally does not issue binding legal directives to member states on domestic drug quality and safety standards.
+Reason: Statement 1 correctly defines the MSP mechanism. Statement 2 reflects plausible policy objectives for reorienting agricultural pricing, balancing inflation control with farmer welfare. Statement 3 is correct, as rain deficits are a known factor that can impact agricultural output and lead to food commodity price increases.
 
-12. (a)
+12. (c)
 
-Reason: Statements 1, 2, and 4 are correct. Statement 1 is directly from the news regarding Crisil's assessment. Statement 2 describes common factors contributing to corporate resilience. Statement 4 accurately depicts the impact of geopolitical conflicts on global supply chains and energy prices. Statement 3 is incorrect; Crisil is an Indian credit rating agency, not primarily international, and rates various types of debt, not just sovereign debt for developing economies.
+Reason: Statement 1 correctly identifies supply chain disruptions and demand for raw materials as drivers of war-driven commodity inflation. Statement 2 is incorrect because the news explicitly states "prices take time to settle" after significant events, indicating they do not quickly revert to pre-event levels. Statement 3 is correct, as central banks commonly use monetary policy tools like interest rate hikes to manage inflationary pressures.
+
+13. (d)
+
+Reason: Statement 1 correctly defines the role of NDMA as the apex body for disaster management. Statement 2 accurately describes the purpose and legal basis of State Disaster Response Funds (SDRF). Statement 3 is also correct, as visits by Union Ministers for assessment are part of high-level government coordination and response protocols during significant disasters.
+
+14. (b)
+
+Reason: Statement 1 is correct, as consolidation can lead to larger, more resilient banks, potentially enhancing financial stability. Statement 2 is correct; the RBI plays a critical role in regulating and approving such mergers to safeguard the financial system and consumer interests. Statement 3 is incorrect; while regulatory compliance is a factor, the primary drivers for foreign banks exiting retail operations are often strategic shifts, focus on wholesale banking, or profitability challenges, rather than an inability to comply.
