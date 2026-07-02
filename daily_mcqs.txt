@@ -2,198 +2,182 @@
 MCQs
 ━━━━━━━━━━━━━━━
 
-**Q1. Consider the following statements regarding the role of gold in national economies and global finance:**
+**Q1. Consider the following statements regarding the Census in India:**
 
-1.  Central banks globally hold gold primarily to hedge against geopolitical risks and diversify reserve assets.
+1.  The decennial Census in India is conducted under the provisions of the Constitution, providing data for delimitation of constituencies.
 
-2.  In times of economic instability, gold typically acts as a safe-haven asset due to its intrinsic value and perceived stability.
+2.  The current phase of Census fieldwork primarily involves house enumeration activity and detailed map drawing of localities.
 
-3.  The Bretton Woods system, established after World War II, linked the value of major currencies directly to gold.
-
-Which of the statements given above is/are correct?
-(a) 1 and 2 only
-(b) 2 and 3 only
-(c) 1 and 3 only
-(d) 1, 2 and 3
-
-**Q2. Regarding the independence and functioning of the Election Commission of India (ECI), consider the following statements:**
-
-1.  The Chief Election Commissioner and Election Commissioners enjoy security of tenure and cannot be removed except in a manner similar to a judge of the Supreme Court.
-
-2.  Allegations of biased conduct against the ECI can be subject to judicial review by the Supreme Court.
-
-3.  The expenses of the Election Commission of India are charged upon the Consolidated Fund of India, making it independent of parliamentary approval for day-to-day expenditure.
+3.  The primary objective of the Census fieldwork is limited to updating electoral rolls, and it does not contribute to urban planning.
 
 Which of the statements given above is/are correct?
+
 (a) 1 only
-(b) 2 and 3 only
-(c) 1, 2 and 3
-(d) 1 and 2 only
 
-**Q3. With reference to the concept of 'Windfall Tax' sometimes seen in the news, consider the following statements:**
-
-1.  A windfall tax is typically imposed by governments on industries that have benefited from unforeseen and extraordinary profits due to external events.
-
-2.  In India, the Centre has only imposed windfall tax on crude oil producers, without extending it to refined petroleum products.
-
-3.  The primary objective of a windfall tax is to disincentivize domestic production of specific commodities.
-
-Which of the statements given above is/are correct?
-(a) 1 only
 (b) 1 and 2 only
+
 (c) 2 and 3 only
+
 (d) 1, 2 and 3
 
-**Q4. Considering the strategic importance of global maritime chokepoints, with specific reference to the Strait of Hormuz:**
+**Q2. With reference to the Employees' Provident Fund (EPF) Scheme 2026, consider the following statements:**
 
-1.  The Strait of Hormuz connects the Persian Gulf with the Arabian Sea and the Gulf of Oman, making it a critical transit point for crude oil.
+1.  The EPF is a social security scheme primarily managed under the purview of the Ministry of Finance.
 
-2.  India's energy security is significantly dependent on the free and uninterrupted navigation through the Strait of Hormuz.
+2.  The recently notified EPF Scheme 2026 mandates the linkage of Aadhaar details for all new contributions and withdrawals by members.
 
-3.  International law designates the Strait of Hormuz as internal waters of Iran, granting it exclusive control over transit.
-
-Which of the statements given above is/are correct?
-(a) 1 and 2 only
-(b) 2 and 3 only
-(c) 1 and 3 only
-(d) 1, 2 and 3
-
-**Q5. With regard to foreign contributions and residency in India, consider the following statements:**
-
-1.  The Foreign Contribution (Regulation) Act (FCRA) regulates the acceptance and utilization of foreign contributions by individuals, associations, and companies in India.
-
-2.  An Overseas Citizen of India (OCI) cardholder is granted the right to acquire agricultural land in India.
-
-3.  The e-OCI card system simplifies the process for foreign nationals of Indian origin to obtain a long-term residency status in India.
+3.  A key feature of the EPF Scheme 2026 is the relaxation of rules for withdrawals, allowing them without any prior conditions for members.
 
 Which of the statements given above is/are correct?
-(a) 1 and 2 only
-(b) 2 and 3 only
-(c) 1 and 3 only
-(d) 1, 2 and 3
 
-**Q6. Regarding the Goods and Services Tax (GST) regime in India and its economic implications, consider the following statements:**
-
-1.  A Goods and Services Tax Council is a constitutional body that makes recommendations to the Union and State Governments on issues related to GST.
-
-2.  A reduction in GST rates on certain goods can lead to a consumption boost by making those goods more affordable for consumers.
-
-3.  GST is a progressive tax, where the tax burden increases with the income of the taxpayer.
-
-Which of the statements given above is/are correct?
-(a) 1 and 2 only
-(b) 2 and 3 only
-(c) 1 and 3 only
-(d) 1, 2 and 3
-
-**Q7. With reference to 'Inclusive Climate Action' and sustainable development:**
-
-1.  Inclusive Climate Action primarily emphasizes technological solutions to climate change, ensuring accessibility to all nations regardless of their economic status.
-
-2.  An integrated approach to climate action necessitates considering its social, economic, and environmental dimensions simultaneously to achieve sustainable development goals.
-
-3.  The concept of 'climate justice' underpins inclusive climate action, highlighting the disproportionate impact of climate change on vulnerable populations.
-
-Which of the statements given above is/are correct?
-(a) 1 and 2 only
-(b) 2 and 3 only
-(c) 1 and 3 only
-(d) 1, 2 and 3
-
-**Q8. In the context of banking sector stability and risk management by the Reserve Bank of India (RBI):**
-
-1.  RBI conducts stress tests periodically to assess the resilience of commercial banks to potential adverse economic scenarios.
-
-2.  The risks associated with "private credit" in banking generally refer to loans given to private individuals for consumption purposes.
-
-3.  Gold loans are considered completely risk-free for banks due to the physical collateral backing them.
-
-Which of the statements given above is/are correct?
 (a) 1 only
-(b) 1 and 2 only
-(c) 2 and 3 only
-(d) 1, 2 and 3
 
-**Q9. With reference to statutory bodies and their role in governance:**
-
-1.  A National Road Safety Board, if established by a government resolution, functions as a statutory body.
-
-2.  The primary objective of such a board is generally to advise the government on policy and standards related to road safety.
-
-3.  Parliamentary approval is always mandatory for the establishment of any national board by the Union Government.
-
-Which of the statements given above is/are correct?
-(a) 1 only
 (b) 2 only
+
 (c) 1 and 3 only
+
 (d) 2 and 3 only
 
-**Q10. In the context of India's strategic initiatives in technology and national security:**
+**Q3. Consider the following statements in the context of recent economic indicators:**
 
-1.  A national strategy on Artificial Intelligence primarily aims to foster innovation and responsible deployment of AI across various sectors while addressing ethical concerns.
+1.  The Goods and Services Tax (GST) is a consumption-based tax, with collections generally reflecting economic activity and consumer demand across various sectors.
 
-2.  Cybersecurity measures in India are primarily governed by the Information Technology Act, 2000, which defines cybercrimes and prescribes penalties.
+2.  A 14% growth in June GST collections, the fastest in eight months, is indicative of a robust manufacturing sector performing at its peak across the nation.
 
-3.  The discussions on AI strategy and cybersecurity often consider their implications for managing external economic dependencies, such as those related to imports from specific countries.
-
-Which of the statements given above is/are correct?
-(a) 1 and 2 only
-(b) 2 and 3 only
-(c) 1 and 3 only
-(d) 1, 2 and 3
-
-**Q11. Regarding agricultural pricing policies in India and their economic impact:**
-
-1.  The Minimum Support Price (MSP) mechanism is designed to provide a floor price for certain agricultural crops, safeguarding farmers against excessive price falls.
-
-2.  A reorientation of agriculture pricing policies, as suggested by a Finance Ministry report, would primarily aim at reducing food inflation and ensuring farmer income stability.
-
-3.  Rain deficit in critical agricultural regions can lead to a surge in food commodity prices, impacting the overall inflation outlook.
+3.  Strong recovery in car sales, as noted in June, is typically considered a lead indicator of improving consumer confidence and broader economic revival.
 
 Which of the statements given above is/are correct?
-(a) 1 and 2 only
-(b) 2 and 3 only
-(c) 1 and 3 only
-(d) 1, 2 and 3
 
-**Q12. Concerning commodity inflation and its drivers:**
-
-1.  War-driven commodity inflation primarily stems from supply chain disruptions and increased demand for raw materials for military production.
-
-2.  Global commodity prices, once impacted by significant events like geopolitical conflicts, typically revert to pre-event levels within a short span due to market efficiency.
-
-3.  Central banks often use monetary policy tools, such as interest rate hikes, to combat war-driven commodity inflation.
-
-Which of the statements given above is/are correct?
 (a) 1 only
-(b) 1 and 2 only
-(c) 1 and 3 only
-(d) 2 and 3 only
 
-**Q13. In the context of disaster management and flood situations in India:**
-
-1.  The National Disaster Management Authority (NDMA) is the apex body responsible for laying down policies, plans, and guidelines for disaster management in India.
-
-2.  State Disaster Response Funds (SDRF) are constituted under the Disaster Management Act, 2005, primarily for providing immediate relief to victims of notified disasters.
-
-3.  Union Ministers assessing flood situations at the ground level indicates the implementation of specific national disaster response protocols.
-
-Which of the statements given above is/are correct?
-(a) 1 and 2 only
 (b) 2 and 3 only
+
 (c) 1 and 3 only
+
 (d) 1, 2 and 3
 
-**Q14. Regarding consolidation in India's banking sector:**
+**Q4. With reference to India-Japan relations, consider the following statements about the recent LNG security pact:**
 
-1.  Mergers and acquisitions in the banking sector can enhance financial stability by creating larger, more resilient entities.
+1.  India has recently entered into an LNG security pact with Japan primarily to ensure stable and diversified energy supplies for both nations.
 
-2.  The Reserve Bank of India (RBI) plays a crucial regulatory role in approving such consolidations to prevent adverse impacts on competition and consumer interests.
+2.  This agreement primarily focuses on joint exploration and production of natural gas resources in the Indo-Pacific region to reduce reliance on third parties.
 
-3.  The exit of foreign banks from retail operations in India is primarily driven by their inability to comply with local regulatory requirements.
+3.  Japan is one of the largest importers of Liquefied Natural Gas (LNG) globally, making it a crucial partner for international energy security initiatives.
 
 Which of the statements given above is/are correct?
+
 (a) 1 only
-(b) 1 and 2 only
+
+(b) 1 and 3 only
+
 (c) 2 and 3 only
+
+(d) 1, 2 and 3
+
+**Q5. Regarding the Supreme Court's ruling on default bail, consider the following statements:**
+
+1.  Default bail, also known as statutory bail, is a right accrued to an accused person if the investigating agency fails to file a chargesheet within a stipulated period.
+
+2.  The Supreme Court recently clarified that default bail cannot be claimed if a chargesheet has been filed by the investigating agency, irrespective of whether a copy of the chargesheet has been furnished to the accused.
+
+3.  The right to default bail is enshrined as a specific fundamental right under Article 21 of the Constitution of India.
+
+Which of the statements given above is/are correct?
+
+(a) 1 only
+
+(b) 1 and 2 only
+
+(c) 2 and 3 only
+
+(d) 1, 2 and 3
+
+**Q6. Consider the implications of large-scale industrial investments in states, with a focus on recent developments in Andhra Pradesh:**
+
+1.  Investments by major automobile manufacturers like Hero MotoCorp contribute significantly to regional economic development through job creation and ancillary industries.
+
+2.  Hero MotoCorp's planned ₹3,200 crore investment in Andhra Pradesh is primarily aimed at setting up a research and development facility for electric vehicles.
+
+3.  State governments often offer incentives and streamlined processes to attract large-scale industrial investments to promote local manufacturing capabilities.
+
+Which of the statements given above is/are correct?
+
+(a) 1 only
+
+(b) 1 and 3 only
+
+(c) 2 and 3 only
+
+(d) 1, 2 and 3
+
+**Q7. With reference to the appointment of the State Election Commissioner, consider the following statements:**
+
+1.  The State Election Commissioner is appointed by the Governor of the concerned state.
+
+2.  The conditions of service and tenure of the State Election Commissioner are determined exclusively by the State Legislature through specific enactments.
+
+3.  The State Election Commission is responsible for conducting elections to Panchayats and Municipalities within the state.
+
+Which of the statements given above is/are correct?
+
+(a) 1 only
+
+(b) 1 and 3 only
+
+(c) 2 and 3 only
+
+(d) 1, 2 and 3
+
+**Q8. Consider the recent trends in funding for Indian IT acquisitions:**
+
+1.  A shift towards debt funding for acquisitions in the Indian IT sector indicates a preference for leveraging existing assets rather than diluting equity.
+
+2.  Increased reliance on debt funding for acquisitions can potentially expose companies to higher interest rate risks and stricter repayment obligations.
+
+3.  This funding strategy shift primarily reflects a significant decline in foreign direct investment (FDI) inflows into the Indian IT sector.
+
+Which of the statements given above is/are correct?
+
+(a) 1 only
+
+(b) 2 only
+
+(c) 1 and 2 only
+
+(d) 1, 2 and 3
+
+**Q9. With reference to parliamentary procedures and legislative processes, consider the following statements:**
+
+1.  A 'no-confidence motion' is the constitutionally prescribed method for the Lok Sabha to express lack of confidence in the Council of Ministers headed by the Prime Minister.
+
+2.  A bill proposing a mechanism to 'sack' Prime Ministers or Chief Ministers would likely require a constitutional amendment if it seeks to alter the existing provisions for their removal.
+
+3.  Parliamentary panels, upon adopting a report on a bill, directly send it for Presidential assent to become law, bypassing further parliamentary debate.
+
+Which of the statements given above is/are correct?
+
+(a) 1 only
+
+(b) 1 and 2 only
+
+(c) 2 and 3 only
+
+(d) 1, 2 and 3
+
+**Q10. Consider the recent review of India-Malaysia military cooperation:**
+
+1.  India's engagement with Southeast Asian nations, including Malaysia, is a key component of its 'Act East Policy' for regional stability and economic integration.
+
+2.  The recent review of India-Malaysia military cooperation primarily focused on joint naval exercises in the Malacca Strait to counter piracy.
+
+3.  Bilateral military cooperation often includes aspects like joint training, information exchange, and defense technology transfers between friendly nations.
+
+Which of the statements given above is/are correct?
+
+(a) 1 only
+
+(b) 1 and 2 only
+
+(c) 1 and 3 only
+
 (d) 1, 2 and 3
