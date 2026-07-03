@@ -2,182 +2,162 @@
 MCQs
 ━━━━━━━━━━━━━━━
 
-**Q1. Consider the following statements regarding the Census in India:**
+**Q1. Consider the following statements regarding the Ministry of Home Affairs (MHA) and Union Territories in India:**
 
-1.  The decennial Census in India is conducted under the provisions of the Constitution, providing data for delimitation of constituencies.
+1.  The Ministry of Home Affairs primarily oversees internal security and public order across states and Union Territories.
 
-2.  The current phase of Census fieldwork primarily involves house enumeration activity and detailed map drawing of localities.
+2.  Union Territories, lacking a state legislature, are directly administered by the President through an appointed administrator, often under the purview of the MHA.
 
-3.  The primary objective of the Census fieldwork is limited to updating electoral rolls, and it does not contribute to urban planning.
+3.  The Sixth Schedule of the Constitution provides for the administration of tribal areas, and certain regions of Ladakh are covered under its provisions.
 
-Which of the statements given above is/are correct?
-
-(a) 1 only
-
-(b) 1 and 2 only
-
-(c) 2 and 3 only
-
-(d) 1, 2 and 3
-
-**Q2. With reference to the Employees' Provident Fund (EPF) Scheme 2026, consider the following statements:**
-
-1.  The EPF is a social security scheme primarily managed under the purview of the Ministry of Finance.
-
-2.  The recently notified EPF Scheme 2026 mandates the linkage of Aadhaar details for all new contributions and withdrawals by members.
-
-3.  A key feature of the EPF Scheme 2026 is the relaxation of rules for withdrawals, allowing them without any prior conditions for members.
+4.  Discussions on governance in specific regions by the MHA typically involve assessing the efficacy of central schemes and local administrative capabilities.
 
 Which of the statements given above is/are correct?
 
-(a) 1 only
+(a) 1, 2 and 4 only
 
-(b) 2 only
+(b) 1 and 3 only
 
-(c) 1 and 3 only
+(c) 2, 3 and 4 only
 
-(d) 2 and 3 only
+(d) 1, 2, 3 and 4
 
-**Q3. Consider the following statements in the context of recent economic indicators:**
+**Q2. With reference to the judicial system and the use of Artificial Intelligence (AI) in India, consider the following statements:**
 
-1.  The Goods and Services Tax (GST) is a consumption-based tax, with collections generally reflecting economic activity and consumer demand across various sectors.
+1.  The Supreme Court of India exercises appellate and supervisory jurisdiction over quasi-judicial bodies like the National Company Law Tribunal (NCLT) and National Company Law Appellate Tribunal (NCLAT).
 
-2.  A 14% growth in June GST collections, the fastest in eight months, is indicative of a robust manufacturing sector performing at its peak across the nation.
+2.  The National Company Law Tribunal (NCLT) is a quasi-judicial body specifically established to resolve disputes related to intellectual property rights.
 
-3.  Strong recovery in car sales, as noted in June, is typically considered a lead indicator of improving consumer confidence and broader economic revival.
+3.  The increasing reliance on Artificial Intelligence tools in legal research and drafting necessitates robust ethical guidelines and human oversight.
+
+4.  Concerns regarding AI-generated content in legal proceedings highlight the importance of verifying sources and ensuring the accuracy of legal citations.
 
 Which of the statements given above is/are correct?
 
-(a) 1 only
+(a) 1 and 2 only
 
 (b) 2 and 3 only
 
-(c) 1 and 3 only
+(c) 1, 3 and 4 only
 
-(d) 1, 2 and 3
+(d) 1, 2, 3 and 4
 
-**Q4. With reference to India-Japan relations, consider the following statements about the recent LNG security pact:**
+**Q3. Regarding the regulatory framework of the Indian economy and financial markets, consider the following statements:**
 
-1.  India has recently entered into an LNG security pact with Japan primarily to ensure stable and diversified energy supplies for both nations.
+1.  The Enforcement Directorate (ED) is responsible for enforcing the provisions of the Foreign Exchange Management Act (FEMA), 1999, which primarily deals with foreign exchange transactions.
 
-2.  This agreement primarily focuses on joint exploration and production of natural gas resources in the Indo-Pacific region to reduce reliance on third parties.
+2.  Settlements made under FEMA, often involving the Reserve Bank of India's (RBI) approval, help in avoiding prolonged legal battles and expedite resolution of contraventions.
 
-3.  Japan is one of the largest importers of Liquefied Natural Gas (LNG) globally, making it a crucial partner for international energy security initiatives.
+3.  Cases settled by the ED under FEMA primarily deal with domestic financial fraud and money laundering within India.
 
-Which of the statements given above is/are correct?
-
-(a) 1 only
-
-(b) 1 and 3 only
-
-(c) 2 and 3 only
-
-(d) 1, 2 and 3
-
-**Q5. Regarding the Supreme Court's ruling on default bail, consider the following statements:**
-
-1.  Default bail, also known as statutory bail, is a right accrued to an accused person if the investigating agency fails to file a chargesheet within a stipulated period.
-
-2.  The Supreme Court recently clarified that default bail cannot be claimed if a chargesheet has been filed by the investigating agency, irrespective of whether a copy of the chargesheet has been furnished to the accused.
-
-3.  The right to default bail is enshrined as a specific fundamental right under Article 21 of the Constitution of India.
+4.  Such settlement mechanisms contribute to streamlining regulatory compliance and reducing the caseload on the judicial system.
 
 Which of the statements given above is/are correct?
 
-(a) 1 only
+(a) 1 and 3 only
 
-(b) 1 and 2 only
+(b) 2, 3 and 4 only
 
-(c) 2 and 3 only
+(c) 1, 2 and 4 only
 
-(d) 1, 2 and 3
+(d) 1, 2, 3 and 4
 
-**Q6. Consider the implications of large-scale industrial investments in states, with a focus on recent developments in Andhra Pradesh:**
+**Q4. With reference to cryptocurrencies and their regulation in India, consider the following statements:**
 
-1.  Investments by major automobile manufacturers like Hero MotoCorp contribute significantly to regional economic development through job creation and ancillary industries.
+1.  The Reserve Bank of India (RBI) has expressed concerns regarding the potential impact of cryptocurrencies on monetary stability and financial integrity.
 
-2.  Hero MotoCorp's planned ₹3,200 crore investment in Andhra Pradesh is primarily aimed at setting up a research and development facility for electric vehicles.
+2.  Private cryptocurrencies are typically backed by physical assets or government guarantees, unlike central bank digital currencies (CBDCs).
 
-3.  State governments often offer incentives and streamlined processes to attract large-scale industrial investments to promote local manufacturing capabilities.
+3.  Discussions with parliamentary panels reflect the legislative efforts required to formulate a comprehensive regulatory framework for emerging digital assets.
 
-Which of the statements given above is/are correct?
-
-(a) 1 only
-
-(b) 1 and 3 only
-
-(c) 2 and 3 only
-
-(d) 1, 2 and 3
-
-**Q7. With reference to the appointment of the State Election Commissioner, consider the following statements:**
-
-1.  The State Election Commissioner is appointed by the Governor of the concerned state.
-
-2.  The conditions of service and tenure of the State Election Commissioner are determined exclusively by the State Legislature through specific enactments.
-
-3.  The State Election Commission is responsible for conducting elections to Panchayats and Municipalities within the state.
+4.  The decentralized and global nature of cryptocurrencies presents significant challenges for national regulatory authorities.
 
 Which of the statements given above is/are correct?
 
-(a) 1 only
+(a) 1 and 2 only
 
-(b) 1 and 3 only
+(b) 2 and 3 only
 
-(c) 2 and 3 only
+(c) 1, 3 and 4 only
 
-(d) 1, 2 and 3
+(d) 1, 2, 3 and 4
 
-**Q8. Consider the recent trends in funding for Indian IT acquisitions:**
+**Q5. Consider the following statements regarding Foreign Portfolio Investments (FPIs) in India:**
 
-1.  A shift towards debt funding for acquisitions in the Indian IT sector indicates a preference for leveraging existing assets rather than diluting equity.
+1.  Foreign Portfolio Investments (FPIs) are generally considered more volatile than Foreign Direct Investments (FDIs) due to their short-term nature and easy liquidity.
 
-2.  Increased reliance on debt funding for acquisitions can potentially expose companies to higher interest rate risks and stricter repayment obligations.
+2.  Equity outflows by FPIs from the domestic market can lead to a depreciation of the local currency and downward pressure on stock prices.
 
-3.  This funding strategy shift primarily reflects a significant decline in foreign direct investment (FDI) inflows into the Indian IT sector.
+3.  A sustained net outflow of FPIs from a country's equity market signifies an improvement in its capital account balance.
 
-Which of the statements given above is/are correct?
-
-(a) 1 only
-
-(b) 2 only
-
-(c) 1 and 2 only
-
-(d) 1, 2 and 3
-
-**Q9. With reference to parliamentary procedures and legislative processes, consider the following statements:**
-
-1.  A 'no-confidence motion' is the constitutionally prescribed method for the Lok Sabha to express lack of confidence in the Council of Ministers headed by the Prime Minister.
-
-2.  A bill proposing a mechanism to 'sack' Prime Ministers or Chief Ministers would likely require a constitutional amendment if it seeks to alter the existing provisions for their removal.
-
-3.  Parliamentary panels, upon adopting a report on a bill, directly send it for Presidential assent to become law, bypassing further parliamentary debate.
+4.  Persistence of debt inflows alongside equity outflows can indicate differentiated investor sentiment towards sovereign bonds versus corporate equities.
 
 Which of the statements given above is/are correct?
 
-(a) 1 only
+(a) 1 and 3 only
 
-(b) 1 and 2 only
+(b) 2, 3 and 4 only
 
-(c) 2 and 3 only
+(c) 1, 2 and 4 only
 
-(d) 1, 2 and 3
+(d) 1, 2, 3 and 4
 
-**Q10. Consider the recent review of India-Malaysia military cooperation:**
+**Q6. With reference to inter-state relations and governance in India, consider the following statements:**
 
-1.  India's engagement with Southeast Asian nations, including Malaysia, is a key component of its 'Act East Policy' for regional stability and economic integration.
+1.  State-specific schemes are designed to address localized issues and often involve direct implementation through local governance bodies at the village level.
 
-2.  The recent review of India-Malaysia military cooperation primarily focused on joint naval exercises in the Malacca Strait to counter piracy.
+2.  The rollout of new initiatives at the village level is consistent with the constitutional principles of decentralized governance and Panchayati Raj institutions.
 
-3.  Bilateral military cooperation often includes aspects like joint training, information exchange, and defense technology transfers between friendly nations.
+3.  Schemes implemented by states, like those in Andhra Pradesh, are exclusively funded by the central government through Centrally Sponsored Schemes.
+
+4.  Effective last-mile delivery mechanisms and community participation are crucial for the successful implementation and impact of village-level development programs.
 
 Which of the statements given above is/are correct?
 
-(a) 1 only
+(a) 1 and 3 only
 
-(b) 1 and 2 only
+(b) 2 and 3 only
 
-(c) 1 and 3 only
+(c) 1, 2 and 4 only
 
-(d) 1, 2 and 3
+(d) 1, 2, 3 and 4
+
+**Q7. Regarding India-Japan bilateral relations and multilateral cooperation, consider the following statements:**
+
+1.  Economic cooperation, including significant investment commitments, forms a foundational aspect of the strategic partnership between India and Japan.
+
+2.  The Quad group, comprising India, Japan, the United States, and Australia, is primarily aimed at enhancing economic integration across the Indo-Pacific region.
+
+3.  Collaboration in emerging technologies like Artificial Intelligence (AI) has become an important dimension of India's partnerships with developed nations.
+
+4.  High-level bilateral meetings often play a critical role in fostering mutual understanding and promoting joint initiatives across various sectors.
+
+Which of the statements given above is/are correct?
+
+(a) 1 and 2 only
+
+(b) 2 and 3 only
+
+(c) 1, 3 and 4 only
+
+(d) 1, 2, 3 and 4
+
+**Q8. With reference to foreign investments and international agreements, consider the following statements:**
+
+1.  Substantial foreign investment commitments, such as those from Japan, can significantly contribute to India's economic growth and infrastructure development.
+
+2.  Memorandums of Cooperation (MoCs) are generally legally binding agreements that commit signatory parties to specific financial targets and timelines.
+
+3.  India's strategy for attracting foreign investments is multi-faceted, encompassing sectors beyond just energy resources.
+
+4.  Collaborations in advanced technological fields like Artificial Intelligence (AI) align with India's broader objectives of technological advancement and self-reliance.
+
+Which of the statements given above is/are correct?
+
+(a) 1 and 2 only
+
+(b) 1, 3 and 4 only
+
+(c) 2, 3 and 4 only
+
+(d) 1, 2, 3 and 4
