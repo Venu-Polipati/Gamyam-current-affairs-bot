@@ -1,55 +1,23 @@
-1. (d)
+1. (a)
 
-Reason: Statement 1 and 2 correctly describe gold's role as a safe-haven and diversification asset for central banks, especially amid geopolitical risks. Statement 3 is a historical fact about the Bretton Woods system.
+Reason: Statement 1, 2, and 3 correctly describe the Indus Water Treaty. Statement 4 is incorrect because while India has asserted suspension or review of the Treaty, a unilateral abrogation is generally not explicitly permitted by specific emergency clauses within the Treaty itself. The Treaty has specific dispute resolution mechanisms but no explicit unilateral exit clause.
 
 2. (c)
 
-Reason: Statement 1 is correct regarding the security of tenure for ECI members. Statement 2 is correct as the conduct of constitutional bodies can be subject to judicial review. Statement 3 is correct, as ECI expenses are charged on the Consolidated Fund of India to ensure financial independence.
+Reason: Statement 1 is correct as WTO principles promote free trade with limited exceptions for tariffs. Statement 2 is incorrect; tariffs, whether based on 'forced labour' or other grounds, are traditional import duties, though 'forced labour' is a non-tariff measure in origin. Statement 3 is correct as India's stance implies a challenge to the legal basis under international trade law. Statement 4 is incorrect; GSP allows developed countries to grant preferential tariffs to developing countries, not the other way around.
 
 3. (a)
 
-Reason: Statement 1 correctly defines a windfall tax as imposed on extraordinary profits from external events. Statement 2 is incorrect because the news explicitly mentions petrol export duty was raised, indicating the tax is also applied to refined petroleum products, not just crude oil producers. Statement 3 is incorrect as the primary objective of a windfall tax is revenue generation, not to disincentivize production.
+Reason: Statement 1 is correct as increased exports lead to higher foreign exchange earnings, potentially improving the current account. Statement 2 is correct as the goal explicitly includes both merchandise and services, and services are a significant export sector for India. Statement 3 is correct as empowering women entrepreneurs leads to economic growth and export diversification. Statement 4 is incorrect; the PLI scheme aims to boost domestic manufacturing, making it globally competitive, which is primarily for export promotion in addition to import substitution.
 
-4. (a)
+4. (b)
 
-Reason: Statement 1 is geographically accurate about the Strait of Hormuz. Statement 2 is correct, as the Strait is crucial for India's oil imports, impacting its energy security. Statement 3 is incorrect; the Strait of Hormuz is an international strait, and international law (UNCLOS) provides for transit passage rights, not exclusive control by any single state as internal waters.
+Reason: Statement 1 is correct as UDAN's core objective is to improve air connectivity to smaller towns using viability gap funding. Statement 2 is correct as enhanced connectivity naturally fosters economic growth. Statement 3 is incorrect; the scheme focuses on both greenfield (new) and brownfield (existing) airport development/upgradation. Statement 4 is correct as such large-scale infrastructure and operational schemes require multi-stakeholder collaboration.
 
-5. (c)
+5. (a)
 
-Reason: Statement 1 correctly describes the purpose of the FCRA in regulating foreign contributions. Statement 2 is incorrect because Overseas Citizen of India (OCI) cardholders are not permitted to acquire agricultural land in India. Statement 3 accurately reflects the objective of the OCI scheme and the e-OCI card system.
+Reason: Statement 1 is correct, UIDAI issues the 12-digit Aadhaar after biometric and demographic enrolment. Statement 2 is incorrect; the Supreme Court has ruled that Aadhaar is not mandatory for all government benefits and services, particularly for private services, and it must be backed by law for government benefits. Statement 3 is correct, as the news states an update for email address, and UIDAI provides online portals for various updates. Statement 4 is incorrect; the Aadhaar Act and Supreme Court judgments have restricted sharing of Aadhaar data, especially biometric data, with private entities for commercial use.
 
-6. (a)
+6. (b)
 
-Reason: Statement 1 is correct; the GST Council is a constitutional body under Article 279A. Statement 2 is correct, as rate reductions can make goods more affordable, leading to increased consumption. Statement 3 is incorrect; GST is an indirect tax and is generally considered proportional or regressive, not progressive like direct income tax.
-
-7. (b)
-
-Reason: Statement 1 is too narrow; inclusive climate action is broader than just technological solutions and encompasses social equity, economic development, and governance. Statement 2 is correct as an integrated approach considers all dimensions for sustainable development. Statement 3 correctly identifies climate justice as a core principle of inclusive climate action.
-
-8. (a)
-
-Reason: Statement 1 correctly defines the purpose of RBI's stress tests. Statement 2 is generally incorrect; "private credit" in the context of banking risk management typically refers to credit extended to the non-financial private sector, including corporations and businesses, not exclusively consumption loans to private individuals. Statement 3 is incorrect because the news explicitly mentioned "gold loan concerns" flagged by the RBI, indicating they are not risk-free.
-
-9. (b)
-
-Reason: Statement 1 is incorrect; a body established by a government resolution is an executive body, not a statutory body, which requires an Act of Parliament. Statement 2 is a correct description of the general function of such a board. Statement 3 is incorrect; not all national boards require parliamentary approval; many are established through executive orders.
-
-10. (d)
-
-Reason: Statement 1 correctly describes the broad objectives of a national AI strategy. Statement 2 is correct, as the IT Act, 2000, is the primary legal framework for cybersecurity in India. Statement 3 correctly identifies that strategic discussions on AI and cybersecurity often involve considerations of external economic dependencies and trade.
-
-11. (d)
-
-Reason: Statement 1 correctly defines the MSP mechanism. Statement 2 reflects plausible policy objectives for reorienting agricultural pricing, balancing inflation control with farmer welfare. Statement 3 is correct, as rain deficits are a known factor that can impact agricultural output and lead to food commodity price increases.
-
-12. (c)
-
-Reason: Statement 1 correctly identifies supply chain disruptions and demand for raw materials as drivers of war-driven commodity inflation. Statement 2 is incorrect because the news explicitly states "prices take time to settle" after significant events, indicating they do not quickly revert to pre-event levels. Statement 3 is correct, as central banks commonly use monetary policy tools like interest rate hikes to manage inflationary pressures.
-
-13. (d)
-
-Reason: Statement 1 correctly defines the role of NDMA as the apex body for disaster management. Statement 2 accurately describes the purpose and legal basis of State Disaster Response Funds (SDRF). Statement 3 is also correct, as visits by Union Ministers for assessment are part of high-level government coordination and response protocols during significant disasters.
-
-14. (b)
-
-Reason: Statement 1 is correct, as consolidation can lead to larger, more resilient banks, potentially enhancing financial stability. Statement 2 is correct; the RBI plays a critical role in regulating and approving such mergers to safeguard the financial system and consumer interests. Statement 3 is incorrect; while regulatory compliance is a factor, the primary drivers for foreign banks exiting retail operations are often strategic shifts, focus on wholesale banking, or profitability challenges, rather than an inability to comply.
+Reason: Statement 1 is incorrect; El Niño is characterized by an abnormal *warming* of surface waters in the central and eastern tropical Pacific Ocean, not cooling. Statement 2 is correct, ENSO is the broader phenomenon. Statement 3 is correct, El Niño significantly impacts global weather patterns. Statement 4 is correct, El Niño is generally associated with weaker monsoons in India.
