@@ -2,78 +2,17 @@
 MCQs
 ━━━━━━━━━━━━━━━
 
-**Q1. Consider the following statements regarding the Indus Water Treaty (IWT):**
+**Q1. Consider the following statements regarding 'Rules of Origin' in international trade agreements:**
 
-1.  The Treaty was brokered by the World Bank and allocates the waters of the Indus river system between India and Pakistan.
+1.  They are criteria used to determine the national source of a product.
 
-2.  Under the Treaty, India has unrestricted use of the eastern rivers (Ravi, Beas, Sutlej) while Pakistan has unrestricted use of the western rivers (Indus, Jhelum, Chenab).
+2.  The implementation of such rules is primarily to ensure that benefits of a Free Trade Agreement (FTA) are limited to goods genuinely produced within the member countries.
 
-3.  The Treaty specifies a dispute resolution mechanism involving a Permanent Indus Commission and a Court of Arbitration.
+3.  The World Trade Organization (WTO) mandates a single, universally applicable set of Rules of Origin for all its member countries.
 
-4.  India's assertion of suspension of the Treaty implies a unilateral abrogation, which is explicitly permitted under specific emergency clauses within the Treaty itself.
+4.  Notification of rules concerning determination of origin is a prerequisite for the operationalization of any bilateral trade pact.
 
-Which of the statements given above is/are correct?
-
-(a) 1, 2 and 3 only
-
-(b) 2 and 3 only
-
-(c) 1 and 4 only
-
-(d) 1, 2, 3 and 4
-
-**Q2. With reference to global trade practices and India's position, consider the following statements:**
-
-1.  The imposition of tariffs by one country on another is generally inconsistent with the principles of the World Trade Organization (WTO) unless specific conditions are met.
-
-2.  The US argument of 'forced labour' as a basis for tariffs against India is primarily a non-tariff barrier, distinct from traditional import duties.
-
-3.  India's contention that the US argument is legally flawed suggests a challenge rooted in international trade law and sovereign economic policy.
-
-4.  The Generalized System of Preferences (GSP) is a mechanism that allows developing countries to impose higher tariffs on goods from developed countries for specified reasons.
-
-Which of the statements given above is/are correct?
-
-(a) 1 and 2 only
-
-(b) 3 and 4 only
-
-(c) 1 and 3 only
-
-(d) 1, 2 and 3
-
-**Q3. India's ambitious $1 trillion export goal by FY26 encompasses a broader vision of economic growth. In this context, consider the following statements:**
-
-1.  Achieving this export goal would significantly improve India's current account deficit by increasing foreign exchange earnings.
-
-2.  The goal includes both merchandise and services trade, with services exports traditionally playing a crucial role in India's global trade.
-
-3.  Promoting women-owned businesses, particularly in regions with noted disparities, could contribute to this export target through enhanced economic participation.
-
-4.  Government initiatives like the Production Linked Incentive (PLI) scheme primarily target import substitution rather than export promotion.
-
-Which of the statements given above is/are correct?
-
-(a) 1, 2 and 3 only
-
-(b) 2 and 4 only
-
-(c) 1, 3 and 4 only
-
-(d) 1, 2, 3 and 4
-
-**Q4. The Modified UDAN scheme, aimed at boosting regional connectivity, operates on several principles. Consider the following statements about such regional connectivity initiatives:**
-
-1.  The scheme seeks to enhance air travel accessibility and affordability in underserved and unserved regions, primarily through viability gap funding.
-
-2.  Increased regional air connectivity is expected to stimulate local economic activities, including tourism and trade, in smaller towns and cities.
-
-3.  The scheme mandates the development of greenfield airports exclusively, ensuring new infrastructure is built from scratch in identified regions.
-
-4.  Operationalization of routes under such schemes often involves collaboration between the central government, state governments, and airport operators.
-
-Which of the statements given above is/are correct?
-
+Which of the statements given above are correct?
 (a) 1, 2 and 3 only
 
 (b) 1, 2 and 4 only
@@ -82,42 +21,211 @@ Which of the statements given above is/are correct?
 
 (d) 1, 2, 3 and 4
 
-**Q5. With regard to digital governance initiatives in India, consider the following statements:**
+**Q2. With reference to the economic impact of Artificial Intelligence (AI) on the labour market, consider the following statements:**
 
-1.  Aadhaar, as a 12-digit unique identification number, is issued by the Unique Identification Authority of India (UIDAI) following a biometric and demographic enrolment process.
+1.  The growth in the AI sector is primarily observed in developed economies, with limited impact on developing nations' labor markets.
 
-2.  The Aadhaar Act, 2016, ensures that the use of Aadhaar for authentication purposes is mandatory for all government benefits and services.
+2.  Increased adoption of AI technologies typically leads to a significant decline in demand for all types of engineering roles across industries.
 
-3.  Updates to Aadhaar details, such as email address or mobile number, can be facilitated through online portals provided by UIDAI.
+3.  The trend of rising pay packages for specific technical roles due to AI adoption can exacerbate existing skill gaps within the workforce.
 
-4.  Aadhaar data, including biometric information, can be shared with private entities for commercial purposes, subject to explicit consent from the individual.
-
-Which of the statements given above is/are correct?
-
-(a) 1 and 3 only
-
-(b) 1, 2 and 3 only
-
-(c) 2 and 4 only
-
-(d) 1, 3 and 4 only
-
-**Q6. El Niño, a significant climate phenomenon, has global implications. Consider the following statements regarding El Niño:**
-
-1.  El Niño is characterized by an abnormal cooling of surface waters in the central and eastern tropical Pacific Ocean, leading to widespread climate anomalies.
-
-2.  It is a component of the broader El Niño-Southern Oscillation (ENSO) cycle, which includes both warm (El Niño) and cold (La Niña) phases.
-
-3.  A rapid development of El Niño, as warned by WMO, could significantly alter global weather patterns, potentially causing droughts in some regions and heavy rainfall in others.
-
-4.  In India, El Niño events are generally associated with a weaker monsoon and increased chances of drought.
+4.  Governments increasingly focus on reskilling and upskilling initiatives to mitigate potential job displacement caused by AI automation.
 
 Which of the statements given above is/are correct?
-
 (a) 1 and 2 only
 
-(b) 2, 3 and 4 only
+(b) 3 and 4 only
+
+(c) 2, 3 and 4 only
+
+(d) 1, 2, 3 and 4
+
+**Q3. Consider the following statements regarding India's export ambitions:**
+
+1.  India's aspiration to achieve a significant export milestone like $1 trillion is solely focused on merchandise exports.
+
+2.  Achieving substantial export growth during periods of global economic turmoil is facilitated by strong global demand and stable supply chains.
+
+3.  Government policies such as the Production Linked Incentive (PLI) scheme primarily aim to boost domestic manufacturing, which indirectly supports exports.
+
+4.  Diversification of export markets and products is considered a crucial strategy for India to enhance its resilience against global economic shocks.
+
+Which of the statements given above are correct?
+(a) 1 and 2 only
+
+(b) 3 and 4 only
 
 (c) 1, 3 and 4 only
 
+(d) 2, 3 and 4 only
+
+**Q4. With respect to India's energy sector and refining capacity, consider the following statements:**
+
+1.  The establishment of large-scale refineries like the HPCL Rajasthan Refinery primarily aims to increase India's crude oil extraction capabilities.
+
+2.  India's strategy of continuously adding refining capacity is unique, contrasting with a global trend of declining or stagnant growth in this sector.
+
+3.  Enhancing domestic refining capacity is crucial for India to achieve greater energy security by reducing its reliance on imported refined petroleum products.
+
+4.  An increase in crude oil refining capacity directly leads to a decrease in India's overall crude oil import bill.
+
+Which of the statements given above are correct?
+(a) 1 and 4 only
+
+(b) 2 and 3 only
+
+(c) 1, 2 and 3 only
+
+(d) 2, 3 and 4 only
+
+**Q5. Consider the following statements regarding India's efforts in electronics manufacturing:**
+
+1.  India has emerged as the world's second-largest phone manufacturing country, primarily driven by indigenous intellectual property development.
+
+2.  The 'Make in India' initiative plays a significant role in promoting domestic phone manufacturing by encouraging both local and foreign companies to set up production units.
+
+3.  The government's electronics roadmap focuses exclusively on increasing the assembly of imported components, with limited emphasis on localizing component manufacturing.
+
+4.  Incentives like the Production Linked Incentive (PLI) scheme for large scale electronics manufacturing aim to boost India's competitive edge in global value chains.
+
+Which of the statements given above is/are correct?
+(a) 1 and 3 only
+
+(b) 2 and 4 only
+
+(c) 1, 2 and 4 only
+
+(d) 2, 3 and 4 only
+
+**Q6. With reference to E20 fuel and India's biofuel policy, consider the following statements:**
+
+1.  E20 fuel refers to a blend of 20% ethanol with 80% petrol, aiming to reduce dependence on fossil fuels.
+
+2.  The primary source for ethanol production in India for fuel blending is typically sugarcane molasses, alongside other agricultural waste.
+
+3.  Widespread adoption of E20 fuel is projected to cause significant and irreversible damage to all categories of vehicle engines currently in use in India.
+
+4.  India's promotion of E20 and other biofuel initiatives contributes to its commitments under the Paris Agreement on climate change.
+
+Which of the statements given above are correct?
+(a) 1 and 3 only
+
+(b) 2 and 4 only
+
+(c) 1, 2 and 4 only
+
 (d) 1, 2, 3 and 4
+
+**Q7. Consider the following statements regarding the Monsoon Session of the Indian Parliament:**
+
+1.  The Indian Constitution mandates at least three sessions of Parliament in a year, namely the Budget, Monsoon, and Winter sessions.
+
+2.  The Monsoon Session is typically convened to discuss and pass financial legislations, including the annual budget.
+
+3.  Bills introduced and not passed during one session lapse automatically with the prorogation of that session, unless it is a Money Bill.
+
+4.  The government's legislative agenda during a parliamentary session often involves pushing critical bills for debate and enactment.
+
+Which of the statements given above is/are correct?
+(a) 1 and 3 only
+
+(b) 2 and 4 only
+
+(c) 4 only
+
+(d) 1, 2 and 4 only
+
+**Q8. With reference to the tagging of individuals as terrorists in India, consider the following statements:**
+
+1.  The Unlawful Activities (Prevention) Act (UAPA) allows the central government to designate an individual as a terrorist.
+
+2.  Such designation can only be applied to foreign nationals suspected of involvement in terrorist activities against India.
+
+3.  The Ministry of Home Affairs (MHA) is the nodal ministry responsible for implementing provisions related to individual terrorist tagging.
+
+4.  Once designated, an individual cannot challenge this status in any court of law in India.
+
+Which of the statements given above is/are correct?
+(a) 1 and 2 only
+
+(b) 1 and 3 only
+
+(c) 2 and 4 only
+
+(d) 3 and 4 only
+
+**Q9. Consider the following statements regarding India's high-speed rail projects:**
+
+1.  The Mumbai-Ahmedabad High-Speed Rail is significant as it represents India's first operational high-speed rail service.
+
+2.  Such large-scale infrastructure projects are primarily funded through private sector investments to minimize government financial burden.
+
+3.  High-speed rail corridors are envisioned to foster regional economic development by enhancing connectivity and reducing travel time.
+
+4.  Achieving the target completion date for major infrastructure projects like high-speed rail in India has historically been straightforward and without significant delays.
+
+Which of the statements given above are correct?
+(a) 1 and 2 only
+
+(b) 3 only
+
+(c) 1, 3 and 4 only
+
+(d) 2 and 4 only
+
+**Q10. With reference to India's foreign policy objectives and its engagement with multilateral institutions, consider the following statements:**
+
+1.  India's multi-country ministerial visits are exclusively aimed at fostering bilateral economic cooperation and trade agreements.
+
+2.  The campaign for a permanent seat in the United Nations Security Council (UNSC) is a long-standing aspiration of India's foreign policy.
+
+3.  India's engagement in multilateral forums primarily serves to promote its soft power and cultural diplomacy rather than strategic interests.
+
+4.  Strengthening bilateral ties with diverse countries is a core strategy for India to build consensus and support for its global aspirations.
+
+Which of the statements given above are correct?
+(a) 1 and 3 only
+
+(b) 2 and 4 only
+
+(c) 1, 2 and 4 only
+
+(d) 2, 3 and 4 only
+
+**Q11. Consider the following statements regarding e-challan systems and digital public services in India:**
+
+1.  The e-challan system aims to enhance transparency and efficiency in the enforcement of traffic rules through digital means.
+
+2.  Waivers and fine reductions in e-challan cases are primarily offered through traditional Lok Adalat mechanisms, without digital integration.
+
+3.  Digital public services like e-challan settlements contribute to reducing the burden on conventional judicial processes by offering alternative resolution mechanisms.
+
+4.  The success of digital public services critically depends on widespread digital literacy and internet penetration among the general population.
+
+Which of the statements given above are correct?
+(a) 1 and 2 only
+
+(b) 1, 3 and 4 only
+
+(c) 2 and 3 only
+
+(d) 1, 2, 3 and 4
+
+**Q12. With reference to government interventions in agricultural markets for farmer support, consider the following statements:**
+
+1.  The Centre's decision to raise onion procurement prices is an example of Minimum Support Price (MSP) being declared for horticultural crops.
+
+2.  Such procurement measures are primarily intended to protect farmers from distress sales and stabilize market prices.
+
+3.  Buffer stocks created through procurement help manage price volatility for essential commodities in the consumer market.
+
+4.  The Price Stabilization Fund (PSF) is utilized to manage the prices of perishable agricultural and horticultural commodities, including onions.
+
+Which of the statements given above are correct?
+(a) 1 and 2 only
+
+(b) 2 and 3 only
+
+(c) 2, 3 and 4 only
+
+(d) 1, 3 and 4 only
