@@ -2,230 +2,218 @@
 MCQs
 ━━━━━━━━━━━━━━━
 
-**Q1. Consider the following statements regarding 'Rules of Origin' in international trade agreements:**
+**Q1. Consider the following statements regarding Syama Prasad Mookerjee:**
 
-1.  They are criteria used to determine the national source of a product.
+1.  He was the founder of the Bharatiya Jana Sangh, an organization that emerged as a significant political voice in post-independence India.
 
-2.  The implementation of such rules is primarily to ensure that benefits of a Free Trade Agreement (FTA) are limited to goods genuinely produced within the member countries.
+2.  His political ideology primarily focused on strengthening regional autonomy, advocating for greater devolution of powers to states.
 
-3.  The World Trade Organization (WTO) mandates a single, universally applicable set of Rules of Origin for all its member countries.
-
-4.  Notification of rules concerning determination of origin is a prerequisite for the operationalization of any bilateral trade pact.
-
-Which of the statements given above are correct?
-(a) 1, 2 and 3 only
-
-(b) 1, 2 and 4 only
-
-(c) 3 and 4 only
-
-(d) 1, 2, 3 and 4
-
-**Q2. With reference to the economic impact of Artificial Intelligence (AI) on the labour market, consider the following statements:**
-
-1.  The growth in the AI sector is primarily observed in developed economies, with limited impact on developing nations' labor markets.
-
-2.  Increased adoption of AI technologies typically leads to a significant decline in demand for all types of engineering roles across industries.
-
-3.  The trend of rising pay packages for specific technical roles due to AI adoption can exacerbate existing skill gaps within the workforce.
-
-4.  Governments increasingly focus on reskilling and upskilling initiatives to mitigate potential job displacement caused by AI automation.
+3.  He played a crucial role in advocating for the complete integration of Jammu and Kashmir into the Indian Union.
 
 Which of the statements given above is/are correct?
-(a) 1 and 2 only
 
-(b) 3 and 4 only
-
-(c) 2, 3 and 4 only
-
-(d) 1, 2, 3 and 4
-
-**Q3. Consider the following statements regarding India's export ambitions:**
-
-1.  India's aspiration to achieve a significant export milestone like $1 trillion is solely focused on merchandise exports.
-
-2.  Achieving substantial export growth during periods of global economic turmoil is facilitated by strong global demand and stable supply chains.
-
-3.  Government policies such as the Production Linked Incentive (PLI) scheme primarily aim to boost domestic manufacturing, which indirectly supports exports.
-
-4.  Diversification of export markets and products is considered a crucial strategy for India to enhance its resilience against global economic shocks.
-
-Which of the statements given above are correct?
-(a) 1 and 2 only
-
-(b) 3 and 4 only
-
-(c) 1, 3 and 4 only
-
-(d) 2, 3 and 4 only
-
-**Q4. With respect to India's energy sector and refining capacity, consider the following statements:**
-
-1.  The establishment of large-scale refineries like the HPCL Rajasthan Refinery primarily aims to increase India's crude oil extraction capabilities.
-
-2.  India's strategy of continuously adding refining capacity is unique, contrasting with a global trend of declining or stagnant growth in this sector.
-
-3.  Enhancing domestic refining capacity is crucial for India to achieve greater energy security by reducing its reliance on imported refined petroleum products.
-
-4.  An increase in crude oil refining capacity directly leads to a decrease in India's overall crude oil import bill.
-
-Which of the statements given above are correct?
-(a) 1 and 4 only
-
-(b) 2 and 3 only
-
-(c) 1, 2 and 3 only
-
-(d) 2, 3 and 4 only
-
-**Q5. Consider the following statements regarding India's efforts in electronics manufacturing:**
-
-1.  India has emerged as the world's second-largest phone manufacturing country, primarily driven by indigenous intellectual property development.
-
-2.  The 'Make in India' initiative plays a significant role in promoting domestic phone manufacturing by encouraging both local and foreign companies to set up production units.
-
-3.  The government's electronics roadmap focuses exclusively on increasing the assembly of imported components, with limited emphasis on localizing component manufacturing.
-
-4.  Incentives like the Production Linked Incentive (PLI) scheme for large scale electronics manufacturing aim to boost India's competitive edge in global value chains.
-
-Which of the statements given above is/are correct?
-(a) 1 and 3 only
-
-(b) 2 and 4 only
-
-(c) 1, 2 and 4 only
-
-(d) 2, 3 and 4 only
-
-**Q6. With reference to E20 fuel and India's biofuel policy, consider the following statements:**
-
-1.  E20 fuel refers to a blend of 20% ethanol with 80% petrol, aiming to reduce dependence on fossil fuels.
-
-2.  The primary source for ethanol production in India for fuel blending is typically sugarcane molasses, alongside other agricultural waste.
-
-3.  Widespread adoption of E20 fuel is projected to cause significant and irreversible damage to all categories of vehicle engines currently in use in India.
-
-4.  India's promotion of E20 and other biofuel initiatives contributes to its commitments under the Paris Agreement on climate change.
-
-Which of the statements given above are correct?
-(a) 1 and 3 only
-
-(b) 2 and 4 only
-
-(c) 1, 2 and 4 only
-
-(d) 1, 2, 3 and 4
-
-**Q7. Consider the following statements regarding the Monsoon Session of the Indian Parliament:**
-
-1.  The Indian Constitution mandates at least three sessions of Parliament in a year, namely the Budget, Monsoon, and Winter sessions.
-
-2.  The Monsoon Session is typically convened to discuss and pass financial legislations, including the annual budget.
-
-3.  Bills introduced and not passed during one session lapse automatically with the prorogation of that session, unless it is a Money Bill.
-
-4.  The government's legislative agenda during a parliamentary session often involves pushing critical bills for debate and enactment.
-
-Which of the statements given above is/are correct?
-(a) 1 and 3 only
-
-(b) 2 and 4 only
-
-(c) 4 only
-
-(d) 1, 2 and 4 only
-
-**Q8. With reference to the tagging of individuals as terrorists in India, consider the following statements:**
-
-1.  The Unlawful Activities (Prevention) Act (UAPA) allows the central government to designate an individual as a terrorist.
-
-2.  Such designation can only be applied to foreign nationals suspected of involvement in terrorist activities against India.
-
-3.  The Ministry of Home Affairs (MHA) is the nodal ministry responsible for implementing provisions related to individual terrorist tagging.
-
-4.  Once designated, an individual cannot challenge this status in any court of law in India.
-
-Which of the statements given above is/are correct?
 (a) 1 and 2 only
 
 (b) 1 and 3 only
 
-(c) 2 and 4 only
+(c) 2 and 3 only
 
-(d) 3 and 4 only
+(d) 1, 2 and 3
 
-**Q9. Consider the following statements regarding India's high-speed rail projects:**
+**Q2. With reference to India’s E20 petrol policy, consider the following statements:**
 
-1.  The Mumbai-Ahmedabad High-Speed Rail is significant as it represents India's first operational high-speed rail service.
+1.  The policy aims to reduce India's reliance on fossil fuel imports and contribute to its climate change mitigation goals.
 
-2.  Such large-scale infrastructure projects are primarily funded through private sector investments to minimize government financial burden.
+2.  Concerns have been raised regarding potential mileage loss and engine compatibility issues in certain vehicle types with the use of E20 petrol.
 
-3.  High-speed rail corridors are envisioned to foster regional economic development by enhancing connectivity and reducing travel time.
+3.  The Centre has officially proposed the export of E20 blended petrol to neighboring countries as part of its energy diplomacy.
 
-4.  Achieving the target completion date for major infrastructure projects like high-speed rail in India has historically been straightforward and without significant delays.
+Which of the statements given above is/are correct?
 
-Which of the statements given above are correct?
-(a) 1 and 2 only
+(a) 1 only
 
-(b) 3 only
-
-(c) 1, 3 and 4 only
-
-(d) 2 and 4 only
-
-**Q10. With reference to India's foreign policy objectives and its engagement with multilateral institutions, consider the following statements:**
-
-1.  India's multi-country ministerial visits are exclusively aimed at fostering bilateral economic cooperation and trade agreements.
-
-2.  The campaign for a permanent seat in the United Nations Security Council (UNSC) is a long-standing aspiration of India's foreign policy.
-
-3.  India's engagement in multilateral forums primarily serves to promote its soft power and cultural diplomacy rather than strategic interests.
-
-4.  Strengthening bilateral ties with diverse countries is a core strategy for India to build consensus and support for its global aspirations.
-
-Which of the statements given above are correct?
-(a) 1 and 3 only
-
-(b) 2 and 4 only
-
-(c) 1, 2 and 4 only
-
-(d) 2, 3 and 4 only
-
-**Q11. Consider the following statements regarding e-challan systems and digital public services in India:**
-
-1.  The e-challan system aims to enhance transparency and efficiency in the enforcement of traffic rules through digital means.
-
-2.  Waivers and fine reductions in e-challan cases are primarily offered through traditional Lok Adalat mechanisms, without digital integration.
-
-3.  Digital public services like e-challan settlements contribute to reducing the burden on conventional judicial processes by offering alternative resolution mechanisms.
-
-4.  The success of digital public services critically depends on widespread digital literacy and internet penetration among the general population.
-
-Which of the statements given above are correct?
-(a) 1 and 2 only
-
-(b) 1, 3 and 4 only
+(b) 1 and 2 only
 
 (c) 2 and 3 only
 
-(d) 1, 2, 3 and 4
+(d) 1, 2 and 3
 
-**Q12. With reference to government interventions in agricultural markets for farmer support, consider the following statements:**
+**Q3. Consider the following statements regarding the Foreign Contribution (Regulation) Act (FCRA) in India:**
 
-1.  The Centre's decision to raise onion procurement prices is an example of Minimum Support Price (MSP) being declared for horticultural crops.
+1.  The FCRA primarily seeks to regulate the acceptance and utilization of foreign contributions by individuals and associations within India.
 
-2.  Such procurement measures are primarily intended to protect farmers from distress sales and stabilize market prices.
+2.  A significant majority, over 70%, of registered Non-Governmental Organizations (NGOs) in India are currently active under the FCRA framework.
 
-3.  Buffer stocks created through procurement help manage price volatility for essential commodities in the consumer market.
+3.  The Act ensures that foreign contributions are utilized exclusively for humanitarian aid activities, prohibiting their use in other sectors.
 
-4.  The Price Stabilization Fund (PSF) is utilized to manage the prices of perishable agricultural and horticultural commodities, including onions.
+Which of the statements given above is/are correct?
 
-Which of the statements given above are correct?
+(a) 1 only
+
+(b) 1 and 2 only
+
+(c) 2 and 3 only
+
+(d) 1, 2 and 3
+
+**Q4. With reference to the application of Artificial Intelligence (AI) tools in public services, consider the following statements:**
+
+1.  AI-powered tracing tools for missing persons can enhance identification accuracy and potentially reduce response times by analyzing vast datasets.
+
+2.  The implementation of such tools often necessitates robust legal and ethical frameworks to address concerns related to data privacy and potential algorithmic bias.
+
+3.  These tools exclusively rely on biometric data for identification, thereby completely replacing traditional investigative methods.
+
+Which of the statements given above is/are correct?
+
+(a) 1 only
+
+(b) 2 only
+
+(c) 1 and 2 only
+
+(d) 1, 2 and 3
+
+**Q5. Consider the following statements concerning global energy dynamics and India's energy security:**
+
+1.  The Strait of Hormuz is a critical maritime choke point, through which a significant portion of the world's crude oil supply transits.
+
+2.  OPEC+ decisions on oil output adjustments directly influence global crude oil prices, thereby impacting the fiscal health of major oil-importing nations like India.
+
+3.  India's recent strategy to enhance natural gas imports from the US exclusively aims to reduce its reliance on Middle Eastern oil suppliers.
+
+Which of the statements given above is/are correct?
+
+(a) 1 only
+
+(b) 2 and 3 only
+
+(c) 1 and 2 only
+
+(d) 1, 2 and 3
+
+**Q6. With reference to India's Information Technology (IT) sector, consider the following statements:**
+
+1.  The recent muted performance of top Indian IT firms can be solely attributed to a global economic slowdown, with no impact from technological shifts.
+
+2.  Despite significant investments in Artificial Intelligence (AI), its adoption by client companies is yet to translate into immediate, substantial revenue growth for IT service providers.
+
+3.  India's IT services sector is predominantly export-oriented, making it sensitive to international economic conditions.
+
+Which of the statements given above is/are correct?
+
 (a) 1 and 2 only
 
 (b) 2 and 3 only
 
-(c) 2, 3 and 4 only
+(c) 1 and 3 only
 
-(d) 1, 3 and 4 only
+(d) 1, 2 and 3
+
+**Q7. Consider the following statements regarding urban consumer spending patterns in India:**
+
+1.  The observation that urban buyers allocate two-thirds of their weekly expenditure to weekend spending indicates a high propensity for discretionary consumption.
+
+2.  This spending pattern suggests a primary focus on essential goods and services during weekends, driven by leisure and convenience.
+
+3.  Such aggregated data on consumer behavior can be a valuable indicator for policymakers to assess economic health and for businesses to refine market strategies.
+
+Which of the statements given above is/are correct?
+
+(a) 1 only
+
+(b) 2 and 3 only
+
+(c) 1 and 3 only
+
+(d) 1, 2 and 3
+
+**Q8. With reference to India's defence manufacturing sector, consider the following statements:**
+
+1.  The establishment of new defence production facilities is in line with the 'Atmanirbhar Bharat' initiative, aiming for self-reliance in defence.
+
+2.  Private sector participation in India's defence production is primarily restricted to manufacturing ancillary components, with limited involvement in full-scale system development.
+
+3.  Investments in indigenous defence production units are intended to reduce import dependence and bolster domestic research and development capabilities.
+
+Which of the statements given above is/are correct?
+
+(a) 1 and 2 only
+
+(b) 1 and 3 only
+
+(c) 2 and 3 only
+
+(d) 1, 2 and 3
+
+**Q9. Consider the following statements regarding the global landscape of Artificial Intelligence (AI) development:**
+
+1.  The emergence of advanced indigenous AI models like China's Z.ai signifies an intensifying global competition in the field of artificial intelligence.
+
+2.  OpenAI and Anthropic are prominent AI research organizations known for their foundational work in developing large language models.
+
+3.  The primary objective of Z.ai is to offer open-source AI models, ensuring universal access to its technology for developers worldwide without any restrictions.
+
+Which of the statements given above is/are correct?
+
+(a) 1 only
+
+(b) 2 only
+
+(c) 1 and 2 only
+
+(d) 1, 2 and 3
+
+**Q10. With reference to the Office of the United States Trade Representative (USTR), consider the following statements:**
+
+1.  The USTR is a cabinet-level agency responsible for developing and coordinating U.S. international trade policy and negotiating trade agreements.
+
+2.  A USTR probe action against a country typically involves an investigation into trade practices deemed unfair or harmful to U.S. commercial interests.
+
+3.  Such USTR probes are exclusively conducted under the formal dispute settlement mechanisms of the World Trade Organization (WTO).
+
+Which of the statements given above is/are correct?
+
+(a) 1 only
+
+(b) 2 only
+
+(c) 1 and 2 only
+
+(d) 1, 2 and 3
+
+**Q11. Consider the following statements regarding Digital Public Infrastructure (DPI) and India's digital blueprint:**
+
+1.  Digital Public Infrastructure (DPI) refers to shared digital systems, such as identity, payments, and data exchange, that are essential for the functioning of societies.
+
+2.  India's digital blueprint, exemplified by platforms like UPI and Aadhaar, has primarily focused on extending financial inclusion to urban populations.
+
+3.  The increasing interest of other nations, such as Indonesia, in adopting India's digital blueprint highlights its potential for fostering cross-border digital economy and services.
+
+Which of the statements given above is/are correct?
+
+(a) 1 only
+
+(b) 1 and 2 only
+
+(c) 1 and 3 only
+
+(d) 1, 2 and 3
+
+**Q12. With reference to India's maternal health initiatives, consider the following statements:**
+
+1.  Efforts in maternal health aim to reduce the Maternal Mortality Ratio (MMR) and improve overall health outcomes for pregnant women and newborns.
+
+2.  The identification of a "missing link" and policy gaps suggests that existing interventions are already comprehensively addressing all aspects of maternal care.
+
+3.  Government programs such as Janani Shishu Suraksha Karyakram are instrumental in enhancing access to maternal and child health services across the country.
+
+Which of the statements given above is/are correct?
+
+(a) 1 only
+
+(b) 1 and 2 only
+
+(c) 1 and 3 only
+
+(d) 1, 2 and 3
