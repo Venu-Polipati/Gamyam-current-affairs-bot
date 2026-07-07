@@ -2,17 +2,53 @@
 MCQs
 ━━━━━━━━━━━━━━━
 
-**Q1. Consider the following statements regarding Syama Prasad Mookerjee:**
+**Q1. Consider the following statements regarding the Ethanol Blending Programme (EBP) in India:**
 
-1.  He was the founder of the Bharatiya Jana Sangh, an organization that emerged as a significant political voice in post-independence India.
+1.  The E20 fuel, which contains 20% ethanol, is primarily intended for vehicles designed to run on E10 fuel without any modifications.
 
-2.  His political ideology primarily focused on strengthening regional autonomy, advocating for greater devolution of powers to states.
+2.  A key objective of the Ethanol Blending Programme is to enhance India's energy security by reducing dependence on crude oil imports.
 
-3.  He played a crucial role in advocating for the complete integration of Jammu and Kashmir into the Indian Union.
+3.  The use of E20 fuel in older vehicles designed for E10 or lower blends may lead to material degradation, particularly of rubber components.
 
 Which of the statements given above is/are correct?
 
 (a) 1 and 2 only
+
+(b) 2 and 3 only
+
+(c) 1 and 3 only
+
+(d) 1, 2 and 3
+
+**Q2. With reference to the recent increase in non-petrol/diesel vehicle sales and energy imports, consider the following statements:**
+
+1.  The combined sales share of Compressed Natural Gas (CNG) and Electric Vehicles (EVs) recently reached a record 40% in the Indian market.
+
+2.  A significant rise in domestic LPG demand, leading to increased imports, can potentially improve India's Current Account Deficit.
+
+3.  The doubling of LPG imports from the United States indicates a strategic diversification of India's energy import basket.
+
+Which of the statements given above is/are correct?
+
+(a) 1 only
+
+(b) 1 and 2 only
+
+(c) 1 and 3 only
+
+(d) 2 and 3 only
+
+**Q3. Consider the following statements with respect to India's regulatory framework for digital platforms:**
+
+1.  The government's recent notice to WhatsApp regarding its username policy falls under the purview of the Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021.
+
+2.  Under these rules, social media intermediaries are typically given a minimum of seven days to respond to government notices concerning policy violations.
+
+3.  The primary objective of such governmental interventions is to ensure data localization and prevent cross-border data flows.
+
+Which of the statements given above is/are correct?
+
+(a) 1 only
 
 (b) 1 and 3 only
 
@@ -20,31 +56,13 @@ Which of the statements given above is/are correct?
 
 (d) 1, 2 and 3
 
-**Q2. With reference to India’s E20 petrol policy, consider the following statements:**
+**Q4. With reference to the Waqf Boards in India, consider the following statements:**
 
-1.  The policy aims to reduce India's reliance on fossil fuel imports and contribute to its climate change mitigation goals.
+1.  Waqf Boards are statutory bodies established under the provisions of the Waqf Act.
 
-2.  Concerns have been raised regarding potential mileage loss and engine compatibility issues in certain vehicle types with the use of E20 petrol.
+2.  The recent reconstitution of the Madhya Pradesh Waqf Board mandates the inclusion of members from non-Islamic faiths.
 
-3.  The Centre has officially proposed the export of E20 blended petrol to neighboring countries as part of its energy diplomacy.
-
-Which of the statements given above is/are correct?
-
-(a) 1 only
-
-(b) 1 and 2 only
-
-(c) 2 and 3 only
-
-(d) 1, 2 and 3
-
-**Q3. Consider the following statements regarding the Foreign Contribution (Regulation) Act (FCRA) in India:**
-
-1.  The FCRA primarily seeks to regulate the acceptance and utilization of foreign contributions by individuals and associations within India.
-
-2.  A significant majority, over 70%, of registered Non-Governmental Organizations (NGOs) in India are currently active under the FCRA framework.
-
-3.  The Act ensures that foreign contributions are utilized exclusively for humanitarian aid activities, prohibiting their use in other sectors.
+3.  The administration of Waqf properties is entirely governed by the customs and personal laws of the Muslim community, without any state oversight.
 
 Which of the statements given above is/are correct?
 
@@ -56,13 +74,13 @@ Which of the statements given above is/are correct?
 
 (d) 1, 2 and 3
 
-**Q4. With reference to the application of Artificial Intelligence (AI) tools in public services, consider the following statements:**
+**Q5. Consider the following statements regarding India's engagements with Southeast Asian nations:**
 
-1.  AI-powered tracing tools for missing persons can enhance identification accuracy and potentially reduce response times by analyzing vast datasets.
+1.  Prime Minister Modi's recent visit to Indonesia specifically focused on enhancing bilateral cooperation in defence.
 
-2.  The implementation of such tools often necessitates robust legal and ethical frameworks to address concerns related to data privacy and potential algorithmic bias.
+2.  Ensuring resilient supply chains for critical minerals was a key agenda item during the Prime Minister's visit to Indonesia.
 
-3.  These tools exclusively rely on biometric data for identification, thereby completely replacing traditional investigative methods.
+3.  Indonesia is a founding member of the Association of Southeast Asian Nations (ASEAN) and plays a crucial role in India's 'Act East Policy'.
 
 Which of the statements given above is/are correct?
 
@@ -74,71 +92,147 @@ Which of the statements given above is/are correct?
 
 (d) 1, 2 and 3
 
-**Q5. Consider the following statements concerning global energy dynamics and India's energy security:**
+**Q6. With reference to Public Sector Oil Marketing Companies (OMCs) in India, consider the following statements:**
 
-1.  The Strait of Hormuz is a critical maritime choke point, through which a significant portion of the world's crude oil supply transits.
+1.  Oil Marketing Companies in India traditionally operated under a full deregulation model for petrol and diesel prices until recently.
 
-2.  OPEC+ decisions on oil output adjustments directly influence global crude oil prices, thereby impacting the fiscal health of major oil-importing nations like India.
+2.  Relief from high international crude oil prices is essential for OMCs to achieve a break-even point on petrol and diesel retail rates.
 
-3.  India's recent strategy to enhance natural gas imports from the US exclusively aims to reduce its reliance on Middle Eastern oil suppliers.
+3.  The government historically issued 'oil bonds' to OMCs to compensate them for selling fuel below market prices.
+
+Which of the statements given above is/are correct?
+
+(a) 1 and 2 only
+
+(b) 2 and 3 only
+
+(c) 1 and 3 only
+
+(d) 1, 2 and 3
+
+**Q7. Consider the following statements about worker welfare and international maritime standards:**
+
+1.  The mandatory yoga training for Indian seafarers is an initiative aligned with international conventions promoting mental and physical wellness for maritime workers.
+
+2.  The International Labour Organization's Maritime Labour Convention (MLC) 2006, often known as the 'Seafarers' Bill of Rights', covers aspects of seafarers' working and living conditions.
+
+3.  The wellness program for seafarers is exclusively focused on physical health, neglecting mental health aspects.
+
+Which of the statements given above is/are correct?
+
+(a) 1 and 2 only
+
+(b) 2 only
+
+(c) 1 and 3 only
+
+(d) 1, 2 and 3
+
+**Q8. Consider the following statements concerning new rural employment schemes in India:**
+
+1.  A newly launched rural employment scheme prioritizes water security initiatives as a core component of its work.
+
+2.  Unlike the Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA), the new scheme focuses solely on asset creation and does not involve demand-driven wage employment.
+
+3.  Such schemes contribute to local climate resilience by promoting decentralized water conservation efforts.
 
 Which of the statements given above is/are correct?
 
 (a) 1 only
 
-(b) 2 and 3 only
+(b) 1 and 2 only
+
+(c) 1 and 3 only
+
+(d) 2 and 3 only
+
+**Q9. Regarding India's diplomatic responses and territorial integrity, consider the following statements:**
+
+1.  An Indian diplomat lodged a protest at a seminar in Dhaka over the erroneous depiction of Jammu & Kashmir on a map.
+
+2.  Such diplomatic protests are primarily aimed at upholding India's sovereignty and territorial integrity under international law.
+
+3.  India considers Jammu & Kashmir as an integral part of its territory, a position consistently reiterated in its foreign policy.
+
+Which of the statements given above is/are correct?
+
+(a) 1 only
+
+(b) 2 only
 
 (c) 1 and 2 only
 
 (d) 1, 2 and 3
 
-**Q6. With reference to India's Information Technology (IT) sector, consider the following statements:**
+**Q10. With reference to India's capital markets and regulatory bodies, consider the following statements:**
 
-1.  The recent muted performance of top Indian IT firms can be solely attributed to a global economic slowdown, with no impact from technological shifts.
+1.  An Initial Public Offering (IPO) is a process through which private companies offer shares to the public for the first time, primarily to raise capital.
 
-2.  Despite significant investments in Artificial Intelligence (AI), its adoption by client companies is yet to translate into immediate, substantial revenue growth for IT service providers.
+2.  The Securities and Exchange Board of India (SEBI) is the statutory regulatory body responsible for approving IPO applications in India.
 
-3.  India's IT services sector is predominantly export-oriented, making it sensitive to international economic conditions.
-
-Which of the statements given above is/are correct?
-
-(a) 1 and 2 only
-
-(b) 2 and 3 only
-
-(c) 1 and 3 only
-
-(d) 1, 2 and 3
-
-**Q7. Consider the following statements regarding urban consumer spending patterns in India:**
-
-1.  The observation that urban buyers allocate two-thirds of their weekly expenditure to weekend spending indicates a high propensity for discretionary consumption.
-
-2.  This spending pattern suggests a primary focus on essential goods and services during weekends, driven by leisure and convenience.
-
-3.  Such aggregated data on consumer behavior can be a valuable indicator for policymakers to assess economic health and for businesses to refine market strategies.
+3.  An IPO valued at ₹8,000 crore would typically be considered a small-cap offering in the Indian equity market.
 
 Which of the statements given above is/are correct?
 
 (a) 1 only
 
+(b) 1 and 2 only
+
+(c) 2 and 3 only
+
+(d) 1, 2 and 3
+
+━━━━━━━━━━━━━━━
+MCQs
+━━━━━━━━━━━━━━━
+
+**Q1. Consider the following statements regarding the Ethanol Blending Programme (EBP) in India:**
+
+1.  The E20 fuel, which contains 20% ethanol, is primarily intended for vehicles designed to run on E10 fuel without any modifications.
+
+2.  A key objective of the Ethanol Blending Programme is to enhance India's energy security by reducing dependence on crude oil imports.
+
+3.  The use of E20 fuel in older vehicles designed for E10 or lower blends may lead to material degradation, particularly of rubber components.
+
+Which of the statements given above is/are correct?
+
+(a) 1 and 2 only
+
 (b) 2 and 3 only
 
 (c) 1 and 3 only
 
 (d) 1, 2 and 3
 
-**Q8. With reference to India's defence manufacturing sector, consider the following statements:**
+**Q2. With reference to the recent increase in non-petrol/diesel vehicle sales and energy imports, consider the following statements:**
 
-1.  The establishment of new defence production facilities is in line with the 'Atmanirbhar Bharat' initiative, aiming for self-reliance in defence.
+1.  The combined sales share of Compressed Natural Gas (CNG) and Electric Vehicles (EVs) recently reached a record 40% in the Indian market.
 
-2.  Private sector participation in India's defence production is primarily restricted to manufacturing ancillary components, with limited involvement in full-scale system development.
+2.  A significant rise in domestic LPG demand, leading to increased imports, can potentially improve India's Current Account Deficit.
 
-3.  Investments in indigenous defence production units are intended to reduce import dependence and bolster domestic research and development capabilities.
+3.  The doubling of LPG imports from the United States indicates a strategic diversification of India's energy import basket.
 
 Which of the statements given above is/are correct?
 
-(a) 1 and 2 only
+(a) 1 only
+
+(b) 1 and 2 only
+
+(c) 1 and 3 only
+
+(d) 2 and 3 only
+
+**Q3. Consider the following statements with respect to India's regulatory framework for digital platforms:**
+
+1.  The government's recent notice to WhatsApp regarding its username policy falls under the purview of the Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021.
+
+2.  Under these rules, social media intermediaries are typically given a minimum of seven days to respond to government notices concerning policy violations.
+
+3.  The primary objective of such governmental interventions is to ensure data localization and prevent cross-border data flows.
+
+Which of the statements given above is/are correct?
+
+(a) 1 only
 
 (b) 1 and 3 only
 
@@ -146,13 +240,31 @@ Which of the statements given above is/are correct?
 
 (d) 1, 2 and 3
 
-**Q9. Consider the following statements regarding the global landscape of Artificial Intelligence (AI) development:**
+**Q4. With reference to the Waqf Boards in India, consider the following statements:**
 
-1.  The emergence of advanced indigenous AI models like China's Z.ai signifies an intensifying global competition in the field of artificial intelligence.
+1.  Waqf Boards are statutory bodies established under the provisions of the Waqf Act.
 
-2.  OpenAI and Anthropic are prominent AI research organizations known for their foundational work in developing large language models.
+2.  The recent reconstitution of the Madhya Pradesh Waqf Board mandates the inclusion of members from non-Islamic faiths.
 
-3.  The primary objective of Z.ai is to offer open-source AI models, ensuring universal access to its technology for developers worldwide without any restrictions.
+3.  The administration of Waqf properties is entirely governed by the customs and personal laws of the Muslim community, without any state oversight.
+
+Which of the statements given above is/are correct?
+
+(a) 1 only
+
+(b) 1 and 2 only
+
+(c) 2 and 3 only
+
+(d) 1, 2 and 3
+
+**Q5. Consider the following statements regarding India's engagements with Southeast Asian nations:**
+
+1.  Prime Minister Modi's recent visit to Indonesia specifically focused on enhancing bilateral cooperation in defence.
+
+2.  Ensuring resilient supply chains for critical minerals was a key agenda item during the Prime Minister's visit to Indonesia.
+
+3.  Indonesia is a founding member of the Association of Southeast Asian Nations (ASEAN) and plays a crucial role in India's 'Act East Policy'.
 
 Which of the statements given above is/are correct?
 
@@ -164,13 +276,67 @@ Which of the statements given above is/are correct?
 
 (d) 1, 2 and 3
 
-**Q10. With reference to the Office of the United States Trade Representative (USTR), consider the following statements:**
+**Q6. With reference to Public Sector Oil Marketing Companies (OMCs) in India, consider the following statements:**
 
-1.  The USTR is a cabinet-level agency responsible for developing and coordinating U.S. international trade policy and negotiating trade agreements.
+1.  Oil Marketing Companies in India traditionally operated under a full deregulation model for petrol and diesel prices until recently.
 
-2.  A USTR probe action against a country typically involves an investigation into trade practices deemed unfair or harmful to U.S. commercial interests.
+2.  Relief from high international crude oil prices is essential for OMCs to achieve a break-even point on petrol and diesel retail rates.
 
-3.  Such USTR probes are exclusively conducted under the formal dispute settlement mechanisms of the World Trade Organization (WTO).
+3.  The government historically issued 'oil bonds' to OMCs to compensate them for selling fuel below market prices.
+
+Which of the statements given above is/are correct?
+
+(a) 1 and 2 only
+
+(b) 2 and 3 only
+
+(c) 1 and 3 only
+
+(d) 1, 2 and 3
+
+**Q7. Consider the following statements about worker welfare and international maritime standards:**
+
+1.  The mandatory yoga training for Indian seafarers is an initiative aligned with international conventions promoting mental and physical wellness for maritime workers.
+
+2.  The International Labour Organization's Maritime Labour Convention (MLC) 2006, often known as the 'Seafarers' Bill of Rights', covers aspects of seafarers' working and living conditions.
+
+3.  The wellness program for seafarers is exclusively focused on physical health, neglecting mental health aspects.
+
+Which of the statements given above is/are correct?
+
+(a) 1 and 2 only
+
+(b) 2 only
+
+(c) 1 and 3 only
+
+(d) 1, 2 and 3
+
+**Q8. Consider the following statements concerning new rural employment schemes in India:**
+
+1.  A newly launched rural employment scheme prioritizes water security initiatives as a core component of its work.
+
+2.  Unlike the Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA), the new scheme focuses solely on asset creation and does not involve demand-driven wage employment.
+
+3.  Such schemes contribute to local climate resilience by promoting decentralized water conservation efforts.
+
+Which of the statements given above is/are correct?
+
+(a) 1 only
+
+(b) 1 and 2 only
+
+(c) 1 and 3 only
+
+(d) 2 and 3 only
+
+**Q9. Regarding India's diplomatic responses and territorial integrity, consider the following statements:**
+
+1.  An Indian diplomat lodged a protest at a seminar in Dhaka over the erroneous depiction of Jammu & Kashmir on a map.
+
+2.  Such diplomatic protests are primarily aimed at upholding India's sovereignty and territorial integrity under international law.
+
+3.  India considers Jammu & Kashmir as an integral part of its territory, a position consistently reiterated in its foreign policy.
 
 Which of the statements given above is/are correct?
 
@@ -182,31 +348,13 @@ Which of the statements given above is/are correct?
 
 (d) 1, 2 and 3
 
-**Q11. Consider the following statements regarding Digital Public Infrastructure (DPI) and India's digital blueprint:**
+**Q10. With reference to India's capital markets and regulatory bodies, consider the following statements:**
 
-1.  Digital Public Infrastructure (DPI) refers to shared digital systems, such as identity, payments, and data exchange, that are essential for the functioning of societies.
+1.  An Initial Public Offering (IPO) is a process through which private companies offer shares to the public for the first time, primarily to raise capital.
 
-2.  India's digital blueprint, exemplified by platforms like UPI and Aadhaar, has primarily focused on extending financial inclusion to urban populations.
+2.  The Securities and Exchange Board of India (SEBI) is the statutory regulatory body responsible for approving IPO applications in India.
 
-3.  The increasing interest of other nations, such as Indonesia, in adopting India's digital blueprint highlights its potential for fostering cross-border digital economy and services.
-
-Which of the statements given above is/are correct?
-
-(a) 1 only
-
-(b) 1 and 2 only
-
-(c) 1 and 3 only
-
-(d) 1, 2 and 3
-
-**Q12. With reference to India's maternal health initiatives, consider the following statements:**
-
-1.  Efforts in maternal health aim to reduce the Maternal Mortality Ratio (MMR) and improve overall health outcomes for pregnant women and newborns.
-
-2.  The identification of a "missing link" and policy gaps suggests that existing interventions are already comprehensively addressing all aspects of maternal care.
-
-3.  Government programs such as Janani Shishu Suraksha Karyakram are instrumental in enhancing access to maternal and child health services across the country.
+3.  An IPO valued at ₹8,000 crore would typically be considered a small-cap offering in the Indian equity market.
 
 Which of the statements given above is/are correct?
 
@@ -214,6 +362,6 @@ Which of the statements given above is/are correct?
 
 (b) 1 and 2 only
 
-(c) 1 and 3 only
+(c) 2 and 3 only
 
 (d) 1, 2 and 3
