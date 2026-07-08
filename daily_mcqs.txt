@@ -2,366 +2,182 @@
 MCQs
 ━━━━━━━━━━━━━━━
 
-**Q1. Consider the following statements regarding the Ethanol Blending Programme (EBP) in India:**
+**Q1. Consider the following statements regarding the performance of the Indian Rupee:**
 
-1.  The E20 fuel, which contains 20% ethanol, is primarily intended for vehicles designed to run on E10 fuel without any modifications.
+1.  A strengthening Rupee generally indicates an increase in the cost of imports for India.
 
-2.  A key objective of the Ethanol Blending Programme is to enhance India's energy security by reducing dependence on crude oil imports.
+2.  Increased Foreign Institutional Investor (FII) inflows typically lead to an appreciation of the domestic currency.
 
-3.  The use of E20 fuel in older vehicles designed for E10 or lower blends may lead to material degradation, particularly of rubber components.
+3.  Lower global crude oil prices can reduce India's import bill, thereby supporting the strengthening of the Rupee.
 
-Which of the statements given above is/are correct?
+4.  The Reserve Bank of India primarily intervenes in the foreign exchange market to target a specific exchange rate level rather than to manage volatility.
 
-(a) 1 and 2 only
-
-(b) 2 and 3 only
-
-(c) 1 and 3 only
-
-(d) 1, 2 and 3
-
-**Q2. With reference to the recent increase in non-petrol/diesel vehicle sales and energy imports, consider the following statements:**
-
-1.  The combined sales share of Compressed Natural Gas (CNG) and Electric Vehicles (EVs) recently reached a record 40% in the Indian market.
-
-2.  A significant rise in domestic LPG demand, leading to increased imports, can potentially improve India's Current Account Deficit.
-
-3.  The doubling of LPG imports from the United States indicates a strategic diversification of India's energy import basket.
+5.  A strong Rupee makes Indian exports less competitive in the international market.
 
 Which of the statements given above is/are correct?
+(a) 1, 2 and 4 only
+(b) 2, 3 and 5 only
+(c) 1, 3 and 5 only
+(d) 2, 4 and 5 only
 
-(a) 1 only
+**Q2. Consider the following statements regarding Foreign Direct Investment (FDI) in India:**
 
-(b) 1 and 2 only
+1.  FDI typically involves equity ownership and active management control in a foreign enterprise.
 
-(c) 1 and 3 only
+2.  An increase in FDI inflows contributes to a country's current account surplus by directly boosting exports.
 
-(d) 2 and 3 only
+3.  FDI is generally considered less volatile than Foreign Portfolio Investment (FPI) due to its long-term nature.
 
-**Q3. Consider the following statements with respect to India's regulatory framework for digital platforms:**
+4.  Government policies aimed at improving ease of doing business and infrastructure development can significantly attract FDI.
 
-1.  The government's recent notice to WhatsApp regarding its username policy falls under the purview of the Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021.
-
-2.  Under these rules, social media intermediaries are typically given a minimum of seven days to respond to government notices concerning policy violations.
-
-3.  The primary objective of such governmental interventions is to ensure data localization and prevent cross-border data flows.
-
-Which of the statements given above is/are correct?
-
-(a) 1 only
-
-(b) 1 and 3 only
-
-(c) 2 and 3 only
-
-(d) 1, 2 and 3
-
-**Q4. With reference to the Waqf Boards in India, consider the following statements:**
-
-1.  Waqf Boards are statutory bodies established under the provisions of the Waqf Act.
-
-2.  The recent reconstitution of the Madhya Pradesh Waqf Board mandates the inclusion of members from non-Islamic faiths.
-
-3.  The administration of Waqf properties is entirely governed by the customs and personal laws of the Muslim community, without any state oversight.
+5.  As per recent trends, India's FDI inflows in 2025 are projected to be lower than the previous year due to global economic slowdown.
 
 Which of the statements given above is/are correct?
+(a) 1, 2 and 5 only
+(b) 2, 3 and 4 only
+(c) 1, 3 and 4 only
+(d) 3, 4 and 5 only
 
-(a) 1 only
+**Q3. With reference to India's strategic focus on critical minerals and semiconductor chips, consider the following statements:**
 
-(b) 1 and 2 only
+1.  Rare Earth Elements (REEs) are a group of 17 metallic elements crucial for advanced technologies and defence applications.
 
-(c) 2 and 3 only
+2.  India currently possesses large commercially viable reserves of all major critical minerals required for domestic semiconductor manufacturing.
 
-(d) 1, 2 and 3
+3.  Partnerships with technologically advanced nations are key to developing a robust domestic semiconductor ecosystem.
 
-**Q5. Consider the following statements regarding India's engagements with Southeast Asian nations:**
+4.  The primary purpose of focusing on critical minerals is to ensure self-reliance in food security.
 
-1.  Prime Minister Modi's recent visit to Indonesia specifically focused on enhancing bilateral cooperation in defence.
-
-2.  Ensuring resilient supply chains for critical minerals was a key agenda item during the Prime Minister's visit to Indonesia.
-
-3.  Indonesia is a founding member of the Association of Southeast Asian Nations (ASEAN) and plays a crucial role in India's 'Act East Policy'.
-
-Which of the statements given above is/are correct?
-
-(a) 1 only
-
-(b) 2 only
-
-(c) 1 and 2 only
-
-(d) 1, 2 and 3
-
-**Q6. With reference to Public Sector Oil Marketing Companies (OMCs) in India, consider the following statements:**
-
-1.  Oil Marketing Companies in India traditionally operated under a full deregulation model for petrol and diesel prices until recently.
-
-2.  Relief from high international crude oil prices is essential for OMCs to achieve a break-even point on petrol and diesel retail rates.
-
-3.  The government historically issued 'oil bonds' to OMCs to compensate them for selling fuel below market prices.
+5.  Lithium, often referred to as 'white gold', is considered a critical mineral essential for electric vehicle batteries.
 
 Which of the statements given above is/are correct?
+(a) 1, 2 and 4 only
+(b) 1, 3 and 5 only
+(c) 2, 3 and 5 only
+(d) 1, 4 and 5 only
 
-(a) 1 and 2 only
+**Q4. Consider the following statements regarding trade disputes and the US Section 301 of the Trade Act of 1974:**
 
-(b) 2 and 3 only
+1.  Section 301 allows the United States Trade Representative (USTR) to investigate and take action against foreign trade practices deemed unfair or discriminatory.
 
-(c) 1 and 3 only
+2.  Actions taken under Section 301 are typically subject to prior approval by the World Trade Organization (WTO) dispute settlement body.
 
-(d) 1, 2 and 3
+3.  A 'forced labour' probe primarily aims to assess environmental standards in the exporting country.
 
-**Q7. Consider the following statements about worker welfare and international maritime standards:**
+4.  The imposition of tariffs under Section 301 can lead to retaliatory measures from affected countries, escalating trade tensions.
 
-1.  The mandatory yoga training for Indian seafarers is an initiative aligned with international conventions promoting mental and physical wellness for maritime workers.
-
-2.  The International Labour Organization's Maritime Labour Convention (MLC) 2006, often known as the 'Seafarers' Bill of Rights', covers aspects of seafarers' working and living conditions.
-
-3.  The wellness program for seafarers is exclusively focused on physical health, neglecting mental health aspects.
-
-Which of the statements given above is/are correct?
-
-(a) 1 and 2 only
-
-(b) 2 only
-
-(c) 1 and 3 only
-
-(d) 1, 2 and 3
-
-**Q8. Consider the following statements concerning new rural employment schemes in India:**
-
-1.  A newly launched rural employment scheme prioritizes water security initiatives as a core component of its work.
-
-2.  Unlike the Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA), the new scheme focuses solely on asset creation and does not involve demand-driven wage employment.
-
-3.  Such schemes contribute to local climate resilience by promoting decentralized water conservation efforts.
+5.  India's recent tariff proposal against the US indicates a shift towards a protectionist trade policy by India.
 
 Which of the statements given above is/are correct?
+(a) 1 and 4 only
+(b) 2, 3 and 5 only
+(c) 1, 2 and 4 only
+(d) 3, 4 and 5 only
 
-(a) 1 only
+**Q5. With reference to policing and judicial principles in India, consider the following statements:**
 
-(b) 1 and 2 only
+1.  Integrity and accountability are foundational pillars for effective and trustworthy policing in a democratic society.
 
-(c) 1 and 3 only
+2.  The use of advanced technology in policing, such as AI-powered surveillance, is always permissible without any privacy concerns.
 
-(d) 2 and 3 only
+3.  A High Court ruling stated that a conviction for rash and negligent driving under the Indian Penal Code cannot be automatically set aside solely based on a monetary settlement between the parties.
 
-**Q9. Regarding India's diplomatic responses and territorial integrity, consider the following statements:**
+4.  Police reforms in India primarily focus on centralizing control over state police forces for better coordination.
 
-1.  An Indian diplomat lodged a protest at a seminar in Dhaka over the erroneous depiction of Jammu & Kashmir on a map.
-
-2.  Such diplomatic protests are primarily aimed at upholding India's sovereignty and territorial integrity under international law.
-
-3.  India considers Jammu & Kashmir as an integral part of its territory, a position consistently reiterated in its foreign policy.
-
-Which of the statements given above is/are correct?
-
-(a) 1 only
-
-(b) 2 only
-
-(c) 1 and 2 only
-
-(d) 1, 2 and 3
-
-**Q10. With reference to India's capital markets and regulatory bodies, consider the following statements:**
-
-1.  An Initial Public Offering (IPO) is a process through which private companies offer shares to the public for the first time, primarily to raise capital.
-
-2.  The Securities and Exchange Board of India (SEBI) is the statutory regulatory body responsible for approving IPO applications in India.
-
-3.  An IPO valued at ₹8,000 crore would typically be considered a small-cap offering in the Indian equity market.
+5.  In criminal proceedings, a compromise settlement between the victim and the accused automatically leads to the acquittal of the accused for all types of offenses.
 
 Which of the statements given above is/are correct?
+(a) 1 and 3 only
+(b) 2, 4 and 5 only
+(c) 1, 3 and 4 only
+(d) 2, 3 and 5 only
 
-(a) 1 only
+**Q6. Consider the following statements regarding India's power sector and environmental factors:**
 
-(b) 1 and 2 only
+1.  El Niño events typically lead to warmer ocean temperatures in the eastern equatorial Pacific, influencing global weather patterns.
 
-(c) 2 and 3 only
+2.  A significant drop in hydropower generation, such as due to El Niño, primarily increases India's reliance on solar energy to meet power demand.
 
-(d) 1, 2 and 3
+3.  Hydropower is classified as a non-renewable energy source due to its dependence on natural water cycles.
 
-━━━━━━━━━━━━━━━
-MCQs
-━━━━━━━━━━━━━━━
+4.  The impact of El Niño on monsoon rainfall in India can directly affect the water availability for hydroelectric power plants.
 
-**Q1. Consider the following statements regarding the Ethanol Blending Programme (EBP) in India:**
-
-1.  The E20 fuel, which contains 20% ethanol, is primarily intended for vehicles designed to run on E10 fuel without any modifications.
-
-2.  A key objective of the Ethanol Blending Programme is to enhance India's energy security by reducing dependence on crude oil imports.
-
-3.  The use of E20 fuel in older vehicles designed for E10 or lower blends may lead to material degradation, particularly of rubber components.
+5.  Fluctuations in power generation from renewable sources like hydro can put pressure on the national power grid's stability.
 
 Which of the statements given above is/are correct?
+(a) 1, 2 and 3 only
+(b) 1, 4 and 5 only
+(c) 2, 3 and 4 only
+(d) 3, 4 and 5 only
 
-(a) 1 and 2 only
+**Q7. With reference to the Strait of Hormuz, which recently saw a maritime incident, consider the following statements:**
 
-(b) 2 and 3 only
+1.  The Strait of Hormuz is a critical maritime chokepoint connecting the Persian Gulf to the Arabian Sea.
 
-(c) 1 and 3 only
+2.  A significant portion of the world's liquefied natural gas (LNG) and crude oil transits through this Strait.
 
-(d) 1, 2 and 3
+3.  India's energy security is largely unaffected by disruptions in the Strait of Hormuz due to diversified import routes.
 
-**Q2. With reference to the recent increase in non-petrol/diesel vehicle sales and energy imports, consider the following statements:**
+4.  The incident involving a Qatari LNG vessel highlights the increasing risk to maritime navigation in the region due to geopolitical tensions.
 
-1.  The combined sales share of Compressed Natural Gas (CNG) and Electric Vehicles (EVs) recently reached a record 40% in the Indian market.
-
-2.  A significant rise in domestic LPG demand, leading to increased imports, can potentially improve India's Current Account Deficit.
-
-3.  The doubling of LPG imports from the United States indicates a strategic diversification of India's energy import basket.
-
-Which of the statements given above is/are correct?
-
-(a) 1 only
-
-(b) 1 and 2 only
-
-(c) 1 and 3 only
-
-(d) 2 and 3 only
-
-**Q3. Consider the following statements with respect to India's regulatory framework for digital platforms:**
-
-1.  The government's recent notice to WhatsApp regarding its username policy falls under the purview of the Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021.
-
-2.  Under these rules, social media intermediaries are typically given a minimum of seven days to respond to government notices concerning policy violations.
-
-3.  The primary objective of such governmental interventions is to ensure data localization and prevent cross-border data flows.
+5.  Only warships are allowed free passage through the Strait of Hormuz under international maritime law.
 
 Which of the statements given above is/are correct?
+(a) 1, 2 and 4 only
+(b) 1, 3 and 5 only
+(c) 2, 3 and 4 only
+(d) 3, 4 and 5 only
 
-(a) 1 only
+**Q8. Consider the following statements regarding India-Indonesia bilateral relations and regional cooperation:**
 
-(b) 1 and 3 only
+1.  Indonesia is a key partner for India's 'Act East Policy' given its strategic location and economic importance in Southeast Asia.
 
-(c) 2 and 3 only
+2.  Both India and Indonesia are strong proponents of comprehensive reforms within the United Nations Security Council (UNSC).
 
-(d) 1, 2 and 3
+3.  Cooperation in artificial intelligence (AI) and port infrastructure development are emerging areas of bilateral partnership between the two nations.
 
-**Q4. With reference to the Waqf Boards in India, consider the following statements:**
+4.  India's engagement with Indonesia primarily focuses on cultural exchanges, with limited emphasis on defence cooperation.
 
-1.  Waqf Boards are statutory bodies established under the provisions of the Waqf Act.
-
-2.  The recent reconstitution of the Madhya Pradesh Waqf Board mandates the inclusion of members from non-Islamic faiths.
-
-3.  The administration of Waqf properties is entirely governed by the customs and personal laws of the Muslim community, without any state oversight.
-
-Which of the statements given above is/are correct?
-
-(a) 1 only
-
-(b) 1 and 2 only
-
-(c) 2 and 3 only
-
-(d) 1, 2 and 3
-
-**Q5. Consider the following statements regarding India's engagements with Southeast Asian nations:**
-
-1.  Prime Minister Modi's recent visit to Indonesia specifically focused on enhancing bilateral cooperation in defence.
-
-2.  Ensuring resilient supply chains for critical minerals was a key agenda item during the Prime Minister's visit to Indonesia.
-
-3.  Indonesia is a founding member of the Association of Southeast Asian Nations (ASEAN) and plays a crucial role in India's 'Act East Policy'.
+5.  The 'Indo-Pacific Oceans Initiative' (IPOI) was launched by Indonesia to promote maritime security in the region.
 
 Which of the statements given above is/are correct?
+(a) 1, 2 and 3 only
+(b) 2, 3 and 5 only
+(c) 1, 4 and 5 only
+(d) 3, 4 and 5 only
 
-(a) 1 only
+**Q9. With reference to Non-Banking Financial Companies (NBFCs) in India, consider the following statements:**
 
-(b) 2 only
+1.  NBFCs can accept demand deposits from the public, similar to commercial banks.
 
-(c) 1 and 2 only
+2.  NBFCs are regulated by the Reserve Bank of India (RBI) and are integral to India's financial system.
 
-(d) 1, 2 and 3
+3.  Unlike banks, NBFCs are not part of the payment and settlement system.
 
-**Q6. With reference to Public Sector Oil Marketing Companies (OMCs) in India, consider the following statements:**
+4.  A significant growth in NBFC loans indicates a potential shift in credit disbursement patterns within the economy.
 
-1.  Oil Marketing Companies in India traditionally operated under a full deregulation model for petrol and diesel prices until recently.
-
-2.  Relief from high international crude oil prices is essential for OMCs to achieve a break-even point on petrol and diesel retail rates.
-
-3.  The government historically issued 'oil bonds' to OMCs to compensate them for selling fuel below market prices.
-
-Which of the statements given above is/are correct?
-
-(a) 1 and 2 only
-
-(b) 2 and 3 only
-
-(c) 1 and 3 only
-
-(d) 1, 2 and 3
-
-**Q7. Consider the following statements about worker welfare and international maritime standards:**
-
-1.  The mandatory yoga training for Indian seafarers is an initiative aligned with international conventions promoting mental and physical wellness for maritime workers.
-
-2.  The International Labour Organization's Maritime Labour Convention (MLC) 2006, often known as the 'Seafarers' Bill of Rights', covers aspects of seafarers' working and living conditions.
-
-3.  The wellness program for seafarers is exclusively focused on physical health, neglecting mental health aspects.
+5.  Deposit insurance facility extended by the Deposit Insurance and Credit Guarantee Corporation (DICGC) is available to depositors of all NBFCs.
 
 Which of the statements given above is/are correct?
+(a) 1, 2 and 3 only
+(b) 2, 3 and 4 only
+(c) 1, 4 and 5 only
+(d) 3, 4 and 5 only
 
-(a) 1 and 2 only
+**Q10. Consider the following statements regarding reforms in India's higher education sector:**
 
-(b) 2 only
+1.  A research-informed curriculum aims to integrate recent advancements and research findings directly into teaching methodologies.
 
-(c) 1 and 3 only
+2.  The National Education Policy (NEP) 2020 emphasizes a multidisciplinary approach and flexibility in course choices for higher education.
 
-(d) 1, 2 and 3
+3.  Enhancing research output in higher education institutions is crucial for fostering innovation and economic growth.
 
-**Q8. Consider the following statements concerning new rural employment schemes in India:**
+4.  The primary challenge in implementing higher education reforms is securing adequate funding from international organizations.
 
-1.  A newly launched rural employment scheme prioritizes water security initiatives as a core component of its work.
-
-2.  Unlike the Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA), the new scheme focuses solely on asset creation and does not involve demand-driven wage employment.
-
-3.  Such schemes contribute to local climate resilience by promoting decentralized water conservation efforts.
-
-Which of the statements given above is/are correct?
-
-(a) 1 only
-
-(b) 1 and 2 only
-
-(c) 1 and 3 only
-
-(d) 2 and 3 only
-
-**Q9. Regarding India's diplomatic responses and territorial integrity, consider the following statements:**
-
-1.  An Indian diplomat lodged a protest at a seminar in Dhaka over the erroneous depiction of Jammu & Kashmir on a map.
-
-2.  Such diplomatic protests are primarily aimed at upholding India's sovereignty and territorial integrity under international law.
-
-3.  India considers Jammu & Kashmir as an integral part of its territory, a position consistently reiterated in its foreign policy.
+5.  Accreditation bodies in India ensure that higher education institutions adhere to specific quality and academic standards.
 
 Which of the statements given above is/are correct?
-
-(a) 1 only
-
-(b) 2 only
-
-(c) 1 and 2 only
-
-(d) 1, 2 and 3
-
-**Q10. With reference to India's capital markets and regulatory bodies, consider the following statements:**
-
-1.  An Initial Public Offering (IPO) is a process through which private companies offer shares to the public for the first time, primarily to raise capital.
-
-2.  The Securities and Exchange Board of India (SEBI) is the statutory regulatory body responsible for approving IPO applications in India.
-
-3.  An IPO valued at ₹8,000 crore would typically be considered a small-cap offering in the Indian equity market.
-
-Which of the statements given above is/are correct?
-
-(a) 1 only
-
-(b) 1 and 2 only
-
-(c) 2 and 3 only
-
-(d) 1, 2 and 3
+(a) 1, 2, 3 and 5 only
+(b) 2, 3, 4 and 5 only
+(c) 1, 2, 4 and 5 only
+(d) 1, 3, 4 and 5 only
